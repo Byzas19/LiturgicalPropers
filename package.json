@@ -6,17 +6,40 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "pipeline": "ts-node --project scripts/tsconfig.json scripts/pipeline.ts",
+    "bootstrap": "ts-node --project scripts/tsconfig.json scripts/bootstrap.ts",
+    "bundle-propers": "ts-node --project scripts/tsconfig.json scripts/bundle-propers.ts"
   },
   "dependencies": {
-    "expo": "~55.0.8",
-    "expo-status-bar": "~55.0.4",
-    "react": "19.2.0",
-    "react-native": "0.83.2"
+    "@expo-google-fonts/noto-sans": "^0.4.2",
+    "@expo-google-fonts/noto-serif": "^0.4.2",
+    "@expo/metro-runtime": "~6.1.2",
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-navigation/bottom-tabs": "^7.0.0",
+    "@react-navigation/native": "^7.0.0",
+    "@react-navigation/native-stack": "^7.0.0",
+    "expo": "~54.0.9",
+    "expo-font": "~13.3.1",
+    "expo-splash-screen": "~0.30.10",
+    "expo-status-bar": "~2.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "0.76.9",
+    "react-native-gesture-handler": "~2.20.2",
+    "react-native-paper": "^5.15.0",
+    "react-native-safe-area-context": "~4.12.0",
+    "react-native-screens": "~4.4.0",
+    "react-native-web": "^0.21.0"
   },
   "devDependencies": {
-    "@types/react": "~19.2.2",
-    "typescript": "~5.9.2"
+    "@types/node": "^25.5.0",
+    "@types/pdf-parse": "^1.1.5",
+    "@types/react": "~18.3.0",
+    "pdf-parse": "^1.1.1",
+    "playwright": "^1.58.2",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.8.0"
   },
   "private": true
 }

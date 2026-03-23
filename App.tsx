@@ -1,20 +1,54 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { useCallback, useEffect, useState } from 'react';
+import { View } from 'react-native';
+import * as SplashScreen from 'expo-splash-screen';
+import * as Font from 'expo-font';
+import {
+  NotoSerif_400Regular,
+  NotoSerif_700Bold,
+} from '@expo-google-fonts/noto-serif';
+import {
+  NotoSans_400Regular,
+  NotoSans_700Bold,
+} from '@expo-google-fonts/noto-sans';
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
+import { ThemeProvider } from './src/theme/ThemeContext';
+import { AppNavigator } from './src/navigation/AppNavigator';
+
+SplashScreen.preventAutoHideAsync();
 
 export default function App() {
+  const [fontsLoaded, setFontsLoaded] = useState(false);
+
+  useEffect(() => {
+    (async () => {
+      try {
+        await Font.loadAsync({
+          NotoSerif_400Regular,
+          NotoSerif_700Bold,
+          NotoSans_400Regular,
+          NotoSans_700Bold,
+        });
+      } catch (e) {
+        console.warn('Font loading error:', e);
+      } finally {
+        setFontsLoaded(true);
+      }
+    })();
+  }, []);
+
+  const onLayoutRootView = useCallback(async () => {
+    if (fontsLoaded) {
+      await SplashScreen.hideAsync();
+    }
+  }, [fontsLoaded]);
+
+  if (!fontsLoaded) return null;
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <GestureHandlerRootView style={{ flex: 1 }} onLayout={onLayoutRootView}>
+      <ThemeProvider>
+        <AppNavigator />
+      </ThemeProvider>
+    </GestureHandlerRootView>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
