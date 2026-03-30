@@ -12,11 +12,11 @@ import {
 // Set USE_SAMPLE_DATA to false and fill in GITHUB_OWNER / GITHUB_REPO
 // once you have real data committed to the repo.
 
-const USE_SAMPLE_DATA = true;
+const USE_SAMPLE_DATA = false;
 
-const GITHUB_OWNER = 'YOUR_GITHUB_USERNAME';
-const GITHUB_REPO = 'YOUR_REPO_NAME';
-const GITHUB_BRANCH = 'main';
+const GITHUB_OWNER = 'Byzas19';
+const GITHUB_REPO = 'LiturgicalPropers';
+const GITHUB_BRANCH = 'master';
 
 const RAW_BASE = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data`;
 

@@ -1,14 +1,29 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { LiturgicalProper, PropersListItem } from '../data/types';
 
+// Increment this whenever the data source changes (e.g. sample → live)
+// to automatically wipe stale cached data on next app launch.
+const CACHE_VERSION = 2;
+
 const PROPER_KEY = (date: string) => `@proper_${date}`;
 const LIST_KEY = '@propers_list';
 const CACHE_META_KEY = '@cache_meta';
+const CACHE_VERSION_KEY = '@cache_version';
 
 interface CacheMeta {
   lastFetched: string;
   version: number;
 }
+
+export const initCache = async (): Promise<void> => {
+  try {
+    const stored = await AsyncStorage.getItem(CACHE_VERSION_KEY);
+    if (stored !== String(CACHE_VERSION)) {
+      await clearAllCache();
+      await AsyncStorage.setItem(CACHE_VERSION_KEY, String(CACHE_VERSION));
+    }
+  } catch {}
+};
 
 export const cacheProper = async (proper: LiturgicalProper): Promise<void> => {
   try {

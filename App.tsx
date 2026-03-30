@@ -13,6 +13,7 @@ import {
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { ThemeProvider } from './src/theme/ThemeContext';
 import { AppNavigator } from './src/navigation/AppNavigator';
+import { initCache } from './src/utils/cache';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -22,14 +23,17 @@ export default function App() {
   useEffect(() => {
     (async () => {
       try {
-        await Font.loadAsync({
-          NotoSerif_400Regular,
-          NotoSerif_700Bold,
-          NotoSans_400Regular,
-          NotoSans_700Bold,
-        });
+        await Promise.all([
+          initCache(),
+          Font.loadAsync({
+            NotoSerif_400Regular,
+            NotoSerif_700Bold,
+            NotoSans_400Regular,
+            NotoSans_700Bold,
+          }),
+        ]);
       } catch (e) {
-        console.warn('Font loading error:', e);
+        console.warn('Startup error:', e);
       } finally {
         setFontsLoaded(true);
       }
