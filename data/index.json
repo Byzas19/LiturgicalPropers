@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T03:07:26.057Z",
+  "lastUpdated": "2026-03-30T03:17:51.389Z",
   "sundays": [
     {
       "date": "2017-06-03",
@@ -1810,24 +1810,1848 @@
       "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
     },
     {
+      "date": "unknown-April-2003-202022-20--20FIFTH-20SUNDAY-2",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-April-201-202018-20--20THE-20RESURRECTIO",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-April-2010-202022-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-April-2011-202021-20--20SUNDAY-20OF-20ST",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-2012-202020-20--20THE-20RESURRECTI",
+      "title": "4/12/20"
+    },
+    {
+      "date": "unknown-April-2012-202026-20--20SUNDAY-20OF-20ST",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-2013-202025-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-April-2014-202019-20--20PALM-20SUNDAY-1",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-April-2014-202024-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-April-2015-202018-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-April-2016-202023-20--20SUNDAY-20OF-20ST",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-2017-202022-20--20THE-20RESURRECTI",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-April-2018-202021-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-April-2019-202020-20--20SUNDAY-20OF-20ST",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-2019-202026-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-April-202-202023-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-April-2020-202025-20--20THE-20RESURRECTI",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-April-2021-202019-20--20THE-20RESURRECTI",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-April-2021-202024-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-April-2022-202018-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-April-2023-202023-20--20SUNDAY-20OF-20TH",
+      "title": "4/23/23"
+    },
+    {
+      "date": "unknown-April-2024-202022-20--20SUNDAY-20OF-20ST",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-2025-202021-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-April-2026-202020-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-April-2026-202026-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-April-2027-202025-20--20SUNDAY-20OF-20ST",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-2028-202019-20--20SUNDAY-20OF-20ST",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-2028-202024-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-April-2029-202018-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-April-2030-202023-20--20SUNDAY-20OF-20TH",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-April-204-202021-20--20THE-20RESURRECTIO",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-April-205-202020-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-April-205-202026-20--20THE-20RESURRECTIO",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-April-206-202025-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-April-207-202019-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-April-207-202024-20--20SUNDAY-20OF-20ST-",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-208-202018-20--20SUNDAY-20OF-20ST-",
+      "title": "SUNDAY OF ST. THOMAS"
+    },
+    {
+      "date": "unknown-April-209-202023-20--20THE-20RESURRECTIO",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-August-2004-202024-20--20ELEVENTH-20SUND",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-201-202021-20--20TENTH-20SUNDAY-2",
+      "title": "TENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2010-202025-20--20NINTH-20SUNDAY-",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2011-202019-20--20NINTH-20SUNDAY-",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2011-202024-20--20TWELFTH-20SUNDA",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2012-202018-20--20TWELFTH-20SUNDA",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2013-202023-20--20ELEVENTH-20SUND",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2014-202022-20--20TENTH-20SUNDAY-",
+      "title": "TENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2015-202019-20--20DORMITION-20OF-",
+      "title": "DORMITION OF THE MOTHER OF GOD"
+    },
+    {
+      "date": "unknown-August-2015-202021-20--20TWELFTH-20SUNDA",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2015-202024-20--20DORMITION-20OF-",
+      "title": "DORMITION OF THE MOTHER OF GOD"
+    },
+    {
+      "date": "unknown-August-2015-202025-20--20DORMITION-20OF-",
+      "title": "DORMITION OF THE MOTHER OF GOD"
+    },
+    {
+      "date": "unknown-August-2016-202020-20--20ELEVENTH-20SUND",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2017-202025-20--20TENTH-20SUNDAY-",
+      "title": "TENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2018-202019-20--20TENTH-20SUNDAY-",
+      "title": "TENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2018-202024-20--20THIRTEENTH-20SU",
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2019-202018-20--20THIRTEENTH-20SU",
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-202-202020-20--20NINTH-20SUNDAY-2",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2020-202023-20--20TWELFTH-20SUNDA",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2021-202022-20--20ELEVENTH-20SUND",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2022-202021-20--20THIRTEENTH-20SU",
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2023-202020-20--20TWELFTH-20SUNDA",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2024-202025-20--20ELEVENTH-20SUND",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2025-202019-20--20ELEVENTH-20SUND",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2025-202024-20--20FOURTEENTH-20SU",
+      "title": "FOURTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2026-202018-20--20FOURTEENTH-20SU",
+      "title": "FOURTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2027-202023-20--20THIRTEENTH-20SU",
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2028-202022-20--20TWELFTH-20SUNDA",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2029-202021-20--20FOURTEENTH-20SU",
+      "title": "FOURTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-203-202025-20--20EIGHTH-20SUNDAY-",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2030-202020-20--20THIRTEENTH-20SU",
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-2031-202025-20--20TWELFTH-20SUNDA",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-204-202019-20--20EIGHTH-20SUNDAY-",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-205-202018-20--20ELEVENTH-20SUNDA",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-206-202019-20--20HOLY-20TRANSFIGU",
+      "title": "HOLY TRANSFIGURATION OF OUR LORD"
+    },
+    {
+      "date": "unknown-August-206-202023-20--20HOLY-20TRANSFIGU",
+      "title": "HOLY TRANSFIGURATION OF OUR LORD"
+    },
+    {
+      "date": "unknown-August-206-202024-20--20HOLY-20TRANSFIGU",
+      "title": "HOLY TRANSFIGURATION OF OUR LORD"
+    },
+    {
+      "date": "unknown-August-206-202025-20--20HOLY-20TRANSFIGU",
+      "title": "HOLY TRANSFIGURATION OF OUR LORD"
+    },
+    {
+      "date": "unknown-August-207-202022-20--20NINTH-20SUNDAY-2",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-208-202021-20--20ELEVENTH-20SUNDA",
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-August-209-202020-20--20TENTH-20SUNDAY-2",
+      "title": "TENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-2001-202024-20--20TWENTY-EIGHTH",
+      "title": "TWENTY-EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-2008-202024-20--20TWENTY-NINETH",
+      "title": "TWENTY-NINETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-201-202019-20--20TWENTY-FIFTH-2",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-2010-202023-20--20TWENTY-EIGHTH",
+      "title": "TWENTY-EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-2011-202022-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2012-202021-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2013-202020-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2014-202025-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2015-202019-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2015-202024-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2016-202018-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2017-202023-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+    },
+    {
+      "date": "unknown-December-2018-202022-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS"
+    },
+    {
+      "date": "unknown-December-2019-202021-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS"
+    },
+    {
+      "date": "unknown-December-202-202018-20--20TWENTY-EIGHTH-",
+      "title": "TWENTY-EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-2020-202020-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS"
+    },
+    {
+      "date": "unknown-December-2021-202025-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS"
+    },
+    {
+      "date": "unknown-December-2022-202019-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS (SUNDAY OF THE HOLY FATHERS)"
+    },
+    {
+      "date": "unknown-December-2022-202024-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS"
+    },
+    {
+      "date": "unknown-December-2023-202018-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS"
+    },
+    {
+      "date": "unknown-December-2024-202023-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE CHRISTMAS     -     EVE OF THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-2025-202019-20--20NATIVITY-20OF",
+      "title": "NATIVITY OF OUR LORD GOD AND SAVIOR JESUS CHRIST"
+    },
+    {
+      "date": "unknown-December-2025-202020-20--20NATIVITY-20OF",
+      "title": "NATIVITY OF OUR LORD GOD AND SAVIOR JESUS CHRIST"
+    },
+    {
+      "date": "unknown-December-2025-202021-20--20NATIVITY-20OF",
+      "title": "NATIVITY OF OUR LORD GOD AND SAVIOR JESUS CHRIST"
+    },
+    {
+      "date": "unknown-December-2025-202022-20--20NATIVITY-20OF",
+      "title": "NATIVITY OF OUR LORD GOD AND SAVIOR JESUS CHRIST"
+    },
+    {
+      "date": "unknown-December-2025-202025-20--20NATIVITY-20OF",
+      "title": "NATIVITY OF OUR LORD GOD AND SAVIOR JESUS CHRIST"
+    },
+    {
+      "date": "unknown-December-2026-202021-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-2027-202020-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-2028-202025-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-2029-202019-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-2029-202024-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-203-202023-20--20TWENTY-SEVENTH",
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-2030-202018-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-2031-202023-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+    },
+    {
+      "date": "unknown-December-204-202022-20--20TWENTY-SIXTH-2",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-205-202021-20--20TWENTY-EIGHTH-",
+      "title": "TWENTY-EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-206-202020-20--20TWENTY-SEVENTH",
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-207-202025-20--20TWENTY-SIXTH-2",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-208-202019-20--20TWENTY-SIXTH-2",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-December-209-202018-20--20TWENTY-NINETH-",
+      "title": "TWENTY-NINETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-February-2006-202022-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-February-201-202026-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-February-2010-202019-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-February-2011-202018-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
+      "date": "unknown-February-2012-202023-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-2013-202022-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-February-2014-202021-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
+      "date": "unknown-February-2015-202026-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
+      "date": "unknown-February-2016-202020-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-2016-202025-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-February-2017-202019-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-February-2018-202018-20--20FIRST-20SUNDA",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-February-2019-202023-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
       "date": "unknown-February-202-202020-20--20SUNDAY-20OF-20",
       "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-February-202-202025-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF ZACCHAEUS"
+    },
+    {
+      "date": "unknown-February-2020-202022-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-2021-202021-20--20FIRST-20SUNDA",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-February-2022-202026-20--20FIRST-20SUNDA",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-February-2023-202020-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
+      "date": "unknown-February-2023-202025-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-2024-202019-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-2025-202018-20--20SECOND-20SUND",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-February-2026-202023-20--20FIRST-20SUNDA",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-February-2027-202022-20--20SUNDAY-20OF-2",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
+      "date": "unknown-February-2028-202021-20--20SECOND-20SUND",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-February-203-202019-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF ZACCHAEUS"
+    },
+    {
+      "date": "unknown-February-204-202018-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-205-202023-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-February-207-202021-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-208-202026-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-February-209-202020-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-February-209-202025-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-Febuary-2011-202024-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
+      "date": "unknown-Febuary-2018-202024-20--20FIRST-20SUNDAY",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-Febuary-2025-202024-20--20SECOND-20SUNDA",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-Febuary-204-202024-20--20SUNDAY-20OF-20M",
+      "title": "SUNDAY OF MEATFARE"
+    },
+    {
+      "date": "unknown-January-201-202023-20--20SUNDAY-20BEFORE",
+      "title": "SUNDAY BEFORE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-2010-202021-20--20SUNDAY-20AFTER",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-2011-202026-20--20SUNDAY-20AFTER",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-2012-202020-20-SUNDAY-20AFTER-20",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-2012-202025-20--20SUNDAY-20AFTER",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-2013-202019-20--20SUNDAY-20AFTER",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-2014-202018-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF ZACCHAEUS"
+    },
+    {
+      "date": "unknown-January-2014-202024-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF ZACCHAEUS"
+    },
+    {
+      "date": "unknown-January-2015-202023-20--20THIRTY-SECOND-",
+      "title": "THIRTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2016-202022-20--20THIRTY-FOURTH-",
+      "title": "THIRTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2017-202021-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF ZACCHAEUS"
+    },
+    {
+      "date": "unknown-January-2018-202026-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF ZACCHAEUS"
+    },
+    {
+      "date": "unknown-January-2019-202020-20-THIRTY-SECOND-20S",
+      "title": "THIRTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2019-202025-20--20THIRTYTH-FIFTH",
+      "title": "THIRTYTH-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-202-202022-20--20SUNDAY-20BEFORE",
+      "title": "SUNDAY BEFORE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-2020-202019-20--20THIRTY-FIFTH-2",
+      "title": "THIRTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2021-202018-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-January-2021-202024-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-January-2022-202023-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF ZACCHAEUS"
+    },
+    {
+      "date": "unknown-January-2023-202022-20--20THIRTY-FIFTH-2",
+      "title": "THIRTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2024-202021-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-January-2025-202026-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-January-2026-202020-20-THIRTY-THIRD-20SU",
+      "title": "THIRTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2026-202025-20--20THIRTY-SIXTH-2",
+      "title": "THIRTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2027-202019-20--20THIRTY-SIXTH-2",
+      "title": "THIRTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-January-2028-202018-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-January-2028-202024-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-January-2029-202023-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+    },
+    {
+      "date": "unknown-January-203-202021-20--20SUNDAY-20BEFORE",
+      "title": "SUNDAY BEFORE THEOPHANY"
     },
     {
       "date": "unknown-January-2030-202022-20--20SUNDAY-20OF-20",
       "title": "SUNDAY OF ZACCHAEUS"
     },
     {
+      "date": "unknown-January-2031-202021-20--20SUNDAY-20OF-20",
+      "title": "SUNDAY OF THE PRODIGAL SON"
+    },
+    {
+      "date": "unknown-January-204-202026-20--20SUNDAY-20BEFORE",
+      "title": "SUNDAY BEFORE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-205-202020-20--20EVE-20OF-20THE-",
+      "title": "EVE OF THE THEOPHANY OF OUR LORD"
+    },
+    {
+      "date": "unknown-January-205-202025-20--20SUNDAY-20BEFORE",
+      "title": "SUNDAY BEFORE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-206-202019-20--20THEOPHANY-20OF-",
+      "title": "THEOPHANY OF OUR LORD GOD AND SAVIOR, JESUS CHRIST"
+    },
+    {
+      "date": "unknown-January-206-202020-20-THEOPHANY-20OF-20O",
+      "title": "THEOPHANY OF OUR LORD GOD AND SAVIOR, JESUS CHRIST"
+    },
+    {
+      "date": "unknown-January-206-202021-20--20THEOPHANY-20OF-",
+      "title": "THEOPHANY OF OUR LORD GOD AND SAVIOR, JESUS CHRIST"
+    },
+    {
+      "date": "unknown-January-206-202022-20--20THEOPHANY-20OF-",
+      "title": "THEOPHANY OF OUR LORD GOD AND SAVIOR, JESUS CHRIST"
+    },
+    {
+      "date": "unknown-January-206-202025-20--20THEOPHANY-20OF-",
+      "title": "THEOPHANY OF OUR LORD GOD AND SAVIOR, JESUS CHRIST"
+    },
+    {
+      "date": "unknown-January-207-202018-20--20SUNDAY-20AFTER-",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-207-202024-20--20SUNDAY-20AFTER-",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-208-202023-20--20SUNDAY-20AFTER-",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-January-209-202022-20--20SUNDAY-20AFTER-",
+      "title": "SUNDAY AFTER THE THEOPHANY"
+    },
+    {
+      "date": "unknown-July-2007-202019-20--20FOURTH-20SUNDAY-2",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2007-202024-20--20SEVENTH-20SUNDAY-",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-201-202018-20--20SIXTH-20SUNDAY-20A",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2010-202022-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2011-202021-20--20SEVENTH-20SUNDAY-",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2012-202020-20--20SIXTH-20SUNDAY-20",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2013-202025-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2014-202019-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2014-202024-20--20EIGHTH-20SUNDAY-2",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2015-202018-20--20EIGHTH-20SUNDAY-2",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2016-202023-20--20SEVENTH-20SUNDAY-",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2017-202022-20--20SIXTH-20SUNDAY-20",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2018-202021-20--20EIGHTH-20SUNDAY-2",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2019-202020-20--20SEVENTH-20SUNDAY-",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-202-202023-20--20FIFTH-20SUNDAY-20A",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2020-202025-20--20SIXTH-20SUNDAY-20",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2021-202019-20--20SIXTH-20SUNDAY-20",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2021-202024-20--20NINTH-20SUNDAY-20",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2022-202018-20--20NINTH-20SUNDAY-20",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2023-202023-20--20EIGHTH-20SUNDAY-2",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2024-202022-20--20SEVENTH-20SUNDAY-",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2025-202021-20--20NINTH-20SUNDAY-20",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2026-202020-20--20EIGHTH-20SUNDAY-2",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2027-202025-20--20SEVENTH-20SUNDAY-",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2028-202019-20--20SEVENTH-20SUNDAY-",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2028-202024-20--20TENTH-20SUNDAY-20",
+      "title": "TENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2029-202018-20--20TENTH-20SUNDAY-20",
+      "title": "TENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-203-202022-20--20FOURTH-20SUNDAY-20",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2030-202023-20--20NINTH-20SUNDAY-20",
+      "title": "NINTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-2031-202022-20--20EIGHTH-20SUNDAY-2",
+      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-204-202021-20--20SIXTH-20SUNDAY-20A",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-205-202020-20--20FIFTH-20SUNDAY-20A",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-206-202025-20--20FOURTH-20SUNDAY-20",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-208-202018-20--20SEVENTH-20SUNDAY-2",
+      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-July-209-202023-20--20SIXTH-20SUNDAY-20A",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-201-202025-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-June-2010-202018-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2011-202023-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2012-202022-20--20FIRST-20SUNDAY-20",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2013-202021-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2014-202020-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2015-202025-20--20FIRST-20SUNDAY-20",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2016-202019-20--20FIRST-20SUNDAY-20",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2016-202024-20--20FOURTH-20SUNDAY-2",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2017-202018-20--20FOURTH-20SUNDAY-2",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2018-202023-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2019-202022-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-202-202019-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-June-202-202024-20--20SECOND-20SUNDAY-20",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2020-202021-20--20FOURTH-20SUNDAY-2",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2021-202020-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2022-202025-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2023-202019-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2023-202024-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2024-202018-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2025-202023-20--20FOURTH-20SUNDAY-2",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2026-202022-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2027-202021-20--20FIFTH-20SUNDAY-20",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2028-202020-20--20FOURTH-20SUNDAY-2",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2029-202025-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-203-202018-20--20SECOND-20SUNDAY-20",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2030-202019-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-2030-202024-20--20SIXTH-20SUNDAY-20",
+      "title": "SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-204-202023-20--20FIRST-20SUNDAY-20A",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-205-202022-20--20FEAST-20OF-20PENTE",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-June-206-202021-20--20SECOND-20SUNDAY-20",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-207-202020-20--20FIRST-20SUNDAY-20A",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-June-208-202025-20--20FEAST-20OF-20PENTE",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-June-209-202019-20--20FEAST-20OF-20-20-2",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-June-209-202024-20--20THIRD-20SUNDAY-20A",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-March-201-202020-20--20FIRST-20SUNDAY-20",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-201-202026-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2010-202019-20--20FIRST-20SUNDAY-2",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2010-202024-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2011-202018-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2012-202023-20--20THIRD-20SUNDAY-2",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2013-202022-20--20SECOND-20SUNDAY-",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2014-202021-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
       "date": "unknown-March-2015-202020-20--20THIRD-20SUNDAY-2",
       "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2015-202026-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2016-202025-20--20SECOND-20SUNDAY-",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2017-202019-20--20SECOND-20SUNDAY-",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2017-202024-20--20FIFTH-20SUNDAY-2",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2018-202018-20--20FIFTH-20SUNDAY-2",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2019-202023-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-202-202025-20--20SUNDAY-20OF-20CHE",
+      "title": "SUNDAY OF CHEESEFARE"
+    },
+    {
+      "date": "unknown-March-2020-202022-20--20THIRD-20SUNDAY-2",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2021-202021-20--20FIFTH-20SUNDAY-2",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2022-202020-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2022-202026-20--20FIFTH-20SUNDAY-2",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2023-202025-20--20THIRD-20SUNDAY-2",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2024-202019-20--20THIRD-20SUNDAY-2",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2024-202024-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-March-2025-202018-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-March-2025-202020-20--20FEAST-20OF-20THE",
+      "title": "FEAST OF THE ANNUNCIATION OF THE MOTHER GOD"
+    },
+    {
+      "date": "unknown-March-2025-202021-20--20FEAST-20OF-20THE",
+      "title": "FEAST OF THE ANNUNCIATION OF THE MOTHER GOD"
+    },
+    {
+      "date": "unknown-March-2025-202022-20--20FEAST-20OF-20THE",
+      "title": "FEAST OF THE ANNUNCIATION OF THE MOTHER GOD"
+    },
+    {
+      "date": "unknown-March-2025-202023-20--20ANNUNCIATION-20O",
+      "title": "FEAST OF THE ANNUNCIATION OF THE MOTHER GOD"
+    },
+    {
+      "date": "unknown-March-2026-202023-20--20FIFTH-20SUNDAY-2",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2027-202022-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2028-202021-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
+    },
+    {
+      "date": "unknown-March-2029-202020-20--20FIFTH-20SUNDAY-2",
+      "title": "FIFTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2029-202026-20--20PALM-20SUNDAY",
+      "title": "PALM SUNDAY"
     },
     {
       "date": "unknown-March-203-202019-20--20SUNDAY-20OF-20-20",
       "title": "SUNDAY OF CHEESEFARE"
     },
     {
+      "date": "unknown-March-203-202024-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2030-202025-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2031-202019-20--20FOURTH-20SUNDAY-",
+      "title": "FOURTH SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-2031-202024-20--20THE-20RESURRECTI",
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-March-204-202018-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-205-202023-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-206-202022-20--20FIRST-20SUNDAY-20",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-207-202021-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-208-202020-20--20SECOND-20SUNDAY-2",
+      "title": "SECOND SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-March-208-202026-20--20THIRD-20SUNDAY-20",
+      "title": "THIRD SUNDAY OF THE GREAT LENT"
+    },
+    {
+      "date": "unknown-March-209-202025-20--20FIRST-20SUNDAY-20",
+      "title": "FIRST SUNDAY OF GREAT LENT"
+    },
+    {
+      "date": "unknown-May-2001-202022-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-May-2008-202022-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-May-2010-202018-20--20THE-20ASCENSION-20",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-May-2010-202020-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-May-2011-202025-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-May-2012-202019-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-May-2012-202024-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-May-2013-202018-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-May-2013-202021-20--20THE-20ASCENSION-20",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-May-2014-202023-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-2015-202022-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-May-2016-202021-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-May-2017-202020-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-2018-202023-20--20THE-20ASCENSION-20",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-May-2018-202025-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-May-2019-202019-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-May-2019-202024-20--20FEAST-20OF-20PENTE",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-May-202-202021-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-May-2020-202018-20--20FEAST-20OF-20PENTE",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-May-2021-202020-20--20THE-20ASCENSION-20",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-May-2021-202023-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-May-2022-202022-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-2023-202021-20--20FEAST-20OF-20PENTE",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-May-2024-202020-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-May-2025-202025-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-2026-202019-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-2026-202022-20--20THE-20ASCENSION-20",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-May-2026-202024-20--20FIRST-20SUNDAY-20A",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-May-2027-202018-20--20FIRST-20SUNDAY-20A",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-May-2028-202023-20--20FEAST-20OF-20PENTE",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-May-2029-202022-20--20SUNDAY-20OF-20THE-",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+    },
+    {
+      "date": "unknown-May-2029-202025-20--20THE-20ASCENSION-20",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-May-203-202020-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE PARALYTIC"
+    },
+    {
+      "date": "unknown-May-2030-202019-20--20THE-20ASCENSION-20",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-May-2030-202021-20--20FIRST-20SUNDAY-20A",
+      "title": "FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-May-2031-202020-20--20FEAST-20OF-20-20PE",
+      "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "unknown-May-204-202025-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-May-205-202019-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+    },
+    {
+      "date": "unknown-May-205-202024-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-206-202018-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-207-202023-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+    },
+    {
+      "date": "unknown-May-209-202021-20--20SUNDAY-20OF-20THE-2",
+      "title": "SUNDAY OF THE MAN BORN BLIND"
+    },
+    {
+      "date": "unknown-May-209-202024-20--20THE-20ASCENSION-20O",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "unknown-November-2003-202024-20--20TWENTY-FOURTH",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2007-202021-20--20TWENTY-FOURTH",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-201-202020-20--20TWENTY-SECOND-",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2010-202019-20--20TWENTY-SECOND",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2010-202024-20--20TWENTY-FIFTH-",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2011-202018-20--20TWENTY-FIFTH-",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2012-202023-20--20TWENTY-FOURTH",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2013-202022-20--20TWENTY-THIRD-",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2014-202021-20--20TWENTY-FIFTH-",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2015-202020-20--20TWENTY-FOURTH",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2016-202025-20--20TWENTY-THIRD-",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2017-202019-20--20TWENTY-THIRD-",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2017-202024-20--20TWENTY-SIXTH-",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2018-202018-20--20TWENTY-SIXTH-",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2019-202023-20--20TWENTY-FIFTH-",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-202-202025-20--20TWENTY-FIRST-2",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2020-202022-20--20TWENTY-FOURTH",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2021-202021-20--20TWENTY-SIXTH-",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2022-202020-20--20TWENTY-FIFTH-",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2023-202025-20--20TWENTY-FOURTH",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2024-202019-20--20TWENTY-FOURTH",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2024-202024-20--20TWENTY-SEVENT",
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2025-202018-20--20TWENTY-SEVENT",
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2026-202023-20--20TWENTY-SIXTH-",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2027-202022-20--20TWENTY-FIFTH-",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2028-202021-20--20TWENTY-SEVENT",
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2029-202020-20--20TWENTY-SIXTH-",
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-203-202019-20--20TWENTY-FIRST-2",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-2030-202025-20--20TWENTY-FIFTH-",
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-204-202018-20--20TWENTY-FOURTH-",
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-205-202023-20--20TWENTY-THIRD-2",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-206-202022-20--20TWENTY-SECOND-",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-208-202020-20--20TWENTY-THIRD-2",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-November-209-202025-20--20TWENTY-SECOND-",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2003-202021-20--20NINETEENTH-20S",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2006-202024-20--20TWENTIETH-20SU",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-201-202023-20--20EIGHTEENTH-20SU",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2010-202021-20--20TWENTIETH-20SU",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2011-202020-20--20NINETEENTH-20S",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2012-202025-20--20EIGHTEENTH-20S",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2013-202019-20--20EIGHTEENTH-20S",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2013-202024-20--20TWENTY-FIRST-2",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2014-202018-20--20SUNDAY-20OF-20",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2015-202023-20--20TWENTIETH-20SU",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2016-202022-20--20NINETEENTH-20S",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2017-202021-20--20TWENTY-FIRST-2",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2018-202020-20--20TWENTIETH-20SU",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2019-202025-20--20NINETEENTH-20S",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-202-202022-20--20SEVENTEENTH-20S",
+      "title": "SEVENTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2020-202019-20--20NINETEENTH-20S",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2020-202024-20--20TWENTY-SECOND-",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2021-202018-20--20TWENTY-SECOND-",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2022-202023-20--20TWENTY-FIRST-2",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2023-202022-20--20TWENTIETH-20SU",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2024-202021-20--20TWENTY-SECOND-",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2025-202020-20--20TWENTY-FIRST-2",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2026-202025-20--20TWENTIETH-20SU",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2027-202019-20--20TWENTIETH-20SU",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2027-202024-20--20TWENTY-THIRD-2",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2028-202018-20--20TWENTY-THIRD-2",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2029-202023-20--20TWENTY-SECOND-",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2030-202022-20--20TWENTY-FIRST-2",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-2031-202021-20--20TWENTY-THIRD-2",
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-204-202020-20--20EIGHTEENTH-20SU",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-205-202025-20--20SEVENTEENTH-20S",
+      "title": "SEVENTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-206-202019-20--20SEVENTEENTH-20S",
+      "title": "SEVENTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-207-202018-20--20TWENTIETH-20SUN",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-208-202023-20--20NINETEENTH-20SU",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-October-209-202022-20--20EIGHTEENTH-20SU",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-Sepember-201-202024-20--20FIFTEENTH-20SU",
+      "title": "FIFTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-Sepember-2014-202024-20--20EXALTATION-20",
+      "title": "EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-Sepember-2015-202024-20--20SUNDAY-20AFTE",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-Sepember-2022-202024-20--20EIGHTEENTH-20",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
       "date": "unknown-Sepember-2029-202024-20--20NINETEENTH-20",
       "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-Sepember-208-202024-20--20SUNDAY-20BEFOR",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-201-202019-20--20TWELFTH-20SUN",
+      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2010-202023-20--20SUNDAY-20BEF",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2011-202022-20--20SUNDAY-20BEF",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2012-202021-20--20SUNDAY-20BEF",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2013-202020-20--20SUNDAY-20BEF",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2014-202025-20--20EXALTATION-2",
+      "title": "EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2015-202019-20--20SUNDAY-20AFT",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2016-202018-20--20SUNDAY-20AFT",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2017-202023-20--20SUNDAY-20AFT",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2018-202022-20--20SUNDAY-20AFT",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2019-202021-20--20SUNDAY-20AFT",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-202-202018-20--20FIFTEENTH-20S",
+      "title": "FIFTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2020-202020-20--20SUNDAY-20AFT",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2021-202025-20--20SUNDAY-20AFT",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-2022-202019-20--20FIFTEENTH-20",
+      "title": "FIFTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2023-202018-20--20EIGHTEENTH-2",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2024-202023-20--20SEVENTEENTH-",
+      "title": "SEVENTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2025-202022-20--20SIXTEENTH-20",
+      "title": "SIXTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2026-202021-20--20EIGHTEENTH-2",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2027-202020-20--20SEVENTEENTH-",
+      "title": "SEVENTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2028-202025-20--20SIXTEENTH-20",
+      "title": "SIXTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2029-202019-20--20SIXTEENTH-20",
+      "title": "SIXTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-203-202023-20--20FOURTEENTH-20",
+      "title": "FOURTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-2030-202018-20--20NINETEENTH-2",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-204-202022-20--20THIRTEENTH-20",
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-205-202021-20--20FIFTEENTH-20S",
+      "title": "FIFTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-206-202020-20--20FOURTEENTH-20",
+      "title": "FOURTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "unknown-September-207-202025-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-208-202019-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "unknown-September-209-202018-20--20SUNDAY-20BEFO",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
     }
   ]
 }
