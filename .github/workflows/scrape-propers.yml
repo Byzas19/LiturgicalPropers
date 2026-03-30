@@ -7,12 +7,17 @@ on:
     - cron: '0 6 * * 2,5'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   update-propers:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:
