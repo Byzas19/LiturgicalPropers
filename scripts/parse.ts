@@ -15,12 +15,14 @@ export interface KondakionEntry { label: string; text: string; tone?: number; }
 export interface ProkeimenonEntry { tone?: number; text: string; verse?: string; }
 export interface ScriptureReading { reference: string; text: string; }
 export interface AlleluiaEntry { tone?: number; verses: string[]; }
+export interface AntiphonEntry { title: string; text: string; }
 
 export interface LiturgicalProper {
   id: string;
   date: string;
   liturgicalTitle: string;
   tone?: number;
+  antiphons?: AntiphonEntry[];
   troparia: TroparionEntry[];
   kondakia: KondakionEntry[];
   prokeimenon?: ProkeimenonEntry;
@@ -36,25 +38,29 @@ export interface LiturgicalProper {
 // ── Regex patterns ──────────────────────────────────────────────────────────
 
 const SECTION_PATTERNS: Record<string, RegExp> = {
-  tropar:    /^\s*Tropar(?:ion)?\b/i,
-  kondak:    /^\s*Kond[ao]k(?:ion)?|Kontak(?:ion)?\b/i,
-  prokimen:  /^\s*Prok(?:e)?imen(?:on)?\b/i,
-  epistle:   /^\s*(?:Epistle|Apostol)\b/i,
-  alleluia:  /^\s*Alleluia\b/i,
-  gospel:    /^\s*Gospel\b/i,
-  communion: /^\s*(?:Communion\s+(?:Hymn|Verse)|Prychasten)\b/i,
+  antiphon:     /^\s*(?:First|Second|Third)\s+Antiphon\b/i,
+  entranceHymn: /^\s*Entrance\s+Hymn\b/i,
+  troparKondak: /^\s*Tropar(?:ion)?\s+and\s+Kond[ao]k(?:ion)?\b/i,
+  // Only match numbered entries like "Troparion (1):" so plain "Troparion:" antiphon lines stay in their section
+  tropar:       /^\s*Tropar(?:ion)?\s*\(\d+\)/i,
+  kondak:       /^\s*(?:Kond[ao]k(?:ion)?|Kontak(?:ion)?)\s*\(\d+\)/i,
+  prokimen:     /^\s*Prok(?:e)?imen(?:on)?\b/i,
+  epistle:      /^\s*(?:Epistle|Apostol)\b/i,
+  alleluia:     /^\s*Alleluia\b/i,
+  gospel:       /^\s*Gospel\b/i,
+  communion:    /^\s*(?:Communion\s+(?:Hymn|Verse)|Prychasten)\b/i,
 };
 
 const TONE_RE = /\bTone\s+(\d+|[IVXivx]+)\b/i;
 
 const SCRIPTURE_REF_RE = /((?:Gen|Ex|Lev|Num|Deut|Josh|Judg|Ruth|[12]\s*Sam|[12]\s*Kings|[12]\s*Chr|Ezra|Neh|Esth|Job|Ps|Prov|Eccl|Song|Isa|Jer|Lam|Ezek|Dan|Hos|Joel|Amos|Obad|Jon|Mic|Nah|Hab|Zeph|Hag|Zech|Mal|Matt?|Mark|Luke|John|Acts|Rom|[12]\s*Cor|Gal|Eph|Phil|Col|[12]\s*Thess|[12]\s*Tim|Titus|Phlm|Heb|Jas|[12]\s*Pet|[123]\s*John|Jude|Rev)\s*\d+:\d+(?:[–\-]\d+)?)/i;
 
-const DATE_RE = /(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2}),?\s+(\d{4})/i;
+const DATE_RE = /(January|February|March|April|May|June|July|August|September|Sepember|October|November|December)\s+(\d{1,2}),?\s+(\d{4})/i;
 
 const MONTHS: Record<string, string> = {
   January: '01', February: '02', March: '03', April: '04',
   May: '05', June: '06', July: '07', August: '08',
-  September: '09', October: '10', November: '11', December: '12',
+  September: '09', Sepember: '09', October: '10', November: '11', December: '12',
 };
 
 // ── Helpers ─────────────────────────────────────────────────────────────────
@@ -100,7 +106,7 @@ function extractScriptureRef(text: string): string | undefined {
 
 // ── Core parser ──────────────────────────────────────────────────────────────
 
-type SectionKey = 'preamble' | 'tropar' | 'kondak' | 'prokimen' | 'epistle' | 'alleluia' | 'gospel' | 'communion';
+type SectionKey = 'preamble' | 'antiphon' | 'entranceHymn' | 'troparKondak' | 'tropar' | 'kondak' | 'prokimen' | 'epistle' | 'alleluia' | 'gospel' | 'communion';
 
 interface Section {
   key: SectionKey;
@@ -165,8 +171,9 @@ export async function parsePdf(filePath: string, linkText?: string): Promise<Lit
   // 4. Unique slug from filename so we never silently overwrite another entry
   const dateFromLinkText = linkText ? extractDate(linkText) : undefined;
   const dateFromContent = extractDate(lines.slice(0, 10).join('\n'));
-  const dateFromFilename = /(\d{4}-\d{2}-\d{2})/.exec(path.basename(filePath, '.pdf'))?.[1];
-  const filenameSlug = path.basename(filePath, '.pdf').replaceAll(/[^a-zA-Z0-9]/g, '-').substring(0, 40);
+  const filenameBase = path.basename(filePath, '.pdf');
+  const dateFromFilename = /(\d{4}-\d{2}-\d{2})/.exec(filenameBase)?.[1] ?? extractDate(filenameBase);
+  const filenameSlug = filenameBase.replaceAll(/[^a-zA-Z0-9]/g, '-').substring(0, 40);
   const date = dateFromLinkText ?? dateFromContent ?? dateFromFilename ?? `unknown-${filenameSlug}`;
 
   const sections = segmentText(lines);
@@ -224,11 +231,20 @@ export async function parsePdf(filePath: string, linkText?: string): Promise<Lit
   // Communion hymn
   const communionHymn = getSectionText(sections, 'communion') || undefined;
 
+  // Antiphons
+  const antiphons: AntiphonEntry[] = getAllSections(sections, 'antiphon')
+    .map((s) => ({
+      title: s.lines[0].replace(/:?\s*$/, '').trim(),
+      text: s.lines.slice(1).join('\n').trim(),
+    }))
+    .filter((a) => a.text.length > 0);
+
   return {
     id: date,
     date,
     liturgicalTitle: titleLine.trim(),
     tone,
+    antiphons: antiphons.length > 0 ? antiphons : undefined,
     troparia,
     kondakia,
     prokeimenon,

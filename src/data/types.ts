@@ -1,8 +1,14 @@
+export interface AntiphonEntry {
+  title: string;
+  text: string;
+}
+
 export interface LiturgicalProper {
   id: string;
   date: string;
   liturgicalTitle: string;
   tone?: number;
+  antiphons?: AntiphonEntry[];
   troparia: TroparionEntry[];
   kondakia: KondakionEntry[];
   prokeimenon?: ProkeimenonEntry;

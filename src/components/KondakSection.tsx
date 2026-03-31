@@ -21,10 +21,9 @@ export const KondakSection = ({ kondakia }: KondakSectionProps) => {
           {index > 0 && (
             <View style={[styles.innerDivider, { backgroundColor: colors.divider }]} />
           )}
-          <Text style={[typography.subLabel, styles.subLabel, { color: colors.textMuted }]}>
-            {kondak.label}
+          <Text style={[typography.body, { color: colors.text }]}>
+            {[kondak.label, kondak.text].filter(Boolean).join('\n')}
           </Text>
-          <Text style={[typography.body, { color: colors.text }]}>{kondak.text}</Text>
         </View>
       ))}
     </View>
@@ -38,8 +37,5 @@ const styles = StyleSheet.create({
   innerDivider: {
     height: StyleSheet.hairlineWidth,
     marginBottom: 16,
-  },
-  subLabel: {
-    marginBottom: 8,
   },
 });

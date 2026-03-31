@@ -21,10 +21,9 @@ export const TroparSection = ({ troparia }: TroparSectionProps) => {
           {index > 0 && (
             <View style={[styles.innerDivider, { backgroundColor: colors.divider }]} />
           )}
-          <Text style={[typography.subLabel, styles.subLabel, { color: colors.textMuted }]}>
-            {tropar.label}
+          <Text style={[typography.body, { color: colors.text }]}>
+            {[tropar.label, tropar.text].filter(Boolean).join('\n')}
           </Text>
-          <Text style={[typography.body, { color: colors.text }]}>{tropar.text}</Text>
         </View>
       ))}
     </View>
@@ -38,8 +37,5 @@ const styles = StyleSheet.create({
   innerDivider: {
     height: StyleSheet.hairlineWidth,
     marginBottom: 16,
-  },
-  subLabel: {
-    marginBottom: 8,
   },
 });

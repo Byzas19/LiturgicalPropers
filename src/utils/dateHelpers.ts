@@ -63,4 +63,4 @@ export const isUpcoming = (isoDate: string): boolean => {
 };
 
 export const sortByDate = <T extends { date: string }>(items: T[]): T[] =>
-  [...items].sort((a, b) => a.date.localeCompare(b.date));
+  [...items].sort((a, b) => b.date.localeCompare(a.date));

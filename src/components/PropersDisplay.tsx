@@ -11,8 +11,8 @@ import {
 import { LiturgicalProper } from '../data/types';
 import { useTheme } from '../theme/ThemeContext';
 import { SectionDivider } from './SectionDivider';
-import { TroparSection } from './TroparSection';
-import { KondakSection } from './KondakSection';
+import { AntiphonSection } from './AntiphonSection';
+import { TroparionKontakionSection } from './TroparionKontakionSection';
 import { ProkeimenonSection } from './ProkeimenonSection';
 import { EpistleSection, AlleluiaSection, GospelSection } from './ScriptureSection';
 import { formatShortDate } from '../utils/dateHelpers';
@@ -87,8 +87,8 @@ export const PropersDisplay = ({
       )}
 
       {/* Main sections */}
-      <TroparSection troparia={proper.troparia} />
-      <KondakSection kondakia={proper.kondakia} />
+      {proper.antiphons && <AntiphonSection antiphons={proper.antiphons} />}
+      <TroparionKontakionSection troparia={proper.troparia} kondakia={proper.kondakia} />
       {proper.prokeimenon && <ProkeimenonSection prokeimenon={proper.prokeimenon} />}
       {proper.epistle && <EpistleSection epistle={proper.epistle} />}
       {proper.alleluia && <AlleluiaSection alleluia={proper.alleluia} />}
