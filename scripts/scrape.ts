@@ -92,7 +92,7 @@ export async function scrapePdfLinks(): Promise<PdfEntry[]> {
 
     console.log(`Found ${links.length} PDF link(s).`);
     return links.map(({ url, linkText }) => {
-      const urlPath = new URL(url).pathname;
+      const urlPath = decodeURIComponent(new URL(url).pathname);
       const rawFilename = path.basename(urlPath) || sanitizeFilename(linkText) + '.pdf';
       const filename = rawFilename.endsWith('.pdf') ? rawFilename : rawFilename + '.pdf';
       return {

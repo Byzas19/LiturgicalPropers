@@ -96,7 +96,7 @@ async function main(): Promise<void> {
   let successCount = 0;
   for (const entry of downloaded) {
     console.log(`  Parsing ${entry.filename}...`);
-    const proper = await parsePdf(entry.filePath);
+    const proper = await parsePdf(entry.filePath, entry.linkText);
     if (proper) {
       writeProper(proper);
       successCount++;
