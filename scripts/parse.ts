@@ -42,7 +42,7 @@ export interface LiturgicalProper {
 const SECTION_PATTERNS: Record<string, RegExp> = {
   antiphon:     /^\s*(?:First|Second|Third)\s+Antiphon\b/i,
   entranceHymn: /^\s*Entrance\s+Hymn\b/i,
-  troparKondak: /^\s*Tropar(?:ion)?\s+and\s+Kond[ao]k(?:ion)?\b/i,
+  troparKondak: /^\s*Tropar(?:ion)?\s+and\s+(?:Kond[ao]k|Kontak)(?:ion)?\b/i,
   // Only match numbered entries like "Troparion (1):" so plain "Troparion:" antiphon lines stay in their section
   tropar:       /^\s*Tropar(?:ion)?\s*\(\d+\)/i,
   kondak:       /^\s*(?:Kond[ao]k(?:ion)?|Kontak(?:ion)?)\s*\(\d+\)/i,
@@ -200,8 +200,11 @@ export async function parsePdf(filePath: string, linkText?: string): Promise<Lit
   // Overall tone: use first tropar tone if available
   const tone = troparia[0]?.tone ?? kondakia[0]?.tone;
 
-  // Prokeimenon
-  const prokText = getSectionText(sections, 'prokimen');
+  // Prokeimenon — skip bare header-only sections (e.g. "Prokimenon:" with no body)
+  // and use the first section that actually has content.
+  const prokText = getAllSections(sections, 'prokimen')
+    .map((s) => s.lines.slice(1).join('\n').trim())
+    .find((t) => t.length > 0) ?? '';
   let prokeimenon: LiturgicalProper['prokeimenon'];
   if (prokText) {
     const prokLines = prokText.split('\n').filter((l) => l.trim());
