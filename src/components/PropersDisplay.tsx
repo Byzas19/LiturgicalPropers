@@ -87,8 +87,17 @@ export const PropersDisplay = ({
       )}
 
       {/* Main sections */}
+      {proper.opening && (
+        <Text style={[typography.body, styles.opening, { color: colors.text }]}>{proper.opening}</Text>
+      )}
       {proper.antiphons && <AntiphonSection antiphons={proper.antiphons} />}
       <TroparionKontakionSection troparia={proper.troparia} kondakia={proper.kondakia} />
+      {proper.holyGod && (
+        <View>
+          <SectionDivider label="Holy God" />
+          <Text style={[typography.body, { color: colors.text }]}>{proper.holyGod}</Text>
+        </View>
+      )}
       {proper.prokeimenon && <ProkeimenonSection prokeimenon={proper.prokeimenon} />}
       {proper.epistle && <EpistleSection epistle={proper.epistle} />}
       {proper.alleluia && <AlleluiaSection alleluia={proper.alleluia} />}
@@ -167,6 +176,11 @@ const styles = StyleSheet.create({
     borderRadius: 2,
   },
   notesText: {
+    fontStyle: 'italic',
+  },
+  opening: {
+    marginTop: 16,
+    textAlign: 'center',
     fontStyle: 'italic',
   },
   footer: {

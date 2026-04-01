@@ -22,7 +22,9 @@ export interface LiturgicalProper {
   date: string;
   liturgicalTitle: string;
   tone?: number;
+  opening?: string;
   antiphons?: AntiphonEntry[];
+  holyGod?: string;
   troparia: TroparionEntry[];
   kondakia: KondakionEntry[];
   prokeimenon?: ProkeimenonEntry;
@@ -44,6 +46,7 @@ const SECTION_PATTERNS: Record<string, RegExp> = {
   // Only match numbered entries like "Troparion (1):" so plain "Troparion:" antiphon lines stay in their section
   tropar:       /^\s*Tropar(?:ion)?\s*\(\d+\)/i,
   kondak:       /^\s*(?:Kond[ao]k(?:ion)?|Kontak(?:ion)?)\s*\(\d+\)/i,
+  holyGod:      /^\s*Holy\s+God\b/i,
   prokimen:     /^\s*Prok(?:e)?imen(?:on)?\b/i,
   epistle:      /^\s*(?:Epistle|Apostol)\b/i,
   alleluia:     /^\s*Alleluia\b/i,
@@ -106,7 +109,7 @@ function extractScriptureRef(text: string): string | undefined {
 
 // ── Core parser ──────────────────────────────────────────────────────────────
 
-type SectionKey = 'preamble' | 'antiphon' | 'entranceHymn' | 'troparKondak' | 'tropar' | 'kondak' | 'prokimen' | 'epistle' | 'alleluia' | 'gospel' | 'communion';
+type SectionKey = 'preamble' | 'antiphon' | 'entranceHymn' | 'troparKondak' | 'tropar' | 'kondak' | 'holyGod' | 'prokimen' | 'epistle' | 'alleluia' | 'gospel' | 'communion';
 
 interface Section {
   key: SectionKey;
@@ -239,12 +242,26 @@ export async function parsePdf(filePath: string, linkText?: string): Promise<Lit
     }))
     .filter((a) => a.text.length > 0);
 
+  // Holy God (Trisagion substitute, e.g. Paschal season)
+  const holyGodText = getSectionText(sections, 'holyGod') || undefined;
+
+  // Opening: unlabeled text between the title and the first section header (e.g. Easter refrain)
+  const preambleSection = sections.find((s) => s.key === 'preamble');
+  const openingText = preambleSection
+    ? preambleSection.lines
+        .filter((l) => l.trim() !== titleLine.trim() && l.trim().length > 0)
+        .join('\n')
+        .trim()
+    : '';
+
   return {
     id: date,
     date,
     liturgicalTitle: titleLine.trim(),
     tone,
+    opening: openingText || undefined,
     antiphons: antiphons.length > 0 ? antiphons : undefined,
+    holyGod: holyGodText,
     troparia,
     kondakia,
     prokeimenon,

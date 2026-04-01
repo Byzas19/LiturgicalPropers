@@ -8,7 +8,9 @@ export interface LiturgicalProper {
   date: string;
   liturgicalTitle: string;
   tone?: number;
+  opening?: string;
   antiphons?: AntiphonEntry[];
+  holyGod?: string;
   troparia: TroparionEntry[];
   kondakia: KondakionEntry[];
   prokeimenon?: ProkeimenonEntry;
