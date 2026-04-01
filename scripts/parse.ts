@@ -200,17 +200,22 @@ export async function parsePdf(filePath: string, linkText?: string): Promise<Lit
   // Overall tone: use first tropar tone if available
   const tone = troparia[0]?.tone ?? kondakia[0]?.tone;
 
-  // Prokeimenon — skip bare header-only sections (e.g. "Prokimenon:" with no body)
-  // and use the first section that actually has content.
-  const prokText = getAllSections(sections, 'prokimen')
-    .map((s) => s.lines.slice(1).join('\n').trim())
-    .find((t) => t.length > 0) ?? '';
+  // Prokeimenon — skip bare header-only sections (e.g. "Prokimenon:" with no body).
+  // The main text lives on the header line itself after the colon (e.g. "Prokimenon (3): Great is the Lord..."),
+  // and the verse(s) are in the body lines starting with "Verse:".
   let prokeimenon: LiturgicalProper['prokeimenon'];
-  if (prokText) {
-    const prokLines = prokText.split('\n').filter((l) => l.trim());
-    const verse = prokLines.length > 1 ? prokLines[prokLines.length - 1] : undefined;
-    const mainText = verse ? prokLines.slice(0, -1).join('\n') : prokText;
-    prokeimenon = { tone: extractTone(prokText), text: mainText.trim(), verse: verse?.trim() };
+  const prokSection = getAllSections(sections, 'prokimen').find((s) => {
+    const headerRest = s.lines[0].replace(/^\s*Prok(?:e)?imen(?:on)?\s*(?:\(\d+\))?\s*:?\s*/i, '').trim();
+    const bodyText = s.lines.slice(1).join('\n').trim();
+    return headerRest.length > 0 || bodyText.length > 0;
+  });
+  if (prokSection) {
+    const header = prokSection.lines[0];
+    const mainText = header.replace(/^\s*Prok(?:e)?imen(?:on)?\s*(?:\(\d+\))?\s*:?\s*/i, '').trim();
+    const bodyLines = prokSection.lines.slice(1).filter((l) => l.trim());
+    const verse = bodyLines.find((l) => /^\s*Verse:/i.test(l))?.trim();
+    const tone = extractTone(header);
+    prokeimenon = { tone, text: mainText, verse };
   }
 
   // Epistle
