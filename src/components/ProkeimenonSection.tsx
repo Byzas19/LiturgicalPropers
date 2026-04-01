@@ -13,7 +13,7 @@ export const ProkeimenonSection = ({ prokeimenon }: ProkeimenonSectionProps) => 
 
   return (
     <View>
-      <SectionDivider label="Prokimen" />
+      <SectionDivider label="Prokimenon" />
       {prokeimenon.tone && (
         <Text style={[typography.subLabel, styles.toneLabel, { color: colors.textMuted }]}>
           Tone {prokeimenon.tone}
@@ -24,6 +24,9 @@ export const ProkeimenonSection = ({ prokeimenon }: ProkeimenonSectionProps) => 
         <Text style={[typography.body, styles.verse, { color: colors.textSecondary }]}>
           {prokeimenon.verse}
         </Text>
+      )}
+      {prokeimenon.verse && (
+        <Text style={[typography.body, { color: colors.text }]}>{prokeimenon.text}</Text>
       )}
     </View>
   );

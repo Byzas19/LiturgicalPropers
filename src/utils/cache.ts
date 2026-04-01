@@ -3,7 +3,7 @@ import { LiturgicalProper, PropersListItem } from "../data/types";
 
 // Increment this whenever the data source changes (e.g. sample → live)
 // to automatically wipe stale cached data on next app launch.
-const CACHE_VERSION = 5;
+const CACHE_VERSION = 7;
 
 const PROPER_KEY = (date: string) => `@proper_${date}`;
 const LIST_KEY = "@propers_list";
