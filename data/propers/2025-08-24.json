@@ -15,7 +15,8 @@
     }
   ],
   "prokeimenon": {
-    "text": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
+    "text": "The Lord is my strength and my song of praise, and He has become my salvation.",
+    "verse": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
   },
   "epistle": {
     "reference": "1Cor 9:2-12",
@@ -28,5 +29,5 @@
   },
   "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
   "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.432Z"
+  "lastUpdated": "2026-04-03T06:42:31.047Z"
 }

@@ -24,7 +24,8 @@
     }
   ],
   "prokeimenon": {
-    "text": "Verse: All peoples, clap your hands; cry to God with shouts of joy."
+    "text": "Sing praise to God, sing praise; sing praise to our King, sing praise.",
+    "verse": "Verse: All peoples, clap your hands; cry to God with shouts of joy."
   },
   "epistle": {
     "reference": "",
@@ -41,5 +42,5 @@
   },
   "communionHymn": "Receive the Body of Christ! Drink the Source of immortality.\nPraise the Lord from the heavens; praise Him in the highest.",
   "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:45.867Z"
+  "lastUpdated": "2026-04-03T06:42:33.504Z"
 }

@@ -24,7 +24,8 @@
     }
   ],
   "prokeimenon": {
-    "text": "Verse: All peoples, clap your hands; cry to God with shouts of joy."
+    "text": "Sing to our God, sing; sing to our King, sing.",
+    "verse": "Verse: All peoples, clap your hands; cry to God with shouts of joy."
   },
   "epistle": {
     "reference": "",
@@ -41,5 +42,5 @@
   },
   "communionHymn": "Praise the Lord from the heavens. Praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.",
   "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:44.703Z"
+  "lastUpdated": "2026-04-03T06:42:32.306Z"
 }

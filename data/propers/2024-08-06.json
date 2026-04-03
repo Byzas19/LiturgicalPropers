@@ -25,7 +25,8 @@
     }
   ],
   "prokeimenon": {
-    "text": "Verse: Bless the Lord, O my soul! O Lord God, how great You are!"
+    "text": "How great are Your works, O Lord! In wisdom You have made them all.",
+    "verse": "Verse: Bless the Lord, O my soul! O Lord God, how great You are!"
   },
   "epistle": {
     "reference": "",
@@ -42,5 +43,5 @@
   },
   "communionHymn": "Let us walk in the light of Your countenance, O Lord. Let us rejoice in Your name forever.",
   "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:44.578Z"
+  "lastUpdated": "2026-04-03T06:42:32.182Z"
 }

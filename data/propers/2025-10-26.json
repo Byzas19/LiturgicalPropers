@@ -24,7 +24,8 @@
     }
   ],
   "prokeimenon": {
-    "text": "Verse: Clap your hands, all you nations; shout unto God with the voice of joy."
+    "text": "Sing to our God, sing; sing to our King, sing.",
+    "verse": "Verse: Clap your hands, all you nations; shout unto God with the voice of joy."
   },
   "epistle": {
     "reference": "Gal 1:11-19",
@@ -41,5 +42,5 @@
   },
   "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he shall not fear.",
   "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.261Z"
+  "lastUpdated": "2026-04-03T06:42:30.879Z"
 }
