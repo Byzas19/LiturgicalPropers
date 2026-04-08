@@ -1,30 +1,36 @@
 {
   "id": "2025-08-10",
   "date": "2025-08-10",
-  "liturgicalTitle": "NINTH SUNDAY AFTER PENTECOST",
-  "opening": "POSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD",
+  "liturgicalTitle": "NINTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD",
   "troparia": [
     {
-      "label": "Troparion (8): You came down from on high, O Merciful One, and accepted three days of burial to free us from our sufferings. O",
-      "text": "Lord, our life and our resurrection, glory be to You."
+      "label": "Troparion (8)",
+      "text": "You came down from on high, O Merciful One, and accepted three days of burial to free us from our sufferings. O\nLord, our life and our resurrection, glory be to You.",
+      "tone": 8
     },
     {
-      "label": "Troparion (7): You were transfigured on the mountain, O Christ our God, revealing as much of Your glory to Your disciples as",
-      "text": "they could behold. Through the prayers of the Mother of God, let Your everlasting light also shine upon us sinners. O Giver of\nLight, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (7)",
+      "text": "You were transfigured on the mountain, O Christ our God, revealing as much of Your glory to Your disciples as\nthey could behold. Through the prayers of the Mother of God, let Your everlasting light also shine upon us sinners. O Giver of\nLight, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 7
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (8): When You rose from the tomb, You also raised the dead and resurrected Adam. Eve exults in Your resurrection,",
-      "text": "and the ends of the world celebrate Your rising from the dead, O Most Merciful One.\nNow and for ever and ever: Amen."
+      "label": "Kontakion (8)",
+      "text": "When You rose from the tomb, You also raised the dead and resurrected Adam. Eve exults in Your resurrection,\nand the ends of the world celebrate Your rising from the dead, O Most Merciful One.\nNow and for ever and ever: Amen.",
+      "tone": 8
     },
     {
-      "label": "Kontakion (7): You were transfigured on the mountain, O Christ our God, and Your disciples beheld as much as they could of",
-      "text": "Your glory, so that when they would see You crucified, they would understand that You suffered willingly; and they would preach\nto the world that You are truly the reflection of the Father."
+      "label": "Kontakion (7)",
+      "text": "You were transfigured on the mountain, O Christ our God, and Your disciples beheld as much as they could of\nYour glory, so that when they would see You crucified, they would understand that You suffered willingly; and they would preach\nto the world that You are truly the reflection of the Father.",
+      "tone": 7
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:48.135Z",
   "prokeimenon": {
-    "text": "Verse: In Judea God is known; His name is great in Israel."
+    "text": "Prokimenon (8): Pray and give praise to the Lord our God.\nProkimenon (8): Pray and give praise to the Lord our God.",
+    "verse": "Verse: In Judea God is known; His name is great in Israel."
   },
   "epistle": {
     "reference": "1Cor 3:9-17",
@@ -32,14 +38,20 @@
   },
   "alleluia": {
     "verses": [
-      "Verse (8): Come, let us rejoice in the Lord; let us acclaim God our Savior:"
+      "Verse (8): Come, let us rejoice in the Lord; let us acclaim God our Savior:",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (8): Let us come before His countenance with praise and acclaim Him with psalms.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 14:22-34)\nAt that time, Jesus made the disciples get into the boat and precede him to the other side, while he dismissed the crowds. After\ndoing so, he went up on the mountain by himself to pray. When it was evening he was there alone. Meanwhile the boat, already a\nfew miles offshore, was being tossed about by the waves, for the wind was against it. During the fourth watch of the night, he\ncame toward them, walking on the sea. When the disciples saw him walking on the sea they were terrified. “It is a ghost,” they\nsaid, and they cried out in fear. At once he [Jesus] spoke to them,” Take courage, it is I; do not be afraid.” Peter said to him in\nreply, “Lord, if it is you, command me to come to you on the water.” He said, “Come.” Peter got out of the boat and began to walk\non the water toward Jesus. But when he saw how [strong] the wind was he became frightened; and, beginning to sink, he cried out,\n“Lord, save me!” Immediately Jesus stretched out his hand and caught him, and said to him, “O you of little faith, why did you\ndoubt?” After they got into the boat, the wind died down. Those who were in the boat did him homage, saying, “Truly, you are the\nSon of God.” After making the crossing, they came to land at Gennesaret.\nIt is truly right... (Or the Hirmos of the Feast):\nO my soul, extol the Lord transfigured on Mount Tabor.\nHirmos: You gave birth without blemish; for it was God Who came forth from your womb, appearing in the flesh upon the earth\nand dwelling among us. Therefore, O Mother of God, we all extol you."
+    "reference": "Mt 14:22-34",
+    "text": "At that time, Jesus made the disciples get into the boat and precede him to the other side, while he dismissed the crowds. After\ndoing so, he went up on the mountain by himself to pray. When it was evening he was there alone. Meanwhile the boat, already a\nfew miles offshore, was being tossed about by the waves, for the wind was against it. During the fourth watch of the night, he\ncame toward them, walking on the sea. When the disciples saw him walking on the sea they were terrified. “It is a ghost,” they\nsaid, and they cried out in fear. At once he [Jesus] spoke to them,” Take courage, it is I; do not be afraid.” Peter said to him in\nreply, “Lord, if it is you, command me to come to you on the water.” He said, “Come.” Peter got out of the boat and began to walk\non the water toward Jesus. But when he saw how [strong] the wind was he became frightened; and, beginning to sink, he cried out,\n“Lord, save me!” Immediately Jesus stretched out his hand and caught him, and said to him, “O you of little faith, why did you\ndoubt?” After they got into the boat, the wind died down. Those who were in the boat did him homage, saying, “Truly, you are the\nSon of God.” After making the crossing, they came to land at Gennesaret."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.481Z"
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "O my soul, extol the Lord transfigured on Mount Tabor.\nHirmos: You gave birth without blemish; for it was God Who came forth from your womb, appearing in the flesh upon the earth\nand dwelling among us. Therefore, O Mother of God, we all extol you."
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 8
 }

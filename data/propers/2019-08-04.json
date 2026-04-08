@@ -4,33 +4,40 @@
   "liturgicalTitle": "EIGHTH SUNDAY AFTER PENTECOST",
   "troparia": [
     {
-      "label": "Troparion (7): By Your cross You destroyed death; You opened Paradise to the thief; You changed the lamentation of",
-      "text": "the myrrh-bearers to joy, and charged the apostles to proclaim that You are risen, O Christ our God, offering great\nmercy to the world.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (7)",
+      "text": "By Your cross You destroyed death; You opened Paradise to the thief; You changed the lamentation of\nthe myrrh-bearers to joy, and charged the apostles to proclaim that You are risen, O Christ our God, offering great\nmercy to the world.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 7
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (7): No longer shall the dominion of death be able to hold humanity, for Christ went down shattering and",
-      "text": "destroying its powers. Hades is bound. The prophets exult with one voice: The Savior has come for those with faith,\nsaying: Come forth, O faithful, to the resurrection!\nNow and for ever and ever: Amen.\nTheotokion (7): O All-praised Treasury of our resurrection, we hope in you, bring us up from the pit and depth of sins,\nfor you have saved those subject to sin by giving birth to our Salvation, O Virgin before childbirth, and virgin in\nchildbirth, and still a virgin after childbirth."
+      "label": "Kontakion (7)",
+      "text": "No longer shall the dominion of death be able to hold humanity, for Christ went down shattering and\ndestroying its powers. Hades is bound. The prophets exult with one voice: The Savior has come for those with faith,\nsaying: Come forth, O faithful, to the resurrection!\nNow and for ever and ever: Amen.\nTheotokion (7): O All-praised Treasury of our resurrection, we hope in you, bring us up from the pit and depth of sins,\nfor you have saved those subject to sin by giving birth to our Salvation, O Virgin before childbirth, and virgin in\nchildbirth, and still a virgin after childbirth.",
+      "tone": 7
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:10:01.619Z",
   "prokeimenon": {
-    "text": "Verse: Bring to the Lord, O you sons of God; bring to the Lord young rams."
+    "text": "Prokimenon (7): The Lord will give strength to His people; the Lord will bless His people with peace.\nProkimenon (7): The Lord will give strength to His people; the Lord will bless His people with peace.",
+    "verse": "Verse: Bring to the Lord, O you sons of God; bring to the Lord young rams."
   },
   "epistle": {
-    "reference": "",
-    "text": "Reading of the First Epistle of St. Paul to the Corinthians.\n(1Cor 1,10-18)\nBrethren: I urge you in the name of our Lord Jesus Christ, that all of you agree in what you say, and that there be no\ndivisions among you, but that you be united in the same mind and in the same purpose. For it has been reported to me\nabout you, my brothers, by Chloe’s people, that there are rivalries among you. I mean that each of you in saying, “I\nbelong to Paul,” or “I belong to Apollos,” or “I belong to Kephas,” or “I belong to Christ.” Is Christ divided? Was Paul\ncrucified for you? Or were you baptized in the name of Paul? I give thanks to God that I baptized none of you except\nCrispus and Gaius, so that no one can say you were baptized in my name. (I baptized the household of Stephanas also;\nbeyond that I do not know whether I baptized anyone else.) For Christ did not send me to baptize but to preach the"
+    "reference": "1Cor 1,10-18",
+    "text": "Reading of the First Epistle of St. Paul to the Corinthians.\n(1Cor 1,10-18)\nBrethren: I urge you in the name of our Lord Jesus Christ, that all of you agree in what you say, and that there be no\ndivisions among you, but that you be united in the same mind and in the same purpose. For it has been reported to me\nabout you, my brothers, by Chloe’s people, that there are rivalries among you. I mean that each of you in saying, “I\nbelong to Paul,” or “I belong to Apollos,” or “I belong to Kephas,” or “I belong to Christ.” Is Christ divided? Was Paul\ncrucified for you? Or were you baptized in the name of Paul? I give thanks to God that I baptized none of you except\nCrispus and Gaius, so that no one can say you were baptized in my name. (I baptized the household of Stephanas also;\nbeyond that I do not know whether I baptized anyone else.) For Christ did not send me to baptize but to preach the\ngospel, and not with the wisdom of human eloquence, so that the cross of Christ might not be emptied of its meaning.\nThe message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of\nGod."
   },
   "alleluia": {
     "verses": [
-      "Verse (7): It is good to give praise to the Lord; and to sing in Your name, O Most High."
+      "Verse (7): It is good to give praise to the Lord; and to sing in Your name, O Most High.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (7): To announce Your mercy in the morning and Your truth every night.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "The message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of\nGod."
+    "reference": "Mt 14,14-22",
+    "text": "At that time, Jesus saw a vast crowd, his heart was moved with pity for them, and he cured their sick. When it was\nevening, the disciples approached him and said, “This is a deserted place and it is already late; dismiss the crowds so\nthat they can go to the villages and buy food for themselves.” Jesus said to them, “There is no need for them to go\naway; give them some food yourselves.” But they said to him, “Five loaves and two fish are all we have here.” Then he\nsaid, “Bring them here to me,” and he ordered the crowds to sit down on the grass. Taking the five loaves and the two\nfish, and looking up to heaven, he said the blessing, broke the loaves, and gave them to the disciples, who in turn gave\nthem to the crowds. They all ate and were satisfied, and they picked up the fragments left over - twelve wicker baskets\nfull. Those who ate were about five thousand men, not counting women and children. Then he made the disciples get\ninto the boat and precede him to the other side, while he dismissed the crowds."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:49.657Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 7
 }

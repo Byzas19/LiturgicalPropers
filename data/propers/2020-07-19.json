@@ -1,45 +1,57 @@
 {
   "id": "2020-07-19",
   "date": "2020-07-19",
-  "liturgicalTitle": "SEVENTH SUNDAY AFTER PENTECOST",
-  "opening": "SUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS",
+  "liturgicalTitle": "SEVENTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS",
   "troparia": [
     {
-      "label": "Troparion (6): Angelic powers were upon Your tomb and the guards became like dead men; Mary stood before Your tomb",
-      "text": "seeking Your most pure body. You captured Hades without being overcome by it. You met the Virgin and granted life. O\nLord risen from the dead, glory be to You!"
+      "label": "Troparion (6)",
+      "text": "Angelic powers were upon Your tomb and the guards became like dead men; Mary stood before Your tomb\nseeking Your most pure body. You captured Hades without being overcome by it. You met the Virgin and granted life. O\nLord risen from the dead, glory be to You!",
+      "tone": 6
     },
     {
-      "label": "Troparion (8): O Christ our God, You are most glorified, for You established our fathers as lights to all the earth. Through",
-      "text": "them You led us to the true faith. O most merciful Lord, glory be to You!\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (8)",
+      "text": "O Christ our God, You are most glorified, for You established our fathers as lights to all the earth. Through\nthem You led us to the true faith. O most merciful Lord, glory be to You!\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 8
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (8): The preaching of the apostles and the decisions of the Fathers have established the true faith of the Church,",
-      "text": "which she wears as the garment of truth, fashioned from the theology on high. She justly governs and glorifies the great\nmystery of worship.\nNow and for ever and ever: Amen."
+      "label": "Kontakion (8)",
+      "text": "The preaching of the apostles and the decisions of the Fathers have established the true faith of the Church,\nwhich she wears as the garment of truth, fashioned from the theology on high. She justly governs and glorifies the great\nmystery of worship.\nNow and for ever and ever: Amen.",
+      "tone": 8
     },
     {
-      "label": "Kontakion (6): With His life-giving hand, Christ our God, the Giver of life, raised all the dead from the murky abyss and",
-      "text": "bestowed resurrection upon humanity. He is for all, the Savior, the Resurrection and the Life, and the God of all."
+      "label": "Kontakion (6)",
+      "text": "With His life-giving hand, Christ our God, the Giver of life, raised all the dead from the murky abyss and\nbestowed resurrection upon humanity. He is for all, the Savior, the Resurrection and the Life, and the God of all.",
+      "tone": 6
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:59.536Z",
   "prokeimenon": {
-    "text": "Verse: Unto You I will cry, O Lord, my God, lest You turn from me in silence."
+    "text": "Prokimenon (6): Save, Your people, O Lord, and bless Your inheritance.\nProkimenon (4): Blessed are You, and praiseworthy, O Lord, the God of our fathers, and glorious forever is Your name.",
+    "verse": "Verse: Unto You I will cry, O Lord, my God, lest You turn from me in silence."
   },
   "epistle": {
-    "reference": "",
+    "reference": "Rom 15,1-7",
     "text": "Reading of the Epistle of St. Paul to the Romans\n(Rom 15,1-7)\nBrethren: We who are strong ought to put up with the failings of the weak and not to please ourselves; let each of us please\nour neighbor for the good, for building up. For Christ did not please himself; but, as it is written, “The insults of those who\ninsult you fall upon me.” For whatever was written previously was written for our instruction, that by endurance and by the\nencouragement of the scriptures we might have hope. May the God of endurance and encouragement grant you to think in\nharmony with one another, in keeping with Christ Jesus, that with one accord you may with one voice glorify the God and\nFather of our Lord Jesus Christ. Welcome one another, then, as Christ welcomed you, for the glory of God."
   },
   "alleluia": {
     "verses": [
-      "Verse (6): He who lives in the aid of the Most High, shall dwell under the protection of the God of heaven."
+      "Verse (6): He who lives in the aid of the Most High, shall dwell under the protection of the God of heaven.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (6): He says to the Lord: You are my protector and my refuge, my God; in Whom I hope.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: The God of gods, the Lord has spoken and summoned the earth, from the rising of the sun to its setting.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Summon before Me my people who made a covenant with Me by sacrifice.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 9,27-35)\nAt that time, as Jesus was passing by, two blind men followed Jesus, crying out, “Son of David, have pity on us!” When he\nentered the house, the blind men approached him and Jesus said to them, “Do you believe that I can do this?” “Yes, Lord,”\nthey said to him. Then he touched their eyes and said, “Let it be done for you according to your faith.” And their eyes were\nopened. Jesus warned them sternly, “See that no one knows about this.” But they went out and spread word of him through\nall that land. As they were going out, a demoniac who could not speak was brought to him, and when the demon was driven\nout the mute person spoke. The crowds were amazed and said, “Nothing like this has even been seen in Israel.” But the\nPharisees said, “He drives out demons by the prince of demons.” Jesus went around to all the towns and villages, teaching in\ntheir synagogues, proclaiming the gospel of the kingdom, and curing every disease and illness."
+    "reference": "Mt 9,27-35",
+    "text": "At that time, as Jesus was passing by, two blind men followed Jesus, crying out, “Son of David, have pity on us!” When he\nentered the house, the blind men approached him and Jesus said to them, “Do you believe that I can do this?” “Yes, Lord,”\nthey said to him. Then he touched their eyes and said, “Let it be done for you according to your faith.” And their eyes were\nopened. Jesus warned them sternly, “See that no one knows about this.” But they went out and spread word of him through\nall that land. As they were going out, a demoniac who could not speak was brought to him, and when the demon was driven\nout the mute person spoke. The crowds were amazed and said, “Nothing like this has even been seen in Israel.” But the\nPharisees said, “He drives out demons by the prince of demons.” Jesus went around to all the towns and villages, teaching in\ntheir synagogues, proclaiming the gospel of the kingdom, and curing every disease and illness."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:48.716Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 6
 }

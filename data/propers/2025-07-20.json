@@ -1,26 +1,31 @@
 {
   "id": "2025-07-20",
   "date": "2025-07-20",
-  "liturgicalTitle": "SIXTH SUNDAY AFTER PENTECOST",
-  "opening": "HOLY PROPHET ELIJAH",
+  "liturgicalTitle": "SIXTH SUNDAY AFTER PENTECOST\nHOLY PROPHET ELIJAH",
   "troparia": [
     {
-      "label": "Troparion (5): Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of",
-      "text": "the Virgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead\nby His glorious resurrection."
+      "label": "Troparion (5)",
+      "text": "Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of\nthe Virgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead\nby His glorious resurrection.",
+      "tone": 5
     },
     {
-      "label": "Troparion (4): The glorious Elijah, incarnate messenger of God, pillar of Prophets, and second forerunner of the",
-      "text": "coming of Christ, sent graces from on high to Elisha that he might cleanse lepers and heal sickness for all those who\nhonor him.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen."
+      "label": "Troparion (4)",
+      "text": "The glorious Elijah, incarnate messenger of God, pillar of Prophets, and second forerunner of the\ncoming of Christ, sent graces from on high to Elisha that he might cleanse lepers and heal sickness for all those who\nhonor him.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen.",
+      "tone": 4
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (5): You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You,",
-      "text": "as Creator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind.\nAnd so we cry out: Save us, O Lord."
+      "label": "Kontakion (5)",
+      "text": "You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You,\nas Creator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind.\nAnd so we cry out: Save us, O Lord.",
+      "tone": 5
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:48.285Z",
   "prokeimenon": {
-    "text": "Verse: Save me, O Lord, for there is no longer left a just man."
+    "text": "Prokimenon (5): You, O Lord, will guard us and will keep us from this generation, and for ever.\nProkimenon (4): You are a priest forever according to the order of Melchizedek.",
+    "verse": "Verse: Save me, O Lord, for there is no longer left a just man."
   },
   "epistle": {
     "reference": "Rom 12:6-14",
@@ -29,14 +34,20 @@
   "alleluia": {
     "verses": [
       "Verse (5): Your mercies, O Lord, I will sing for ever; from generation to generation I will announce Your truth with",
-      "my mouth."
+      "my mouth.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (5): For You have said: Mercy shall be built up for ever; in the heavens Your truth shall be prepared.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Among His priests were Moses and Aaron; among those who invoked His name was Samuel.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: They called on the Lord and He answered them.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 9:1-8)\nAt that time, Jesus entered a boat, made the crossing, and came into his own town. And there people brought to him a\nparalytic lying on a stretcher. When Jesus saw their faith, he said to the paralytic, “Courage, child, your sins are\nforgiven.” At that, some of the scribes said to themselves, “This man is blaspheming.” Jesus knew what they were\nthinking, and said, “Why do you harbor evil thoughts? Which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise\nand walk’? But that you may know that the Son of Man has authority on earth to forgive sins” - he then said to the\nparalytic, “Rise, pick up your stretcher, and go home.” He rose and went home. When the crowds saw this they were\nstruck with awe and glorified God who had given such authority to human beings."
+    "reference": "Mt 9:1-8",
+    "text": "At that time, Jesus entered a boat, made the crossing, and came into his own town. And there people brought to him a\nparalytic lying on a stretcher. When Jesus saw their faith, he said to the paralytic, “Courage, child, your sins are\nforgiven.” At that, some of the scribes said to themselves, “This man is blaspheming.” Jesus knew what they were\nthinking, and said, “Why do you harbor evil thoughts? Which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise\nand walk’? But that you may know that the Son of Man has authority on earth to forgive sins” - he then said to the\nparalytic, “Rise, pick up your stretcher, and go home.” He rose and went home. When the crowds saw this they were\nstruck with awe and glorified God who had given such authority to human beings."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.552Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 5
 }

@@ -4,33 +4,40 @@
   "liturgicalTitle": "TWENTY-FIFTH SUNDAY AFTER PENTECOST",
   "troparia": [
     {
-      "label": "Troparion (8): You came down from on high, O Merciful One, and accepted three days of burial to free us from",
-      "text": "our sufferings. O Lord, our life and our resurrection, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (8)",
+      "text": "You came down from on high, O Merciful One, and accepted three days of burial to free us from\nour sufferings. O Lord, our life and our resurrection, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 8
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (8): When You rose from the tomb, You also raised the dead and resurrected Adam. Eve exults in",
-      "text": "Your resurrection, and the ends of the world celebrate Your rising from the dead, O Most Merciful One.\nNow and for ever and ever: Amen.\nTheotokion (8): To you, O Mother of God, the invincible leader, we your servants ascribe these victory hymns in\nthanksgiving for our deliverance from evil. With your invincible power free us from all dangers that we may cry\nout to you: Hail, O Bride and pure Virgin!"
+      "label": "Kontakion (8)",
+      "text": "When You rose from the tomb, You also raised the dead and resurrected Adam. Eve exults in\nYour resurrection, and the ends of the world celebrate Your rising from the dead, O Most Merciful One.\nNow and for ever and ever: Amen.\nTheotokion (8): To you, O Mother of God, the invincible leader, we your servants ascribe these victory hymns in\nthanksgiving for our deliverance from evil. With your invincible power free us from all dangers that we may cry\nout to you: Hail, O Bride and pure Virgin!",
+      "tone": 8
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:10:02.951Z",
   "prokeimenon": {
-    "text": "Verse: In Judea God is known; His name is great in Israel."
+    "text": "Prokimenon (8): Pray and give praise to the Lord our God.\nProkimenon (8): Pray and give praise to the Lord our God.",
+    "verse": "Verse: In Judea God is known; His name is great in Israel."
   },
   "epistle": {
-    "reference": "",
+    "reference": "Eph 4,1-6",
     "text": "Reading of the Epistle of St. Paul to the Ephesians.\n(Eph 4,1-6)\nBrethren: I, a prisoner for the Lord, urge you to live in a manner worthy of the call you have received, with all\nhumility and gentleness, with patience, bearing with one another through love, striving to preserve the unity of the\nspirit through the bond of peace: one body and one Spirit, as you were also called to the one hope of your call; one\nLord, one faith, one baptism; one God and Father of all."
   },
   "alleluia": {
     "verses": [
-      "Verse (8): Come, let us rejoice in the Lord; let us acclaim God our Savior:"
+      "Verse (8): Come, let us rejoice in the Lord; let us acclaim God our Savior:",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (8): Let us come before His countenance with praise and acclaim Him with psalms.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Lk 10,25-37)\nAt that time, there was a scholar of the law who stood up to test him and said, “Teacher, what must I do to inherit\neternal life?” Jesus said to him, “What is written in the law? How do you read it?” He said in reply, “You shall\nlove the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind,\nand your neighbor as yourself.” He replied to him, “You have answered correctly; do this and you will live.” But\nbecause he wished to justify himself, he said to Jesus, “And who is my neighbor?” Jesus replied, “A man fell\nvictim to robbers as he went down from Jerusalem to Jericho. They stripped and beat him and went off leaving\nhim half-dead. A priest happened to be going down that road, but when he saw him, he passed by to the opposite\nside. Likewise a Levite came to the place, and when he saw him, he passed by on the opposite side. But a\nSamaritan traveler who came upon him was moved with compassion at the sight. He approached the victim,\npoured oil and wine over his wounds and bandaged them. Then he lifted him up on his own animal, took him to an\ninn and cared for him. The next day he took out two silver coins and gave them to the innkeeper with the\ninstruction, ‘Take care of him. If you spend more than what I have given you, I shall repay you on my way back.’\nWhich of these three, in your opinion, was neighbor to the robbers’ victim?” He answered, “The one who treated\nhim with mercy.” Jesus said to him, “Go and do likewise.”"
+    "reference": "Lk 10,25-37",
+    "text": "At that time, there was a scholar of the law who stood up to test him and said, “Teacher, what must I do to inherit\neternal life?” Jesus said to him, “What is written in the law? How do you read it?” He said in reply, “You shall\nlove the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind,\nand your neighbor as yourself.” He replied to him, “You have answered correctly; do this and you will live.” But\nbecause he wished to justify himself, he said to Jesus, “And who is my neighbor?” Jesus replied, “A man fell\nvictim to robbers as he went down from Jerusalem to Jericho. They stripped and beat him and went off leaving\nhim half-dead. A priest happened to be going down that road, but when he saw him, he passed by to the opposite\nside. Likewise a Levite came to the place, and when he saw him, he passed by on the opposite side. But a\nSamaritan traveler who came upon him was moved with compassion at the sight. He approached the victim,\npoured oil and wine over his wounds and bandaged them. Then he lifted him up on his own animal, took him to an\ninn and cared for him. The next day he took out two silver coins and gave them to the innkeeper with the\ninstruction, ‘Take care of him. If you spend more than what I have given you, I shall repay you on my way back.’\nWhich of these three, in your opinion, was neighbor to the robbers’ victim?” He answered, “The one who treated\nhim with mercy.” Jesus said to him, “Go and do likewise.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:50.392Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 8
 }

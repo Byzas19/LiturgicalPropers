@@ -4,33 +4,40 @@
   "liturgicalTitle": "TWENTY-SECOND SUNDAY AFTER PENTECOST",
   "troparia": [
     {
-      "label": "Troparion (5): Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of the Virgin",
-      "text": "for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead by His glorious\nresurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (5)",
+      "text": "Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of the Virgin\nfor our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead by His glorious\nresurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 5
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (5): You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You, as",
-      "text": "Creator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind. And so we cry\nout: Save us, O Lord.\nNow and for ever and ever: Amen.\nTheotokion (5): Rejoice, O Impassable Door of the Lord! Rejoice, O Rampart and Protection of those who have recourse to you!\nRejoice, O Tranquil Haven and Virgin, who gave birth in the flesh to your Maker and God! Fail not to intercede for those who\nsing and worship the Child you bore."
+      "label": "Kontakion (5)",
+      "text": "You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You, as\nCreator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind. And so we cry\nout: Save us, O Lord.\nNow and for ever and ever: Amen.\nTheotokion (5): Rejoice, O Impassable Door of the Lord! Rejoice, O Rampart and Protection of those who have recourse to you!\nRejoice, O Tranquil Haven and Virgin, who gave birth in the flesh to your Maker and God! Fail not to intercede for those who\nsing and worship the Child you bore.",
+      "tone": 5
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:52.244Z",
   "prokeimenon": {
-    "text": "Verse: Save me, O Lord, for there is no longer left a just man."
+    "text": "Prokimenon (5): You, O Lord, will guard us and will keep us from this generation, and for ever.\nProkimenon (5): You, O Lord, will guard us and will keep us from this generation, and for ever.",
+    "verse": "Verse: Save me, O Lord, for there is no longer left a just man."
   },
   "epistle": {
-    "reference": "",
+    "reference": "Gal 6,11-18",
     "text": "Reading of the Epistle of St. Paul to the Galatians.\n(Gal 6,11-18)\nBrethren: See with what large letters I am writing to you in my own hand! It is those who want to make a good appearance in the\nflesh who are trying to compel you to have yourselves circumcised, only that they may not be persecuted for the cross of Christ.\nNot even those having themselves circumcised observe the law themselves; they only want you to be circumcised so that they may\nboast of your flesh. But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified\nto me, and I to the world. For neither does circumcision mean anything, nor does uncircumcision, but only a new creation. Peace\nand mercy be to all who follow this rule and to the Israel of God. From now on, let no one make troubles for me; for I bear the\nmarks of Jesus on my body. The grace of our Lord Jesus Christ be with your spirit, brothers. Amen."
   },
   "alleluia": {
     "verses": [
-      "Verse (5): Your mercies, O Lord, I will sing for ever; from generation to generation I will announce Your truth with my mouth."
+      "Verse (5): Your mercies, O Lord, I will sing for ever; from generation to generation I will announce Your truth with my mouth.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (5): For You have said: Mercy shall be built up for ever; in the heavens Your truth shall be prepared.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Lk 8,26-39)\nTWENTY-THIRD SUNDAY AFTER PENTECOST\nAt that time, Jesus came to the territory of the Gerasenes, which is opposite Galilee. When he came ashore a man from the town\nwho was possessed by demons met him. For a long time he had not worn clothes; he did not live in a house, but lived among the\ntombs. When he saw Jesus, he cried out and fell down before him; in a loud voice he shouted, “What have you to do with me,\nJesus, son of the Most High God? I beg you, do not torment me!” For he had ordered the unclean spirit to come out of the man. (It\nhad taken hold of him many times, and he used to be bound with chains and shackles as a restraint, but he would break his bonds\nand be driven by the demon into deserted places.) Then Jesus asked him, “What is your name?” He replied, “Legion,” because\nmany demons had entered him. And they pleaded with him not to order them to depart to the abyss.\nA herd of many swine was feeding there on the hillside, and they pleaded with him to allow them to enter those swine; and he let\nthem. The demons came out of the man and entered the swine, and the herd rushed down the steep bank into the lake and was\ndrowned. When the swineherds saw what had happened, they ran away and reported the incident in the town and throughout the\ncountryside. People came out to see what had happened and, when they approached Jesus, they discovered the man from whom\nthe demons had come out sitting at his feet. He was clothed and in his right mind, and they were seized with fear. Those who\nwitnessed it told them how the possessed man had been saved. The entire population of the region of the Gerasenes asked Jesus to\nleave them because they were seized with great fear. So he got into a boat and returned. The man from whom the demons had\ncome out begged to remain with him, but he sent him away, saying, “Return home and recount what God has done for you.” The\nman went off and proclaimed throughout the whole town what Jesus had done for him."
+    "reference": "Lk 8,26-39",
+    "text": "At that time, Jesus came to the territory of the Gerasenes, which is opposite Galilee. When he came ashore a man from the town\nwho was possessed by demons met him. For a long time he had not worn clothes; he did not live in a house, but lived among the\ntombs. When he saw Jesus, he cried out and fell down before him; in a loud voice he shouted, “What have you to do with me,\nJesus, son of the Most High God? I beg you, do not torment me!” For he had ordered the unclean spirit to come out of the man. (It\nhad taken hold of him many times, and he used to be bound with chains and shackles as a restraint, but he would break his bonds\nand be driven by the demon into deserted places.) Then Jesus asked him, “What is your name?” He replied, “Legion,” because\nmany demons had entered him. And they pleaded with him not to order them to depart to the abyss.\nA herd of many swine was feeding there on the hillside, and they pleaded with him to allow them to enter those swine; and he let\nthem. The demons came out of the man and entered the swine, and the herd rushed down the steep bank into the lake and was\ndrowned. When the swineherds saw what had happened, they ran away and reported the incident in the town and throughout the\ncountryside. People came out to see what had happened and, when they approached Jesus, they discovered the man from whom\nthe demons had come out sitting at his feet. He was clothed and in his right mind, and they were seized with fear. Those who\nwitnessed it told them how the possessed man had been saved. The entire population of the region of the Gerasenes asked Jesus to\nleave them because they were seized with great fear. So he got into a boat and returned. The man from whom the demons had\ncome out begged to remain with him, but he sent him away, saying, “Return home and recount what God has done for you.” The\nman went off and proclaimed throughout the whole town what Jesus had done for him."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:45.328Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 5
 }

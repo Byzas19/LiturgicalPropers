@@ -91,6 +91,12 @@ export const PropersDisplay = ({
         <Text style={[typography.body, styles.opening, { color: colors.text }]}>{proper.opening}</Text>
       )}
       {proper.antiphons && <AntiphonSection antiphons={proper.antiphons} />}
+      {proper.entranceHymn && (
+        <View>
+          <SectionDivider label="Entrance Hymn" />
+          <Text style={[typography.body, { color: colors.text }]}>{proper.entranceHymn}</Text>
+        </View>
+      )}
       <TroparionKontakionSection troparia={proper.troparia} kondakia={proper.kondakia} />
       {proper.holyGod && (
         <View>
@@ -103,6 +109,22 @@ export const PropersDisplay = ({
       {proper.alleluia && <AlleluiaSection alleluia={proper.alleluia} />}
       {proper.gospel && <GospelSection gospel={proper.gospel} />}
 
+      {/* Hirmos of the Feast (or "It is truly right") */}
+      {proper.hirmos && (
+        <View>
+          <SectionDivider label={proper.hirmos.title} />
+          <Text style={[typography.body, { color: colors.text }]}>{proper.hirmos.text}</Text>
+        </View>
+      )}
+
+      {/* Catch-all sections that don't map to a typed field */}
+      {proper.additionalSections?.map((section) => (
+        <View key={`add-${section.title}`}>
+          <SectionDivider label={section.title} />
+          <Text style={[typography.body, { color: colors.text }]}>{section.text}</Text>
+        </View>
+      ))}
+
       {/* Communion Hymn */}
       {proper.communionHymn && (
         <View>
@@ -110,6 +132,14 @@ export const PropersDisplay = ({
           <Text style={[typography.body, { color: colors.text }]}>{proper.communionHymn}</Text>
         </View>
       )}
+
+      {/* Post-Communion sections (Blessed is He Who Comes, etc.) */}
+      {proper.postCommunion?.map((section) => (
+        <View key={`post-${section.title}`}>
+          <SectionDivider label={section.title} />
+          <Text style={[typography.body, { color: colors.text }]}>{section.text}</Text>
+        </View>
+      ))}
 
       {/* Footer */}
       <SectionDivider showCross={true} />

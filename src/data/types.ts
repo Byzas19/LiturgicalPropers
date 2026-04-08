@@ -3,6 +3,11 @@ export interface AntiphonEntry {
   text: string;
 }
 
+export interface NamedSection {
+  title: string;
+  text: string;
+}
+
 export interface LiturgicalProper {
   id: string;
   date: string;
@@ -10,6 +15,7 @@ export interface LiturgicalProper {
   tone?: number;
   opening?: string;
   antiphons?: AntiphonEntry[];
+  entranceHymn?: string;
   holyGod?: string;
   troparia: TroparionEntry[];
   kondakia: KondakionEntry[];
@@ -17,7 +23,10 @@ export interface LiturgicalProper {
   epistle?: ScriptureReading;
   alleluia?: AlleluiaEntry;
   gospel?: ScriptureReading;
+  hirmos?: NamedSection;
   communionHymn?: string;
+  postCommunion?: NamedSection[];
+  additionalSections?: NamedSection[];
   specialNotes?: string;
   pdfSourceUrl?: string;
   lastUpdated: string;

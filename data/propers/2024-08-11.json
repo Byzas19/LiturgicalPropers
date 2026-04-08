@@ -1,41 +1,52 @@
 {
   "id": "2024-08-11",
   "date": "2024-08-11",
-  "liturgicalTitle": "TWELFTH SUNDAY AFTER PENTECOST",
-  "opening": "POSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD",
+  "liturgicalTitle": "TWELFTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD",
   "troparia": [
     {
-      "label": "Troparion (3): Let the heavens be glad, let the earth rejoice, for the Lord has done a mighty deed with His arm. He trampled",
-      "text": "death by death; He became the firstborn of the dead; He saved us from the abyss of Hades and granted great mercy to the\nworld."
+      "label": "Troparion (3)",
+      "text": "Let the heavens be glad, let the earth rejoice, for the Lord has done a mighty deed with His arm. He trampled\ndeath by death; He became the firstborn of the dead; He saved us from the abyss of Hades and granted great mercy to the\nworld.",
+      "tone": 3
     },
     {
-      "label": "Troparion (7): You were transfigured on the mountain, O Christ our God, revealing as much of Your glory to Your",
-      "text": "disciples as they could behold. Through the prayers of the Mother of God, let Your everlasting light also shine upon us\nsinners. O Giver of Light, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen."
+      "label": "Troparion (7)",
+      "text": "You were transfigured on the mountain, O Christ our God, revealing as much of Your glory to Your\ndisciples as they could behold. Through the prayers of the Mother of God, let Your everlasting light also shine upon us\nsinners. O Giver of Light, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen.",
+      "tone": 7
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (7): You were transfigured on the mountain, O Christ our God, and Your disciples beheld as much as they could",
-      "text": "of Your glory, so that when they would see You crucified, they would understand that You suffered willingly; and they\nwould preach to the world that You are truly the reflection of the Father."
+      "label": "Kontakion (7)",
+      "text": "You were transfigured on the mountain, O Christ our God, and Your disciples beheld as much as they could\nof Your glory, so that when they would see You crucified, they would understand that You suffered willingly; and they\nwould preach to the world that You are truly the reflection of the Father.",
+      "tone": 7
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:50.474Z",
   "prokeimenon": {
-    "text": "Verse: Clap your hands, all you nations; shout unto God with the voice of joy."
+    "text": "Prokimenon (3): Sing to our God, sing; sing to our King, sing.\nProkimenon (3): Sing to our God, sing; sing to our King, sing.",
+    "verse": "Verse: Clap your hands, all you nations; shout unto God with the voice of joy."
   },
   "epistle": {
-    "reference": "",
+    "reference": "1Cor 15,1-11",
     "text": "Reading of the First Epistle of St. Paul to the Corinthians.\n(1Cor 15,1-11)\nBrethren: I am reminding you of the gospel I preached to you, which you indeed received and in which you also stand.\nThrough it you are also being saved, if you hold fast to the word I preached to you, unless you believed in vain. For I handed\non to you as of first importance what I also received: that Christ died for our sins in accordance with the scriptures; that he\nwas buried; that he was raised on the third day in accordance with the scriptures; that he appeared to Kephas, then to the\nTwelve. After that, he appeared to more than five hundred brothers at once, most of whom are still living, though some have\nfallen asleep. After that he appeared to James, then to all the apostles. Last of all, as to one born abnormally, he appeared to\nme. For I am the least of the apostles, not fit to be called an apostle, because I persecuted the church of God. But by the\ngrace of God I am what I am, and his grace to me has not been ineffective. Indeed, I have toiled harder than all of them; not\nI, however, but the grace of God [that is] with me. Therefore, whether it be I or they, so we preach and so you believed."
   },
   "alleluia": {
     "verses": [
-      "Verse (3): In You, O Lord, have I hoped that I may not be put to shame for ever."
+      "Verse (3): In You, O Lord, have I hoped that I may not be put to shame for ever.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (3): Be a protector unto me, O God, and a house of refuge to save me.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 19,16-26)\nAt that time, someone approached Jesus and said, “Teacher, what good must I do to gain eternal life?” He answered him,\n“Why do you ask me about the good? There is only One who is good. If you wish to enter into life, keep the\ncommandments.” He asked him, “Which ones?” And Jesus replied, “‘You shall not kill; you shall not commit adultery; you\nshall not steal; you shall not bear false witness; honor your father and your mother’; and ‘you shall love your neighbor as\nyourself.’” The young man said to him, “All these I have observed. What do I still lack?” Jesus said to him, “If you wish to\nbe perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.”\nWhen the young man heard this statement, he went away sad, for he had many possessions. Then Jesus said to his disciples,\n“Amen, I say to you, it will be hard for one who is rich to enter the kingdom of heaven. Again I say to you, it is easier for a\ncamel to pass through the eye of a needle than for one who is rich to enter the kingdom of God.” When the disciples heard\nthis, they were greatly astonished and said, “Who then can be saved?” Jesus looked at them and said, “For human beings this\nis impossible, but for God all things are possible.”\nIt is truly right... (Or the Hirmos of the Feast):\nO my soul, extol the Lord transfigured on Mount Tabor.\nHirmos: You gave birth without blemish; for it was God Who came forth from your womb, appearing in the flesh upon the\nearth and dwelling among us. Therefore, O Mother of God, we all extol you."
+    "reference": "Mt 19,16-26",
+    "text": "At that time, someone approached Jesus and said, “Teacher, what good must I do to gain eternal life?” He answered him,\n“Why do you ask me about the good? There is only One who is good. If you wish to enter into life, keep the\ncommandments.” He asked him, “Which ones?” And Jesus replied, “‘You shall not kill; you shall not commit adultery; you\nshall not steal; you shall not bear false witness; honor your father and your mother’; and ‘you shall love your neighbor as\nyourself.’” The young man said to him, “All these I have observed. What do I still lack?” Jesus said to him, “If you wish to\nbe perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.”\nWhen the young man heard this statement, he went away sad, for he had many possessions. Then Jesus said to his disciples,\n“Amen, I say to you, it will be hard for one who is rich to enter the kingdom of heaven. Again I say to you, it is easier for a\ncamel to pass through the eye of a needle than for one who is rich to enter the kingdom of God.” When the disciples heard\nthis, they were greatly astonished and said, “Who then can be saved?” Jesus looked at them and said, “For human beings this\nis impossible, but for God all things are possible.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:44.559Z"
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "O my soul, extol the Lord transfigured on Mount Tabor.\nHirmos: You gave birth without blemish; for it was God Who came forth from your womb, appearing in the flesh upon the\nearth and dwelling among us. Therefore, O Mother of God, we all extol you."
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 3
 }

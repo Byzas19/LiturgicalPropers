@@ -4,41 +4,50 @@
   "liturgicalTitle": "SUNDAY OF THE PUBLICAN AND PHARISEE",
   "troparia": [
     {
-      "label": "Troparion (4): When the disciples of the Lord learned from the angel the glorious news of the resurrection and cast off",
-      "text": "the ancestral condemnation, they proudly told the apostles: Death has been plundered! Christ our God is risen, granting\nto the world great mercy."
+      "label": "Troparion (4)",
+      "text": "When the disciples of the Lord learned from the angel the glorious news of the resurrection and cast off\nthe ancestral condemnation, they proudly told the apostles: Death has been plundered! Christ our God is risen, granting\nto the world great mercy.",
+      "tone": 4
     },
     {
-      "label": "Troparion (1): Hail, Mother of God, Virgin full of grace. From you has shown forth the Son of Justice, Christ our",
-      "text": "God, shining upon those who are in darkness. Rejoice also, you just Elder, Simeon; for you received in your arms the\nRedeemer of our souls, Who has given us Resurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (1)",
+      "text": "Hail, Mother of God, Virgin full of grace. From you has shown forth the Son of Justice, Christ our\nGod, shining upon those who are in darkness. Rejoice also, you just Elder, Simeon; for you received in your arms the\nRedeemer of our souls, Who has given us Resurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 1
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (3): Let us bring to the Lord the sighs of the Publican, and as sinners let us approach the Lord, for He",
-      "text": "desires the salvation of all. He grants forgiveness to all who repent. For us He became man while remaining God, co-\neternal with the Father.\nNow and for ever and ever: Amen."
+      "label": "Kontakion (3)",
+      "text": "Let us bring to the Lord the sighs of the Publican, and as sinners let us approach the Lord, for He\ndesires the salvation of all. He grants forgiveness to all who repent. For us He became man while remaining God, co-\neternal with the Father.\nNow and for ever and ever: Amen.",
+      "tone": 3
     },
     {
-      "label": "Kontakion (1): O Christ our God, through Your birth You sanctified the Virgins womb; and blessed, as it was proper,",
-      "text": "the hands of Simeon. Today, You have come to bring us deliverance. Give peace to nations at war, and strengthen our\ncivil authorities, for You alone love mankind."
+      "label": "Kontakion (1)",
+      "text": "O Christ our God, through Your birth You sanctified the Virgins womb; and blessed, as it was proper,\nthe hands of Simeon. Today, You have come to bring us deliverance. Give peace to nations at war, and strengthen our\ncivil authorities, for You alone love mankind.",
+      "tone": 1
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:56.085Z",
   "prokeimenon": {
-    "text": "Verse: Bless the Lord, O my soul; O Lord my God, You are exceedingly great."
+    "text": "Prokimenon (4): How great are Your works, O Lord; You have made all things in wisdom.\nProkimenon (4): How great are Your works, O Lord; You have made all things in wisdom.",
+    "verse": "Verse: Bless the Lord, O my soul; O Lord my God, You are exceedingly great."
   },
   "epistle": {
-    "reference": "",
+    "reference": "2Tim 3,10-15",
     "text": "Reading of the Second Epistle of St. Paul to Timothy.\n(2Tim 3,10-15)\nBrethren: You have followed my teaching, way of life, purpose, faith, patience, love, endurance, persecutions, and\nsufferings, such as happened to me in Antioch, Iconium, and Lystra, persecutions that I endured. Yet from all these\nthings the Lord delivered me. In fact, all who want to live religiously in Christ Jesus will be persecuted. But wicked\npeople and charlatans will go from bad to worse, deceivers and deceived. But you, remain faithful to what you have\nlearned and believed, because you know from whom you learned it, and that from infancy you have known [the] sacred\nscriptures, which are capable of giving you wisdom for salvation through faith in Christ Jesus."
   },
   "alleluia": {
     "verses": [
-      "Verse (4): Poise yourself and advance in triumph and reign in the cause of truth, and meekness, and justice."
+      "Verse (4): Poise yourself and advance in triumph and reign in the cause of truth, and meekness, and justice.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (4): You have loved justice and hated iniquity.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Lk 18,10-14)\nThe Lord told this parable: “Two people went up to the temple area to pray; one was a Pharisee and the other was a tax\ncollector. The Pharisee took up his position and spoke this prayer to himself, ‘O God, I thank you that I am not like the\nrest of humanity - greedy, dishonest, adulterous - or even like this tax collector. I fast twice a week, and I pay tithes on\nmy whole income.’ But the tax collector stood off at a distance and would not even raise his eyes to heaven but beat his\nbreast and prayed, ‘O God, be merciful to me a sinner.’ I tell you, the latter went home justified, not the former; for\neveryone who exalts himself will be humbled, and the one who humbles himself will be exalted.”"
+    "reference": "Lk 18,10-14",
+    "text": "The Lord told this parable: “Two people went up to the temple area to pray; one was a Pharisee and the other was a tax\ncollector. The Pharisee took up his position and spoke this prayer to himself, ‘O God, I thank you that I am not like the\nrest of humanity - greedy, dishonest, adulterous - or even like this tax collector. I fast twice a week, and I pay tithes on\nmy whole income.’ But the tax collector stood off at a distance and would not even raise his eyes to heaven but beat his\nbreast and prayed, ‘O God, be merciful to me a sinner.’ I tell you, the latter went home justified, not the former; for\neveryone who exalts himself will be humbled, and the one who humbles himself will be exalted.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:47.109Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 4
 }

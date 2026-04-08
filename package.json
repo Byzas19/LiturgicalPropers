@@ -38,6 +38,7 @@
     "@types/pdf-parse": "^1.1.5",
     "@types/react": "~18.3.0",
     "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^3.11.174",
     "playwright": "^1.58.2",
     "ts-node": "^10.9.2",
     "typescript": "~5.8.0"

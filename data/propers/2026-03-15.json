@@ -1,26 +1,31 @@
 {
   "id": "2026-03-15",
   "date": "2026-03-15",
-  "liturgicalTitle": "FOURTH SUNDAY OF GREAT LENT",
-  "opening": "(Commemoration of St. John Climacus)",
+  "liturgicalTitle": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)",
   "troparia": [
     {
-      "label": "Troparion (7): By Your cross You destroyed death; You opened Paradise to the thief; You changed the lamentation of the myrrh-",
-      "text": "bearers to joy, and charged the apostles to proclaim that You are risen, O Christ our God, offering great mercy to the world."
+      "label": "Troparion (7)",
+      "text": "By Your cross You destroyed death; You opened Paradise to the thief; You changed the lamentation of the myrrh-\nbearers to joy, and charged the apostles to proclaim that You are risen, O Christ our God, offering great mercy to the world.",
+      "tone": 7
     },
     {
-      "label": "Troparion (1): O John, our father, Godbearer, hermit of the desert and angel in the flesh, you received heavenly gifts by your",
-      "text": "fasting, vigils, and prayers; You healed the sick and those coming to you with faith. Glory be to Him Who gives you strength;\nglory be to Him Who crowned you; glory be to the Lord Who heals all through your intercession.\nGlory be to the Father, and to the Son, and to the Holy Spirit, Now and for ever and ever: Amen."
+      "label": "Troparion (1)",
+      "text": "O John, our father, Godbearer, hermit of the desert and angel in the flesh, you received heavenly gifts by your\nfasting, vigils, and prayers; You healed the sick and those coming to you with faith. Glory be to Him Who gives you strength;\nglory be to Him Who crowned you; glory be to the Lord Who heals all through your intercession.\nGlory be to the Father, and to the Son, and to the Holy Spirit, Now and for ever and ever: Amen.",
+      "tone": 1
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (4): O John, our leader and father, the Lord has placed you on high as a true guiding star lighting the ends of the earth",
-      "text": "with the truth of your virtue."
+      "label": "Kontakion (4)",
+      "text": "O John, our leader and father, the Lord has placed you on high as a true guiding star lighting the ends of the earth\nwith the truth of your virtue.",
+      "tone": 4
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:46.729Z",
   "prokeimenon": {
-    "text": "Verse: Bring to the Lord, O you sons of God; bring to the Lord young rams."
+    "text": "Prokimenon (7): The Lord will give strength to His people; the Lord will bless His people with peace.\nProkimenon of the Venerable (8): Let the faithful exult in glory; let them sing for joy and take their rest.",
+    "verse": "Verse: Bring to the Lord, O you sons of God; bring to the Lord young rams."
   },
   "epistle": {
     "reference": "Heb 6:13-20",
@@ -28,14 +33,22 @@
   },
   "alleluia": {
     "verses": [
-      "Verse (7): It is good to give praise to the Lord; and to sing in Your name, O Most High."
+      "Verse (7): It is good to give praise to the Lord; and to sing in Your name, O Most High.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (7): To announce Your mercy in the morning and Your truth every night.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (Of the Venerable): Planted in the house of the Lord, they will flourish in the courtyard of our God.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mk 9:17-31)\nAt that time, someone in the crowd came to Jesus and said, “Teacher I have brought to you my son possessed by a mute spirit.\nWherever it seizes him, it throws him down; he foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to\ndrive it out, but they were unable to do so.” He said to them in reply, “O faithless generation, how long will I be with you? How\nlong will I endure you? Bring him to me.” They brought the boy to him. And when he saw him, the spirit immediately threw the\nboy into convulsions. As he fell to the ground, he began to roll around and foam at the mouth. Then he questioned his father,\n“How long has this been happening to him?” He replied, “Since childhood. It has often thrown him into fire and into water to kill\nhim. But if you can do anything, have compassion on us and help us.” Jesus said to him, “If you can! Everything is possible to one\nwho has faith.” Then the boy's father cried out, “I do believe; help my unbelief!” Jesus, on seeing a crowd rapidly gathering,\nrebuked the unclean spirit and said to it, “Mute and deaf spirit, I command you: come out of him and never enter him again!”\nShouting and throwing the boy into convulsions, it came out. He became like a corpse, which caused many to say, “He is dead!”\nBut Jesus took him by the hand, raised him, and he stood up. When he entered the house, his disciples asked him in private, “Why\ncould we not drive it out?” He said to them, “This kind can only come out through prayer and through fasting.”\nIt is truly right... (Or the Hirmos of the Feast):\nIn you, O Woman Full of Grace, the angelic choirs and the human race - all creation - rejoices. O Sanctified Temple, Mystical\nParadise, and Glory of Virgins! He, Who is our God from before all ages took flesh from you and became a child. He made your\nwomb a throne, and greater than the heavens. In you, O Woman Full of Grace, all creation rejoices. All praise be to you!"
+    "reference": "Mk 9:17-31",
+    "text": "At that time, someone in the crowd came to Jesus and said, “Teacher I have brought to you my son possessed by a mute spirit.\nWherever it seizes him, it throws him down; he foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to\ndrive it out, but they were unable to do so.” He said to them in reply, “O faithless generation, how long will I be with you? How\nlong will I endure you? Bring him to me.” They brought the boy to him. And when he saw him, the spirit immediately threw the\nboy into convulsions. As he fell to the ground, he began to roll around and foam at the mouth. Then he questioned his father,\n“How long has this been happening to him?” He replied, “Since childhood. It has often thrown him into fire and into water to kill\nhim. But if you can do anything, have compassion on us and help us.” Jesus said to him, “If you can! Everything is possible to one\nwho has faith.” Then the boy's father cried out, “I do believe; help my unbelief!” Jesus, on seeing a crowd rapidly gathering,\nrebuked the unclean spirit and said to it, “Mute and deaf spirit, I command you: come out of him and never enter him again!”\nShouting and throwing the boy into convulsions, it came out. He became like a corpse, which caused many to say, “He is dead!”\nBut Jesus took him by the hand, raised him, and he stood up. When he entered the house, his disciples asked him in private, “Why\ncould we not drive it out?” He said to them, “This kind can only come out through prayer and through fasting.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:42.715Z"
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "In you, O Woman Full of Grace, the angelic choirs and the human race - all creation - rejoices. O Sanctified Temple, Mystical\nParadise, and Glory of Virgins! He, Who is our God from before all ages took flesh from you and became a child. He made your\nwomb a throne, and greater than the heavens. In you, O Woman Full of Grace, all creation rejoices. All praise be to you!"
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 7
 }

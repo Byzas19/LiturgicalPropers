@@ -1,30 +1,36 @@
 {
   "id": "2025-07-13",
   "date": "2025-07-13",
-  "liturgicalTitle": "FIFTH SUNDAY AFTER PENTECOST",
-  "opening": "SUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS",
+  "liturgicalTitle": "FIFTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS",
   "troparia": [
     {
-      "label": "Troparion (4): When the disciples of the Lord learned from the angel the glorious news of the resurrection and cast off the",
-      "text": "ancestral condemnation, they proudly told the apostles: Death has been plundered! Christ our God is risen, granting to the world\ngreat mercy."
+      "label": "Troparion (4)",
+      "text": "When the disciples of the Lord learned from the angel the glorious news of the resurrection and cast off the\nancestral condemnation, they proudly told the apostles: Death has been plundered! Christ our God is risen, granting to the world\ngreat mercy.",
+      "tone": 4
     },
     {
-      "label": "Troparion (8): O Christ our God, You are most glorified, for You established our fathers as lights to all the earth. Through them",
-      "text": "You led us to the true faith. O most merciful Lord, glory be to You!\nNow and for ever and ever: Amen.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (8)",
+      "text": "O Christ our God, You are most glorified, for You established our fathers as lights to all the earth. Through them\nYou led us to the true faith. O most merciful Lord, glory be to You!\nNow and for ever and ever: Amen.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 8
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (8): The preaching of the apostles and the decisions of the Fathers have established the true faith of the Church, which",
-      "text": "she wears as the garment of truth, fashioned from the theology on high. She justly governs and glorifies the great mystery of\nworship.\nNow and for ever and ever: Amen."
+      "label": "Kontakion (8)",
+      "text": "The preaching of the apostles and the decisions of the Fathers have established the true faith of the Church, which\nshe wears as the garment of truth, fashioned from the theology on high. She justly governs and glorifies the great mystery of\nworship.\nNow and for ever and ever: Amen.",
+      "tone": 8
     },
     {
-      "label": "Kontakion (4): My Savior and Deliverer from the grave, as God, has raised out of bondage the children of earth and shattered the",
-      "text": "gates of Hades; and as Master, He rose on the third day."
+      "label": "Kontakion (4)",
+      "text": "My Savior and Deliverer from the grave, as God, has raised out of bondage the children of earth and shattered the\ngates of Hades; and as Master, He rose on the third day.",
+      "tone": 4
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:48.323Z",
   "prokeimenon": {
-    "text": "Verse: Bless the Lord, O my soul; O Lord my God, You are exceedingly great."
+    "text": "Prokimenon (4): How great are Your works, O Lord; You have made all things in wisdom.\nProkimenon (4): Blessed are You, and praiseworthy, O Lord, the God of our fathers, and glorious forever is Your name.",
+    "verse": "Verse: Bless the Lord, O my soul; O Lord my God, You are exceedingly great."
   },
   "epistle": {
     "reference": "Rom 10:1-10",
@@ -32,14 +38,20 @@
   },
   "alleluia": {
     "verses": [
-      "Verse (4): Poise yourself and advance in triumph and reign in the cause of truth, and meekness, and justice."
+      "Verse (4): Poise yourself and advance in triumph and reign in the cause of truth, and meekness, and justice.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (4): You have loved justice and hated iniquity.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: The God of gods, the Lord has spoken and summoned the earth, from the rising of the sun to its setting.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Summon before Me my people who made a covenant with Me by sacrifice.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 8:28-9:1)\nAt that time, when Jesus came to the other side, to the territory of the Gadarenes, two demoniacs who were coming from the\ntombs met him. They were so savage that no one could travel by that road. They cried out, “What have you to do with us, Son of\nGod? Have you come here to torment us before the appointed time?” Some distance away a herd of many swine was feeding. The\ndemons pleaded with him, “If you drive us out, send us into the herd of swine.” And he said to them, “Go then!” They came out\nand entered the swine, and the whole herd rushed down the steep bank into the sea where they drowned. The swineherds ran away,\nand when they came to the town they reported everything, including what had happened to the demoniacs. Thereupon the whole\ntown came out to meet Jesus, and when they saw him they begged him to leave their district. He entered a boat, made the crossing,\nand came into his own town."
+    "reference": "Mt 8:28-9:1",
+    "text": "At that time, when Jesus came to the other side, to the territory of the Gadarenes, two demoniacs who were coming from the\ntombs met him. They were so savage that no one could travel by that road. They cried out, “What have you to do with us, Son of\nGod? Have you come here to torment us before the appointed time?” Some distance away a herd of many swine was feeding. The\ndemons pleaded with him, “If you drive us out, send us into the herd of swine.” And he said to them, “Go then!” They came out\nand entered the swine, and the whole herd rushed down the steep bank into the sea where they drowned. The swineherds ran away,\nand when they came to the town they reported everything, including what had happened to the demoniacs. Thereupon the whole\ntown came out to meet Jesus, and when they saw him they begged him to leave their district. He entered a boat, made the crossing,\nand came into his own town."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.568Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 4
 }

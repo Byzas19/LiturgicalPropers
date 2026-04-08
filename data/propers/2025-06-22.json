@@ -4,18 +4,23 @@
   "liturgicalTitle": "SECOND SUNDAY AFTER PENTECOST",
   "troparia": [
     {
-      "label": "Troparion (1): Though the stone was sealed by the Jews and soldiers guarded Your immaculate body, You arose, O",
-      "text": "Savior, on the third day, and gave life to the world. And so the heavenly powers cried out to You, O Giver of life:\nGlory to Your resurrection, O Christ! Glory to Your kingdom! Glory to Your saving plan, O only Lover of Mankind!\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (1)",
+      "text": "Though the stone was sealed by the Jews and soldiers guarded Your immaculate body, You arose, O\nSavior, on the third day, and gave life to the world. And so the heavenly powers cried out to You, O Giver of life:\nGlory to Your resurrection, O Christ! Glory to Your kingdom! Glory to Your saving plan, O only Lover of Mankind!\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 1
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (1): You arose in glory from the tomb and with Yourself You raised the world. All humanity acclaims You",
-      "text": "as God, and death has vanished. Adam exults, O Master; and Eve, redeemed now from bondage, cries out for joy: You\nare the One, O Christ, Who offer resurrection to all.\nNow and for ever and ever: Amen.\nTheotokion (1): When Gabriel uttered to you, O Virgin, his Rejoice! - at that sound the Master of all became flesh in\nyou, the holy ark. As the just David said, you have become wider than the heavens, carrying your Creator: Glory to\nHim Who dwelt in you! Glory to Him Who came forth from you! Glory to Him Who freed us through birth from you!"
+      "label": "Kontakion (1)",
+      "text": "You arose in glory from the tomb and with Yourself You raised the world. All humanity acclaims You\nas God, and death has vanished. Adam exults, O Master; and Eve, redeemed now from bondage, cries out for joy: You\nare the One, O Christ, Who offer resurrection to all.\nNow and for ever and ever: Amen.\nTheotokion (1): When Gabriel uttered to you, O Virgin, his Rejoice! - at that sound the Master of all became flesh in\nyou, the holy ark. As the just David said, you have become wider than the heavens, carrying your Creator: Glory to\nHim Who dwelt in you! Glory to Him Who came forth from you! Glory to Him Who freed us through birth from you!",
+      "tone": 1
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:48.431Z",
   "prokeimenon": {
-    "text": "Verse: Rejoice in the Lord, O you just; praise befits the righteous."
+    "text": "Prokimenon (1): Let Your mercy, O Lord, be upon us, as we have hoped in You.\nProkimenon (1): Let Your mercy, O Lord, be upon us, as we have hoped in You.",
+    "verse": "Verse: Rejoice in the Lord, O you just; praise befits the righteous."
   },
   "epistle": {
     "reference": "Rom 2:10-16",
@@ -23,14 +28,17 @@
   },
   "alleluia": {
     "verses": [
-      "Verse (1): God gives me vindication, and has subdued peoples under me."
+      "Verse (1): God gives me vindication, and has subdued peoples under me.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (1): Making great the salvation of the king, and showing mercy to His anointed, to David, and to his posterity for",
+      "ever.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 4:18-23)\nAt that time, as Jesus was walking by the Sea of Galilee, he saw two brothers, Simon who is called Peter, and his\nbrother Andrew, casting a net into the sea; they were fishermen. He said to them, “Come after me, and I will make you\nfishers of men.” At once they left their nets and followed him. He walked along from there and saw two other brothers,\nJames, the son of Zebedee, and his brother John. They were in a boat, with the father Zebedee, mending their nets. He\ncalled them and immediately they left their boat and their father and followed him. He went around all of Galilee,\nteaching in their synagogues, proclaiming the gospel of the kingdom, and curing every disease and illness among the\npeople."
+    "reference": "Mt 4:18-23",
+    "text": "At that time, as Jesus was walking by the Sea of Galilee, he saw two brothers, Simon who is called Peter, and his\nbrother Andrew, casting a net into the sea; they were fishermen. He said to them, “Come after me, and I will make you\nfishers of men.” At once they left their nets and followed him. He walked along from there and saw two other brothers,\nJames, the son of Zebedee, and his brother John. They were in a boat, with the father Zebedee, mending their nets. He\ncalled them and immediately they left their boat and their father and followed him. He went around all of Galilee,\nteaching in their synagogues, proclaiming the gospel of the kingdom, and curing every disease and illness among the\npeople."
   },
-  "communionHymn": "Praise the Lord from the heavens. Praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.622Z"
+  "communionHymn": "Praise the Lord from the heavens. Praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 1
 }

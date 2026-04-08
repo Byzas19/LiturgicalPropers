@@ -1,30 +1,36 @@
 {
   "id": "2025-11-23",
   "date": "2025-11-23",
-  "liturgicalTitle": "TWENTY-FOURTH SUNDAY AFTER PENTECOST",
-  "opening": "POSTFEAST OF THE ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE",
+  "liturgicalTitle": "TWENTY-FOURTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE",
   "troparia": [
     {
-      "label": "Troparion (7): By Your cross You destroyed death; You opened Paradise to the thief; You changed the lamentation of the myrrh-",
-      "text": "bearers to joy, and charged the apostles to proclaim that You are risen, O Christ our God, offering great mercy to the world."
+      "label": "Troparion (7)",
+      "text": "By Your cross You destroyed death; You opened Paradise to the thief; You changed the lamentation of the myrrh-\nbearers to joy, and charged the apostles to proclaim that You are risen, O Christ our God, offering great mercy to the world.",
+      "tone": 7
     },
     {
-      "label": "Troparion (4): Today is the prelude of the benevolence of God and the herald of the salvation of mankind; for the Virgin openly",
-      "text": "appears in the temple of God and foretells Christ to all. Let us also, with full voice, exclaim to her: Hail, Fulfillment of the\nCreator's plan.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (4)",
+      "text": "Today is the prelude of the benevolence of God and the herald of the salvation of mankind; for the Virgin openly\nappears in the temple of God and foretells Christ to all. Let us also, with full voice, exclaim to her: Hail, Fulfillment of the\nCreator's plan.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 4
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (7): No longer shall the dominion of death be able to hold humanity, for Christ went down shattering and destroying",
-      "text": "its powers. Hades is bound. The prophets exult with one voice: The Savior has come for those with faith, saying: Come forth, O\nfaithful, to the resurrection!\nNow and for ever and ever: Amen."
+      "label": "Kontakion (7)",
+      "text": "No longer shall the dominion of death be able to hold humanity, for Christ went down shattering and destroying\nits powers. Hades is bound. The prophets exult with one voice: The Savior has come for those with faith, saying: Come forth, O\nfaithful, to the resurrection!\nNow and for ever and ever: Amen.",
+      "tone": 7
     },
     {
-      "label": "Kontakion (4): The most pure Temple of the Savior, the richest Palace, and the Treasury of the glory of God, today enters into",
-      "text": "the house of the Lord, bringing grace which is in the Spirit of God. The Angels of God sing to her: This is the Heavenly\nTabernacle."
+      "label": "Kontakion (4)",
+      "text": "The most pure Temple of the Savior, the richest Palace, and the Treasury of the glory of God, today enters into\nthe house of the Lord, bringing grace which is in the Spirit of God. The Angels of God sing to her: This is the Heavenly\nTabernacle.",
+      "tone": 4
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:47.483Z",
   "prokeimenon": {
-    "text": "Verse: Bring to the Lord, O you sons of God; bring to the Lord young rams."
+    "text": "Prokimenon (7): The Lord will give strength to His people; the Lord will bless His people with peace.\nProkimenon (3): My soul extols the Lord, and my spirit rejoices in God my Savior.",
+    "verse": "Verse: Bring to the Lord, O you sons of God; bring to the Lord young rams."
   },
   "epistle": {
     "reference": "Eph 2:14-22",
@@ -32,14 +38,24 @@
   },
   "alleluia": {
     "verses": [
-      "Verse (7): It is good to give praise to the Lord; and to sing in Your name, O Most High."
+      "Verse (7): It is good to give praise to the Lord; and to sing in Your name, O Most High.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (7): To announce Your mercy in the morning and Your truth every night.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Listen, O Daughter, give ear to my words.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: The richest of people shall seek your favor.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Lk 12:16-21)\nTWENTY-SIXTH SUNDAY AFTER PENTECOST\nThe Lord told this parable: “There was a rich man whose land produced a bountiful harvest. He asked himself, ‘What shall I do,\nfor I do not have space to store my harvest?’ And he said, ‘This is what I shall do: I shall tear down my barns and build larger\nones. There I shall store all my grain and other goods and I shall say to myself, “Now as for you, you have so many good things\nstored up for many years, rest, eat, drink, be merry!”’ But God said to him, ‘You fool, this night your life will be demanded of\nyou; and the things you have prepared, to whom will they belong?’ Thus will it be for the one who stores up treasure for himself\nbut is not rich in what matters to God.”\nIt is truly right... (Or the Hirmos of the Feast):\nSeeing the entry of the most pure One, the angels marveled at how a virgin could enter the Holy of Holies.\nHirmos: Since no hand of the wicked may touch the living tabernacle of God, may the lips of the faithful endlessly sing out with\njoy to the Mother of God the greeting of the angel: O pure Virgin, you are truly above all creatures!"
+    "reference": "Lk 12:16-21",
+    "text": "The Lord told this parable: “There was a rich man whose land produced a bountiful harvest. He asked himself, ‘What shall I do,\nfor I do not have space to store my harvest?’ And he said, ‘This is what I shall do: I shall tear down my barns and build larger\nones. There I shall store all my grain and other goods and I shall say to myself, “Now as for you, you have so many good things\nstored up for many years, rest, eat, drink, be merry!”’ But God said to him, ‘You fool, this night your life will be demanded of\nyou; and the things you have prepared, to whom will they belong?’ Thus will it be for the one who stores up treasure for himself\nbut is not rich in what matters to God.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nI will take the chalice of salvation and call on the name of the Lord.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.175Z"
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "Seeing the entry of the most pure One, the angels marveled at how a virgin could enter the Holy of Holies.\nHirmos: Since no hand of the wicked may touch the living tabernacle of God, may the lips of the faithful endlessly sing out with\njoy to the Mother of God the greeting of the angel: O pure Virgin, you are truly above all creatures!"
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nI will take the chalice of salvation and call on the name of the Lord.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 7
 }

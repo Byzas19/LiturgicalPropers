@@ -4,34 +4,41 @@
   "liturgicalTitle": "SIXTH SUNDAY AFTER PENTECOST",
   "troparia": [
     {
-      "label": "Troparion (5): Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of",
-      "text": "the Virgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead\nby His glorious resurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (5)",
+      "text": "Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of\nthe Virgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead\nby His glorious resurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 5
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (5): You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You,",
-      "text": "as Creator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind.\nAnd so we cry out: Save us, O Lord.\nNow and for ever and ever: Amen.\nTheotokion (5): Rejoice, O Impassable Door of the Lord! Rejoice, O Rampart and Protection of those who have\nrecourse to you! Rejoice, O Tranquil Haven and Virgin, who gave birth in the flesh to your Maker and God! Fail not to\nintercede for those who sing and worship the Child you bore."
+      "label": "Kontakion (5)",
+      "text": "You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You,\nas Creator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind.\nAnd so we cry out: Save us, O Lord.\nNow and for ever and ever: Amen.\nTheotokion (5): Rejoice, O Impassable Door of the Lord! Rejoice, O Rampart and Protection of those who have\nrecourse to you! Rejoice, O Tranquil Haven and Virgin, who gave birth in the flesh to your Maker and God! Fail not to\nintercede for those who sing and worship the Child you bore.",
+      "tone": 5
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:10:03.522Z",
   "prokeimenon": {
-    "text": "Verse: Save me, O Lord, for there is no longer left a just man."
+    "text": "Prokimenon (5): You, O Lord, will guard us and will keep us from this generation, and for ever.\nProkimenon (5): You, O Lord, will guard us and will keep us from this generation, and for ever.",
+    "verse": "Verse: Save me, O Lord, for there is no longer left a just man."
   },
   "epistle": {
-    "reference": "",
+    "reference": "Rom 12,6-14",
     "text": "Reading of the Epistle of St. Paul to the Romans\n(Rom 12,6-14)\nBrethren: Since we have gifts that differ according to the grace given to us, let us exercise them: if prophecy, in\nproportion to the faith; if ministry, in ministering; if one is a teacher, in teaching; if one exhorts, in exhortation; if one\ncontributes, in generosity; if one is over others, with diligence; if one does acts of mercy, with cheerfulness. Let love be\nsincere; hate what is evil; hold on to what is good; love one another with mutual affection; anticipate one another in\nshowing honor. Do not grow slack in zeal, be fervent in spirit, serve the Lord. Rejoice in hope, endure in affliction,\npersevere in prayer. Contribute to the needs of the holy ones, exercise hospitality. Bless those who persecute you, bless\nand do not curse them."
   },
   "alleluia": {
     "verses": [
       "Verse (5): Your mercies, O Lord, I will sing for ever; from generation to generation I will announce Your truth with",
-      "my mouth."
+      "my mouth.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (5): For You have said: Mercy shall be built up for ever; in the heavens Your truth shall be prepared.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 9,1-8)\nAt that time, Jesus entered a boat, made the crossing, and came into his own town. And there people brought to him a\nparalytic lying on a stretcher. When Jesus saw their faith, he said to the paralytic, “Courage, child, your sins are\nforgiven.” At that, some of the scribes said to themselves, “This man is blaspheming.” Jesus knew what they were\nthinking, and said, “Why do you harbor evil thoughts? Which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise\nand walk’? But that you may know that the Son of Man has authority on earth to forgive sins” - he then said to the\nparalytic, “Rise, pick up your stretcher, and go home.” He rose and went home. When the crowds saw this they were\nstruck with awe and glorified God who had given such authority to human beings."
+    "reference": "Mt 9,1-8",
+    "text": "At that time, Jesus entered a boat, made the crossing, and came into his own town. And there people brought to him a\nparalytic lying on a stretcher. When Jesus saw their faith, he said to the paralytic, “Courage, child, your sins are\nforgiven.” At that, some of the scribes said to themselves, “This man is blaspheming.” Jesus knew what they were\nthinking, and said, “Why do you harbor evil thoughts? Which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise\nand walk’? But that you may know that the Son of Man has authority on earth to forgive sins” - he then said to the\nparalytic, “Rise, pick up your stretcher, and go home.” He rose and went home. When the crowds saw this they were\nstruck with awe and glorified God who had given such authority to human beings."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:50.711Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 5
 }

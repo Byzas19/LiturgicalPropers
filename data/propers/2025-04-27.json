@@ -1,22 +1,27 @@
 {
   "id": "2025-04-27",
   "date": "2025-04-27",
-  "liturgicalTitle": "SUNDAY OF ST. THOMAS",
-  "opening": "(Second Paschal Sunday)\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life.",
+  "liturgicalTitle": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)",
   "troparia": [
     {
-      "label": "Troparion (7): Though the tomb had been sealed, from the tomb You arose, O Life and Christ our God. Though the",
-      "text": "door had been locked, You appeared among the disciples, O Resurrection of all; and thus You restored an upright spirit\nfor us according to Your great mercy.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen."
+      "label": "Troparion (7)",
+      "text": "Though the tomb had been sealed, from the tomb You arose, O Life and Christ our God. Though the\ndoor had been locked, You appeared among the disciples, O Resurrection of all; and thus You restored an upright spirit\nfor us according to Your great mercy.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen.",
+      "tone": 7
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (8): Thomas placed his restless hand into Your life-giving side, O Christ our God; and since You entered,",
-      "text": "although the doors were locked, he cried to You with the other apostles: You are my Lord and my God."
+      "label": "Kontakion (8)",
+      "text": "Thomas placed his restless hand into Your life-giving side, O Christ our God; and since You entered,\nalthough the doors were locked, he cried to You with the other apostles: You are my Lord and my God.",
+      "tone": 8
     }
   ],
+  "opening": "Christ is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life.",
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:48.865Z",
   "prokeimenon": {
-    "text": "Verse: Praise the Lord for He is good. Sing to our God for He is loving. To Him our praise is due."
+    "text": "Prokimenon (3): Great is the Lord, mighty in power; to His wisdom there is no limit.\nProkimenon (3): Great is the Lord, mighty in power; to His wisdom there is no limit.",
+    "verse": "Verse: Praise the Lord for He is good. Sing to our God for He is loving. To Him our praise is due."
   },
   "epistle": {
     "reference": "Acts 5:12-20",
@@ -24,14 +29,42 @@
   },
   "alleluia": {
     "verses": [
-      "Verse: Come, ring out your joy to the Lord; hail God Who is our Savior."
+      "Verse: Come, ring out your joy to the Lord; hail God Who is our Savior.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Let us come before Him, giving thanks; with songs let us hail the Lord.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Jn 20:19-31)\nOn the evening of that first day of the week, when the doors were locked where the disciples were, for fear of the Jews,\nJesus came and stood in their midst and said to them, “Peace be with you.” When he had said this, he showed them his\nhands and his side. The disciples rejoiced when they saw the Lord. [Jesus] said to them again, “Peace be with you. As\nthe Father has sent me, so I send you.” And when he had said this, he breathed on them and said to them, “Receive the\nholy Spirit. Whose sins you forgive are forgiven them, and whose sins you retain are retained.” Thomas, called\nDidymus, one of the Twelve, was not with them when Jesus came. So the other disciples said to him, “We have seen\nthe Lord.” But he said to them, “Unless I see the mark of the nails in his hands and put my finger into the nail marks\nand put my hand into his side, I will not believe.” Now a week later his disciples were again inside and Thomas was\nwith them. Jesus came, although the doors were locked, and stood in their midst and said, “Peace be with you.” Then he\nsaid to Thomas, “Put your finger here and see my hands, and bring your hand and put it into my side, and do not be\nunbelieving, but believe.” Thomas answered and said to him, “My Lord and my God!” Jesus said to him, “Have you\ncome to believe because you have seen me? Blessed are those who have not seen and have believed.” Now Jesus did\nmany other signs in the presence of [his] disciples that are not written in this book. But these are written that you may\n[come to] believe that Jesus is the Messiah, the Son of God, and that through this belief you may have life in his name.\n\n\nIt is truly right... (Or the Hirmos of the Feast):\nThe angel exclaimed to her, full of grace: Rejoice, O pure virgin, again I say: Rejoice! Your Son is risen from the grave\non the third day and has raised the dead. Let all nations rejoice.\nShine in splendor, O new Jerusalem! For the glory of the Lord is risen upon you. Sing with joy and rejoice, O Zion\nsing. And you, pure Mother of God, rejoice in the resurrection of your Son."
+    "reference": "Jn 20:19-31",
+    "text": "On the evening of that first day of the week, when the doors were locked where the disciples were, for fear of the Jews,\nJesus came and stood in their midst and said to them, “Peace be with you.” When he had said this, he showed them his\nhands and his side. The disciples rejoiced when they saw the Lord. [Jesus] said to them again, “Peace be with you. As\nthe Father has sent me, so I send you.” And when he had said this, he breathed on them and said to them, “Receive the\nholy Spirit. Whose sins you forgive are forgiven them, and whose sins you retain are retained.” Thomas, called\nDidymus, one of the Twelve, was not with them when Jesus came. So the other disciples said to him, “We have seen\nthe Lord.” But he said to them, “Unless I see the mark of the nails in his hands and put my finger into the nail marks\nand put my hand into his side, I will not believe.” Now a week later his disciples were again inside and Thomas was\nwith them. Jesus came, although the doors were locked, and stood in their midst and said, “Peace be with you.” Then he\nsaid to Thomas, “Put your finger here and see my hands, and bring your hand and put it into my side, and do not be\nunbelieving, but believe.” Thomas answered and said to him, “My Lord and my God!” Jesus said to him, “Have you\ncome to believe because you have seen me? Blessed are those who have not seen and have believed.” Now Jesus did\nmany other signs in the presence of [his] disciples that are not written in this book. But these are written that you may\n[come to] believe that Jesus is the Messiah, the Son of God, and that through this belief you may have life in his name."
   },
-  "communionHymn": "Glorify the Lord, O Jerusalem; praise your God, O Zion.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.816Z"
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "The angel exclaimed to her, full of grace: Rejoice, O pure virgin, again I say: Rejoice! Your Son is risen from the grave\non the third day and has raised the dead. Let all nations rejoice.\nShine in splendor, O new Jerusalem! For the glory of the Lord is risen upon you. Sing with joy and rejoice, O Zion\nsing. And you, pure Mother of God, rejoice in the resurrection of your Son."
+  },
+  "communionHymn": "Glorify the Lord, O Jerusalem; praise your God, O Zion.\nAlleluia, Alleluia, Alleluia.",
+  "postCommunion": [
+    {
+      "title": "Blessed is He Who Comes",
+      "text": "Christ is risen from the dead! By death He conquered Death, and to those in the graves He granted life."
+    },
+    {
+      "title": "We have seen the true light",
+      "text": "Christ is risen from the dead! By death He conquered Death, and to those in the graves He granted life."
+    },
+    {
+      "title": "May our mouths be filled",
+      "text": "Christ is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life."
+    },
+    {
+      "title": "Blessed be the name of the Lord",
+      "text": "Christ is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life.\nChrist is risen from the dead! By death He conquered Death, and to those in the graves He granted life."
+    },
+    {
+      "title": "Glory and Now",
+      "text": "Christ is risen from the dead! By death He conquered Death, and to those in the graves He granted life. Lord, have\nmercy. Lord, have mercy. Lord, have mercy. Give the blessing."
+    }
+  ],
+  "tone": 7
 }

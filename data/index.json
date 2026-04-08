@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T02:40:51.300Z",
+  "lastUpdated": "2026-04-08T02:10:04.615Z",
   "sundays": [
     {
       "date": "2017-06-03",
@@ -15,7 +15,7 @@
     },
     {
       "date": "2018-01-14",
-      "title": "SUNDAY OF ZACCHAEUS"
+      "title": "SUNDAY OF ZACCHAEUS\nPOSTFEAST OF THE THEOPHANY"
     },
     {
       "date": "2018-01-21",
@@ -27,7 +27,7 @@
     },
     {
       "date": "2018-02-04",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\nPOSTFEAST OF THE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2018-02-11",
@@ -35,27 +35,27 @@
     },
     {
       "date": "2018-02-18",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2018-02-25",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\nCommemoration of St. Gregory Palamas."
     },
     {
       "date": "2018-03-04",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2018-03-11",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2018-03-18",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)"
     },
     {
       "date": "2018-03-25",
-      "title": "PALM SUNDAY"
+      "title": "PALM SUNDAY\nFEAST OF THE ANNUNCIATION OF THE MOTHER GOD"
     },
     {
       "date": "2018-04-01",
@@ -67,27 +67,27 @@
     },
     {
       "date": "2018-04-15",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2018-04-22",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)"
     },
     {
       "date": "2018-04-29",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
     },
     {
       "date": "2018-05-06",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)"
     },
     {
       "date": "2018-05-10",
-      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST\nThe Holy Apostle Simon the Zealot"
     },
     {
       "date": "2018-05-13",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)"
     },
     {
       "date": "2018-05-20",
@@ -95,15 +95,15 @@
     },
     {
       "date": "2018-05-27",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2018-06-17",
-      "title": "FOURTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTH SUNDAY AFTER PENTECOST\n(Feast Of All The Saints Of Rus-Ukraine)"
     },
     {
       "date": "2018-06-24",
-      "title": "FIFTH SUNDAY AFTER PENTECOST"
+      "title": "FIFTH SUNDAY AFTER PENTECOST\nTHE BIRTH OF ST. JOHN THE BAPTIST"
     },
     {
       "date": "2018-07-01",
@@ -115,7 +115,7 @@
     },
     {
       "date": "2018-07-15",
-      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+      "title": "EIGHTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS\nHOLY GREAT PRINCE ST. VOLODYMYR, EQUAL TO THE APOSTLES"
     },
     {
       "date": "2018-07-22",
@@ -131,11 +131,11 @@
     },
     {
       "date": "2018-08-12",
-      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+      "title": "TWELFTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD"
     },
     {
       "date": "2018-08-19",
-      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2018-08-26",
@@ -147,7 +147,7 @@
     },
     {
       "date": "2018-09-09",
-      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS\nPOSTFEAST OF THE NATIVITY OF THE MOTHER OF GOD"
     },
     {
       "date": "2018-09-16",
@@ -167,7 +167,7 @@
     },
     {
       "date": "2018-10-14",
-      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7ECUMENICAL COUNCIL"
     },
     {
       "date": "2018-10-21",
@@ -191,7 +191,7 @@
     },
     {
       "date": "2018-11-25",
-      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE"
     },
     {
       "date": "2018-12-02",
@@ -207,11 +207,11 @@
     },
     {
       "date": "2018-12-23",
-      "title": "SUNDAY BEFORE CHRISTMAS"
+      "title": "SUNDAY BEFORE CHRISTMAS\n(Sunday of the Holy Fathers)"
     },
     {
       "date": "2018-12-30",
-      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD\n(Commemoration of the Holy and Just Joseph, King David, and James Cousin of our Lord)"
     },
     {
       "date": "2019-01-06",
@@ -223,11 +223,11 @@
     },
     {
       "date": "2019-01-20",
-      "title": "THIRTY-FIFTH SUNDAY AFTER PENTECOST"
+      "title": "THIRTY-FIFTH SUNDAY AFTER PENTECOST\nOUR VENERABLE AND GOD-BEARING FATHER EUTHEMIUS THE GREAT"
     },
     {
       "date": "2019-01-27",
-      "title": "THIRTY-SIXTH SUNDAY AFTER PENTECOST"
+      "title": "THIRTY-SIXTH SUNDAY AFTER PENTECOST\nTHE TRANSFER OF THE PRECIOUS RELICS OF OUR FATHER AMONG THE SAINTS JOHN\nCHRYSOSTOM"
     },
     {
       "date": "2019-02-03",
@@ -243,7 +243,7 @@
     },
     {
       "date": "2019-02-24",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\nTHE FIRST AND SECOND FINDING OF THE PRECIOUS HEAD OF THE HOLY, GLORIOUS PROPHET AND\nFORERUNNER JOHN THE BAPTIST"
     },
     {
       "date": "2019-03-03",
@@ -259,15 +259,15 @@
     },
     {
       "date": "2019-03-24",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)\nPREFEAST OF THE ANNUNCIATION OF THE MOTHER OF GOD"
     },
     {
       "date": "2019-03-31",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2019-04-07",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)\nTHE REPOSE OF OUR HOLY FATHER METHODIUS, TEACHER OF THE SLAVS"
     },
     {
       "date": "2019-04-14",
@@ -283,19 +283,19 @@
     },
     {
       "date": "2019-05-05",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2019-05-12",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)"
     },
     {
       "date": "2019-05-19",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
     },
     {
       "date": "2019-05-26",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)"
     },
     {
       "date": "2019-05-30",
@@ -303,7 +303,7 @@
     },
     {
       "date": "2019-06-02",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)\nPOSTFEAST OF THE ASCENSION OF OUR LORD JESUS CHRIST"
     },
     {
       "date": "2019-06-09",
@@ -311,7 +311,7 @@
     },
     {
       "date": "2019-06-16",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2019-06-23",
@@ -319,11 +319,11 @@
     },
     {
       "date": "2019-06-30",
-      "title": "THIRD SUNDAY AFTER PENTECOST"
+      "title": "THIRD SUNDAY AFTER PENTECOST\nTHE SYNAXIS OF THE HOLY, GLORIOUS AND ALL-PRAISEWORTHY TWELVE APOSTLES"
     },
     {
       "date": "2019-07-07",
-      "title": "FOURTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTH SUNDAY AFTER PENTECOST\nFeast Of All The Saints Of Rus-Ukraine"
     },
     {
       "date": "2019-07-14",
@@ -347,7 +347,7 @@
     },
     {
       "date": "2019-08-11",
-      "title": "NINTH SUNDAY AFTER PENTECOST"
+      "title": "NINTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD"
     },
     {
       "date": "2019-08-15",
@@ -355,7 +355,7 @@
     },
     {
       "date": "2019-08-18",
-      "title": "TENTH SUNDAY AFTER PENTECOST"
+      "title": "TENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2019-08-25",
@@ -363,11 +363,11 @@
     },
     {
       "date": "2019-09-01",
-      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+      "title": "TWELFTH SUNDAY AFTER PENTECOST\nBEGINNING OF THE LITURGICAL YEAR"
     },
     {
       "date": "2019-09-08",
-      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS\nNATIVITY OF THE MOTHER OF GOD"
     },
     {
       "date": "2019-09-15",
@@ -383,11 +383,11 @@
     },
     {
       "date": "2019-10-06",
-      "title": "SEVENTEENTH SUNDAY AFTER PENTECOST"
+      "title": "SEVENTEENTH SUNDAY AFTER PENTECOST\nTHE HOLY AND GLORIOUS APOSTLE THOMAS"
     },
     {
       "date": "2019-10-13",
-      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7ECUMENICAL COUNCIL"
     },
     {
       "date": "2019-10-20",
@@ -411,7 +411,7 @@
     },
     {
       "date": "2019-11-24",
-      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE"
     },
     {
       "date": "2019-12-01",
@@ -419,7 +419,7 @@
     },
     {
       "date": "2019-12-08",
-      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST\nIMMACULATE CONCEPTION OF THE BLESSED VIRGIN MARY"
     },
     {
       "date": "2019-12-15",
@@ -427,7 +427,7 @@
     },
     {
       "date": "2019-12-22",
-      "title": "SUNDAY BEFORE CHRISTMAS (SUNDAY OF THE HOLY FATHERS)"
+      "title": "SUNDAY BEFORE CHRISTMAS (SUNDAY OF THE HOLY FATHERS)\nPREFEAST OF THE NATIVITY OF OUR LORD"
     },
     {
       "date": "2019-12-25",
@@ -435,7 +435,7 @@
     },
     {
       "date": "2019-12-29",
-      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD\n(Commemoration of the Holy and Just Joseph, King David, and James Cousin of our Lord)"
     },
     {
       "date": "2020-01-05",
@@ -455,39 +455,39 @@
     },
     {
       "date": "2020-01-26",
-      "title": "THIRTY-THIRD SUNDAY AFTER PENTECOST"
+      "title": "THIRTY-THIRD SUNDAY AFTER PENTECOST\n(Sunday of Zacchaeus)"
     },
     {
       "date": "2020-02-02",
-      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE\nTHE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2020-02-09",
-      "title": "SUNDAY OF THE PRODIGAL SON"
+      "title": "SUNDAY OF THE PRODIGAL SON\nPOSTFEAST OF THE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2020-02-16",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\n(Commemoration of the Last Judgment)"
     },
     {
       "date": "2020-02-23",
-      "title": "SUNDAY OF CHEESEFARE"
+      "title": "SUNDAY OF CHEESEFARE\n(Expulsion of Adam and Eve from Paradise)\nTHE FIRST AND SECOND FINDING OF THE PRECIOUS HEAD OF THE HOLY, GLORIOUS PROPHET\nAND FORERUNNER JOHN THE BAPTIST"
     },
     {
       "date": "2020-03-01",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2020-03-08",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)"
     },
     {
       "date": "2020-03-15",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2020-03-22",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2020-03-25",
@@ -495,7 +495,7 @@
     },
     {
       "date": "2020-03-29",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)"
     },
     {
       "date": "2020-04-05",
@@ -503,35 +503,35 @@
     },
     {
       "date": "2020-04-12",
-      "title": "4/12/20"
+      "title": "THE RESURRECTION OF OUR LORD JESUS CHRIST"
     },
     {
       "date": "2020-04-19",
-      "title": "SUNDAY OF ST. THOMAS"
+      "title": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)"
     },
     {
       "date": "2020-04-26",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2020-05-03",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)\n†The Falling Asleep of our Venerable Father Theodosius the Great, Hegumen of the Pecherska Laura and\norganizer of the monastic life; and the Holy Martyrs Timothy and Maura."
     },
     {
       "date": "2020-05-10",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)\nThe Holy Apostle Simon the Zealot"
     },
     {
       "date": "2020-05-17",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)"
     },
     {
       "date": "2020-05-21",
-      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST\nTHE HOLY GREAT RULERS CONSTANTINE AND HELEN, EQUALS TO THE APOSTLES"
     },
     {
       "date": "2020-05-24",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)\nPOSTFEAST OF THE ASCENSION OF OUR LORD JESUS CHRIST"
     },
     {
       "date": "2020-05-31",
@@ -539,7 +539,7 @@
     },
     {
       "date": "2020-06-07",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2020-06-14",
@@ -551,11 +551,11 @@
     },
     {
       "date": "2020-06-28",
-      "title": "FOURTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTH SUNDAY AFTER PENTECOST\n(Feast Of All The Saints Of Rus-Ukraine)"
     },
     {
       "date": "2020-07-05",
-      "title": "FIFTH SUNDAY AFTER PENTECOST"
+      "title": "FIFTH SUNDAY AFTER PENTECOST\nOUR VENERABLE FATHER ATHANASIUS OF ATHOS"
     },
     {
       "date": "2020-07-12",
@@ -563,7 +563,7 @@
     },
     {
       "date": "2020-07-19",
-      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "SEVENTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS"
     },
     {
       "date": "2020-07-26",
@@ -575,15 +575,15 @@
     },
     {
       "date": "2020-08-09",
-      "title": "TENTH SUNDAY AFTER PENTECOST"
+      "title": "TENTH SUNDAY AFTER PENTECOST\nPOSTFEAST HOLY TRANSFIGURATION OF OUR LORD\nTHE HOLY APOSTLE MATTHIAS"
     },
     {
       "date": "2020-08-16",
-      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST\nPOSTFEAST DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2020-08-23",
-      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+      "title": "TWELFTH SUNDAY AFTER PENTECOST\nPOSTFEAST DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2020-08-30",
@@ -595,7 +595,7 @@
     },
     {
       "date": "2020-09-13",
-      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS\nCommemoration of the Dedication of the Holy Church of the Resurrection of Christ Our God"
     },
     {
       "date": "2020-09-20",
@@ -611,11 +611,11 @@
     },
     {
       "date": "2020-10-11",
-      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7ECUMENICAL COUNCIL"
     },
     {
       "date": "2020-10-18",
-      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST\nTHE HOLY APOSTLE AND EVANGELIST LUKE"
     },
     {
       "date": "2020-10-25",
@@ -627,7 +627,7 @@
     },
     {
       "date": "2020-11-08",
-      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST\nST. MICHAEL THE ARCHANGEL AND ALL THE HEAVENLY ANGELS"
     },
     {
       "date": "2020-11-15",
@@ -635,7 +635,7 @@
     },
     {
       "date": "2020-11-22",
-      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST\nPOSTFEAST ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE"
     },
     {
       "date": "2020-11-29",
@@ -643,15 +643,15 @@
     },
     {
       "date": "2020-12-06",
-      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST\nST. NICHOLAS THE WONDERWORKER"
     },
     {
       "date": "2020-12-13",
-      "title": "SUNDAY OF THE HOLY FOREFATHERS"
+      "title": "SUNDAY OF THE HOLY FOREFATHERS\n†The Holy Martyrs Eustratios, Auxentius, Eugenius, Mardarius and Orestes (284-305);\nand the Holy Martyr Lucia the Virgin"
     },
     {
       "date": "2020-12-20",
-      "title": "SUNDAY BEFORE CHRISTMAS"
+      "title": "SUNDAY BEFORE CHRISTMAS\n(Sunday of the Holy Fathers)"
     },
     {
       "date": "2020-12-25",
@@ -659,7 +659,7 @@
     },
     {
       "date": "2020-12-27",
-      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD\n(Commemoration of the Holy and Just Joseph, King David, and James Cousin of our Lord)\nST. STEPHEN, FIRST-MARTYR"
     },
     {
       "date": "2021-01-03",
@@ -675,7 +675,7 @@
     },
     {
       "date": "2021-01-17",
-      "title": "SUNDAY OF ZACCHAEUS"
+      "title": "SUNDAY OF ZACCHAEUS\nOUR VENERABLE AND GOD-BEARING FATHER ANTHONY THE GREAT"
     },
     {
       "date": "2021-01-24",
@@ -695,23 +695,23 @@
     },
     {
       "date": "2021-02-21",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2021-02-28",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)"
     },
     {
       "date": "2021-03-07",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2021-03-14",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2021-03-21",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)"
     },
     {
       "date": "2021-03-25",
@@ -727,23 +727,23 @@
     },
     {
       "date": "2021-04-11",
-      "title": "SUNDAY OF ST. THOMAS"
+      "title": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)"
     },
     {
       "date": "2021-04-18",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2021-04-25",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)\nTHE HOLY APOSTLE AND EVANGELIST MARK"
     },
     {
       "date": "2021-05-02",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
     },
     {
       "date": "2021-05-09",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)\nThe Transfer of the Relics (1087) of Our Holy Father Nicholas the Wonderworker from Myra to Bari"
     },
     {
       "date": "2021-05-13",
@@ -751,7 +751,7 @@
     },
     {
       "date": "2021-05-16",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)\nPost-Feast of Ascension."
     },
     {
       "date": "2021-05-23",
@@ -759,7 +759,7 @@
     },
     {
       "date": "2021-05-30",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2021-06-06",
@@ -771,7 +771,7 @@
     },
     {
       "date": "2021-06-20",
-      "title": "FOURTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTH SUNDAY AFTER PENTECOST\n(Feast Of All The Saints Of Rus-Ukraine)"
     },
     {
       "date": "2021-06-27",
@@ -783,7 +783,7 @@
     },
     {
       "date": "2021-07-11",
-      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "SEVENTH SUNDAY AFTER PENTECOST\nST. OLHA, KYIVAN PRINCESS"
     },
     {
       "date": "2021-07-18",
@@ -791,27 +791,27 @@
     },
     {
       "date": "2021-07-25",
-      "title": "NINTH SUNDAY AFTER PENTECOST"
+      "title": "NINTH SUNDAY AFTER PENTECOST\nTHE DORMITION OF SAINT ANNA, MOTHER OF THE MOST HOLY GOD-BEARER (THEOTOKOS)\nAND THE HOLY WOMEN OLYMPIADA AND EUPRAXIA"
     },
     {
       "date": "2021-08-01",
-      "title": "TENTH SUNDAY AFTER PENTECOST"
+      "title": "TENTH SUNDAY AFTER PENTECOST\nThe Procession of the Holy Relics of the Precious and Life-Giving Cross of the Lord."
     },
     {
       "date": "2021-08-08",
-      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD"
     },
     {
       "date": "2021-08-15",
-      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+      "title": "TWELFTH SUNDAY AFTER PENTECOST\nDORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2021-08-22",
-      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2021-08-29",
-      "title": "FOURTEENTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTEENTH SUNDAY AFTER PENTECOST\nBEHEADING OF ST. JOHN THE BAPTIST"
     },
     {
       "date": "2021-09-05",
@@ -827,7 +827,7 @@
     },
     {
       "date": "2021-09-26",
-      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST\nTHE PASSING OF THE HOLY APOSTLE AND EVANGELIST JOHN THE THEOLOGIAN"
     },
     {
       "date": "2021-10-03",
@@ -839,7 +839,7 @@
     },
     {
       "date": "2021-10-17",
-      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE 7th ECUMENICAL COUNCIL"
     },
     {
       "date": "2021-10-24",
@@ -855,11 +855,11 @@
     },
     {
       "date": "2021-11-14",
-      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST\nTHE HOLY AND ALL-PRAISEWORTHY APOSTLE PHILIP"
     },
     {
       "date": "2021-11-21",
-      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-SIXTH SUNDAY AFTER PENTECOST\nENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE"
     },
     {
       "date": "2021-11-28",
@@ -867,7 +867,7 @@
     },
     {
       "date": "2021-12-05",
-      "title": "TWENTY-EIGHTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-EIGHTH SUNDAY AFTER PENTECOST\nOUR VENERABLE AND GOD-BEARING FATHER SABBAS THE SANCTIFIED"
     },
     {
       "date": "2021-12-12",
@@ -875,7 +875,7 @@
     },
     {
       "date": "2021-12-19",
-      "title": "SUNDAY BEFORE CHRISTMAS"
+      "title": "SUNDAY BEFORE CHRISTMAS\n(Sunday of the Holy Fathers)"
     },
     {
       "date": "2021-12-25",
@@ -883,7 +883,7 @@
     },
     {
       "date": "2021-12-26",
-      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD\nSYNAXIS OF THE BLESSED MOTHER OF GOD\n(Commemoration of the Holy and Just Joseph, King David, and James Cousin of our Lord)"
     },
     {
       "date": "2022-01-02",
@@ -919,23 +919,23 @@
     },
     {
       "date": "2022-02-20",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\n(Commemoration of the Last Judgment)"
     },
     {
       "date": "2022-02-27",
-      "title": "SUNDAY OF CHEESEFARE"
+      "title": "SUNDAY OF CHEESEFARE\n(Expulsion of Adam and Eve from Paradise)"
     },
     {
       "date": "2022-03-06",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2022-03-13",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)"
     },
     {
       "date": "2022-03-20",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2022-03-25",
@@ -943,11 +943,11 @@
     },
     {
       "date": "2022-03-27",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2022-04-03",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)"
     },
     {
       "date": "2022-04-10",
@@ -959,23 +959,23 @@
     },
     {
       "date": "2022-04-24",
-      "title": "SUNDAY OF ST. THOMAS"
+      "title": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)"
     },
     {
       "date": "2022-05-01",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2022-05-08",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)\nThe Holy Apostle and Evangelist John the Theologian"
     },
     {
       "date": "2022-05-15",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
     },
     {
       "date": "2022-05-22",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)"
     },
     {
       "date": "2022-05-26",
@@ -983,7 +983,7 @@
     },
     {
       "date": "2022-05-29",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)\nPOSTFEAST OF THE ASCENSION OF OUR LORD JESUS CHRIST"
     },
     {
       "date": "2022-06-05",
@@ -991,11 +991,11 @@
     },
     {
       "date": "2022-06-12",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2022-06-19",
-      "title": "SECOND SUNDAY AFTER PENTECOST"
+      "title": "SECOND SUNDAY AFTER PENTECOST\nTHE HOLY APOSTLE JUDE, BROTHER OF THE LORD ACCORDING TO THE FLESH"
     },
     {
       "date": "2022-06-26",
@@ -1003,19 +1003,19 @@
     },
     {
       "date": "2022-07-03",
-      "title": "FOURTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTH SUNDAY AFTER PENTECOST\n(Feast Of All The Saints Of Rus-Ukraine)"
     },
     {
       "date": "2022-07-10",
-      "title": "FIFTH SUNDAY AFTER PENTECOST"
+      "title": "FIFTH SUNDAY AFTER PENTECOST\nOUR VENERABLE FATHER ANTHONY OF THE MONASTERY OF THE CAVES IN KIEV"
     },
     {
       "date": "2022-07-17",
-      "title": "SIXTH SUNDAY AFTER PENTECOST"
+      "title": "SIXTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS"
     },
     {
       "date": "2022-07-24",
-      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "SEVENTH SUNDAY AFTER PENTECOST\nThe Holy Martyrs Borys and Hlib, Named Roman and David at Holy Baptism"
     },
     {
       "date": "2022-07-31",
@@ -1023,15 +1023,15 @@
     },
     {
       "date": "2022-08-07",
-      "title": "NINTH SUNDAY AFTER PENTECOST"
+      "title": "NINTH SUNDAY AFTER PENTECOST\nPOST FEAST OF THE HOLY TRANSFIGURATION OF OUR LORD"
     },
     {
       "date": "2022-08-14",
-      "title": "TENTH SUNDAY AFTER PENTECOST"
+      "title": "TENTH SUNDAY AFTER PENTECOST\nThe Transfer of the Precious Relics of Our Venerable Father Theodosius,\nHegumen of the Monastery of the Caves at Kiev\nPREFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2022-08-21",
-      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2022-08-28",
@@ -1043,7 +1043,7 @@
     },
     {
       "date": "2022-09-11",
-      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS\nPOSTFEAST NATIVITY OF THE MOTHER OF GOD"
     },
     {
       "date": "2022-09-18",
@@ -1059,11 +1059,11 @@
     },
     {
       "date": "2022-10-09",
-      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST\nTHE HOLY APOSTLE JAMES, SON OF ALPHEUS"
     },
     {
       "date": "2022-10-16",
-      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7ECUMENICAL COUNCIL"
     },
     {
       "date": "2022-10-23",
@@ -1079,11 +1079,11 @@
     },
     {
       "date": "2022-11-13",
-      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST\nOUR HOLY FATHER JOHN CHRYSOSTOM, ARCHBISHOP OF CONSTANTINOPLE"
     },
     {
       "date": "2022-11-20",
-      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST\nPREFEAST OF THE ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE"
     },
     {
       "date": "2022-11-27",
@@ -1099,7 +1099,7 @@
     },
     {
       "date": "2022-12-18",
-      "title": "SUNDAY BEFORE CHRISTMAS"
+      "title": "SUNDAY BEFORE CHRISTMAS\n(Sunday of the Holy Fathers)"
     },
     {
       "date": "2022-12-25",
@@ -1107,7 +1107,7 @@
     },
     {
       "date": "2023-01-01",
-      "title": "SUNDAY BEFORE THEOPHANY"
+      "title": "SUNDAY BEFORE THEOPHANY\nCIRCUMCISION OF OUR LORD JESUS CHRIST\nHoly Father Basil the Great Archbishop"
     },
     {
       "date": "2023-01-08",
@@ -1127,31 +1127,31 @@
     },
     {
       "date": "2023-02-05",
-      "title": "SUNDAY OF THE PRODIGAL SON"
+      "title": "SUNDAY OF THE PRODIGAL SON\nPOSTFEAST OF THE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2023-02-12",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\n(Commemoration of the Last Judgment)"
     },
     {
       "date": "2023-02-19",
-      "title": "SUNDAY OF CHEESEFARE"
+      "title": "SUNDAY OF CHEESEFARE\n(Expulsion of Adam and Eve from Paradise)"
     },
     {
       "date": "2023-02-26",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2023-03-05",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)"
     },
     {
       "date": "2023-03-12",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2023-03-19",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2023-03-25",
@@ -1159,7 +1159,7 @@
     },
     {
       "date": "2023-03-26",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\nPOSTFEAST OF THE ANNUNCIATION OF THE MOTHER GOD\nSynaxis of the Holy Archangel Gabriel."
     },
     {
       "date": "2023-04-02",
@@ -1171,23 +1171,23 @@
     },
     {
       "date": "2023-04-16",
-      "title": "SUNDAY OF ST. THOMAS"
+      "title": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)"
     },
     {
       "date": "2023-04-23",
-      "title": "4/23/23"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)\nST. GEORGE, MARTYR AND WONDERWORKER"
     },
     {
       "date": "2023-04-30",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)\nTHE HOLY APOSTLE JAMES, BROTHER OF SAINT JOHN THE THEOLOGIAN"
     },
     {
       "date": "2023-05-07",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
     },
     {
       "date": "2023-05-14",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)"
     },
     {
       "date": "2023-05-18",
@@ -1195,7 +1195,7 @@
     },
     {
       "date": "2023-05-21",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)\nTHE HOLY GREAT RULERS CONSTANTINE AND HELEN, EQUALS TO THE APOSTLES"
     },
     {
       "date": "2023-05-28",
@@ -1203,11 +1203,11 @@
     },
     {
       "date": "2023-06-04",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2023-06-11",
-      "title": "SECOND SUNDAY AFTER PENTECOST"
+      "title": "SECOND SUNDAY AFTER PENTECOST\nTHE HOLY APOSTLES BARTHOLOMEW AND BARNABAS"
     },
     {
       "date": "2023-06-18",
@@ -1215,11 +1215,11 @@
     },
     {
       "date": "2023-06-25",
-      "title": "FOURTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTH SUNDAY AFTER PENTECOST\n(Feast Of All The Saints Of Rus-Ukraine)"
     },
     {
       "date": "2023-07-02",
-      "title": "FIFTH SUNDAY AFTER PENTECOST"
+      "title": "FIFTH SUNDAY AFTER PENTECOST\nTHE PLACING OF THE PRECIOUS ROBE OF OUR MOST HOLY LADY AND THE MOTHER OF GOD IN THE\nCHURCH AT BLACHERNAE IN CONSTANTINOPLE"
     },
     {
       "date": "2023-07-09",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2023-07-16",
-      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "SEVENTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS"
     },
     {
       "date": "2023-07-23",
@@ -1243,11 +1243,11 @@
     },
     {
       "date": "2023-08-13",
-      "title": "ELEVENTH SUNDAY AFTER PENTECOST"
+      "title": "ELEVENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD"
     },
     {
       "date": "2023-08-20",
-      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+      "title": "TWELFTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2023-08-27",
@@ -1259,7 +1259,7 @@
     },
     {
       "date": "2023-09-10",
-      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS"
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS\nPOSTFEAST OF THE NATIVITY OF THE MOTHER OF GOD"
     },
     {
       "date": "2023-09-17",
@@ -1271,7 +1271,7 @@
     },
     {
       "date": "2023-10-01",
-      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST\nTHE PROTECTION OF THE MOTHER OF GOD"
     },
     {
       "date": "2023-10-08",
@@ -1279,7 +1279,7 @@
     },
     {
       "date": "2023-10-15",
-      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7 ECUMENICAL COUNCIL"
     },
     {
       "date": "2023-10-22",
@@ -1295,7 +1295,7 @@
     },
     {
       "date": "2023-11-12",
-      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST\nTHE PRIEST-MARTYR ST. JOSAPHAT"
     },
     {
       "date": "2023-11-19",
@@ -1319,11 +1319,11 @@
     },
     {
       "date": "2023-12-24",
-      "title": "SUNDAY BEFORE CHRISTMAS     -     EVE OF THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY BEFORE CHRISTMAS - EVE OF THE NATIVITY OF OUR LORD\n(Sunday of the Holy Fathers)"
     },
     {
       "date": "2023-12-31",
-      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD\n(Commemoration of the Holy and Just Joseph, King David, and James Cousin of our Lord)"
     },
     {
       "date": "2024-01-07",
@@ -1331,7 +1331,7 @@
     },
     {
       "date": "2024-01-14",
-      "title": "SUNDAY OF ZACCHAEUS"
+      "title": "SUNDAY OF ZACCHAEUS\nPOSTFEAST OF THE HOLY THEOPHANY"
     },
     {
       "date": "2024-01-21",
@@ -1343,31 +1343,31 @@
     },
     {
       "date": "2024-02-04",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\n(Commemoration of the Last Judgment)\nPOSTFEAST OF THE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2024-02-11",
-      "title": "SUNDAY OF CHEESEFARE"
+      "title": "SUNDAY OF CHEESEFARE\n(Expulsion of Adam and Eve from Paradise)"
     },
     {
       "date": "2024-02-18",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2024-02-25",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)"
     },
     {
       "date": "2024-03-03",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2024-03-10",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2024-03-17",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)"
     },
     {
       "date": "2024-03-24",
@@ -1379,23 +1379,23 @@
     },
     {
       "date": "2024-04-07",
-      "title": "SUNDAY OF ST. THOMAS"
+      "title": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)"
     },
     {
       "date": "2024-04-14",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2024-04-21",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)"
     },
     {
       "date": "2024-04-28",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
     },
     {
       "date": "2024-05-05",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)"
     },
     {
       "date": "2024-05-09",
@@ -1403,7 +1403,7 @@
     },
     {
       "date": "2024-05-12",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)\nPOSTFEAST OF THE ASCENSION OF OUR LORD JESUS CHRIST"
     },
     {
       "date": "2024-05-19",
@@ -1411,7 +1411,7 @@
     },
     {
       "date": "2024-05-26",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2024-06-02",
@@ -1423,7 +1423,7 @@
     },
     {
       "date": "2024-06-16",
-      "title": "FOURTH SUNDAY AFTER PENTECOST"
+      "title": "FOURTH SUNDAY AFTER PENTECOST\n(Feast Of All The Saints Of Rus-Ukraine)"
     },
     {
       "date": "2024-06-23",
@@ -1431,7 +1431,7 @@
     },
     {
       "date": "2024-06-30",
-      "title": "SIXTH SUNDAY AFTER PENTECOST"
+      "title": "SIXTH SUNDAY AFTER PENTECOST\nTHE SYNAXIS OF THE HOLY, GLORIOUS AND ALL-PRAISEWORTHY TWELVE APOSTLES"
     },
     {
       "date": "2024-07-07",
@@ -1439,7 +1439,7 @@
     },
     {
       "date": "2024-07-14",
-      "title": "EIGHTH SUNDAY AFTER PENTECOST"
+      "title": "EIGHTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS"
     },
     {
       "date": "2024-07-21",
@@ -1459,7 +1459,7 @@
     },
     {
       "date": "2024-08-11",
-      "title": "TWELFTH SUNDAY AFTER PENTECOST"
+      "title": "TWELFTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD"
     },
     {
       "date": "2024-08-15",
@@ -1467,7 +1467,7 @@
     },
     {
       "date": "2024-08-18",
-      "title": "THIRTEENTH SUNDAY AFTER PENTECOST"
+      "title": "THIRTEENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2024-08-25",
@@ -1475,7 +1475,7 @@
     },
     {
       "date": "2024-09-01",
-      "title": "FIFTEENTH SUNDAY AFTER PENTECOST"
+      "title": "FIFTEENTH SUNDAY AFTER PENTECOST\nBEGINNING OF THE LITURGICAL YEAR"
     },
     {
       "date": "2024-09-08",
@@ -1499,11 +1499,11 @@
     },
     {
       "date": "2024-10-06",
-      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST\nTHE HOLY AND GLORIOUS APOSTLE THOMAS"
     },
     {
       "date": "2024-10-13",
-      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7ECUMENICAL COUNCIL"
     },
     {
       "date": "2024-10-20",
@@ -1527,7 +1527,7 @@
     },
     {
       "date": "2024-11-24",
-      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE"
     },
     {
       "date": "2024-12-01",
@@ -1543,15 +1543,15 @@
     },
     {
       "date": "2024-12-22",
-      "title": "SUNDAY BEFORE CHRISTMAS"
+      "title": "SUNDAY BEFORE CHRISTMAS\n(Sunday of the Holy Fathers)"
     },
     {
       "date": "2024-12-29",
-      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD\n(Commemoration of the Holy and Just Joseph, King David, and James Cousin of our Lord)"
     },
     {
       "date": "2025-01-05",
-      "title": "SUNDAY BEFORE THEOPHANY"
+      "title": "SUNDAY BEFORE THEOPHANY\nEVE OF THE THEOPHANY OF OUR LORD"
     },
     {
       "date": "2025-01-06",
@@ -1571,11 +1571,11 @@
     },
     {
       "date": "2025-02-02",
-      "title": "SUNDAY OF ZACCHAEUS"
+      "title": "SUNDAY OF ZACCHAEUS\nTHE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2025-02-09",
-      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE"
+      "title": "SUNDAY OF THE PUBLICAN AND PHARISEE\nPOSTFEAST OF THE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2025-02-16",
@@ -1583,7 +1583,7 @@
     },
     {
       "date": "2025-02-23",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\n(Commemoration of the Last Judgment)"
     },
     {
       "date": "2025-03-02",
@@ -1591,23 +1591,23 @@
     },
     {
       "date": "2025-03-09",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2025-03-16",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)"
     },
     {
       "date": "2025-03-23",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2025-03-30",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2025-04-06",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)"
     },
     {
       "date": "2025-04-13",
@@ -1619,23 +1619,23 @@
     },
     {
       "date": "2025-04-27",
-      "title": "SUNDAY OF ST. THOMAS"
+      "title": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)"
     },
     {
       "date": "2025-05-04",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2025-05-11",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\nSTS. CYRIL AND METHODIUS, TEACHERS OF THE SLAVS\n(Fourth Paschal Sunday)"
     },
     {
       "date": "2025-05-18",
-      "title": "SUNDAY OF THE SAMARITAN WOMEN"
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
     },
     {
       "date": "2025-05-25",
-      "title": "SUNDAY OF THE MAN BORN BLIND"
+      "title": "SUNDAY OF THE MAN BORN BLIND\nTHE THIRD FINDING OF THE PRECIOUS HEAD OF THE HOLY GLORIOUS PROPHET, FORERUNNER AND\nBAPTIST JOHN\n(Sixth Paschal Sunday)"
     },
     {
       "date": "2025-05-29",
@@ -1643,7 +1643,7 @@
     },
     {
       "date": "2025-06-01",
-      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL"
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)"
     },
     {
       "date": "2025-06-08",
@@ -1651,7 +1651,7 @@
     },
     {
       "date": "2025-06-15",
-      "title": "FIRST SUNDAY AFTER PENTECOST"
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
     },
     {
       "date": "2025-06-22",
@@ -1659,7 +1659,7 @@
     },
     {
       "date": "2025-06-29",
-      "title": "THIRD SUNDAY AFTER PENTECOST"
+      "title": "THIRD SUNDAY AFTER PENTECOST\nHOLY APOSTLES, PETER AND PAUL"
     },
     {
       "date": "2025-07-06",
@@ -1667,15 +1667,15 @@
     },
     {
       "date": "2025-07-13",
-      "title": "FIFTH SUNDAY AFTER PENTECOST"
+      "title": "FIFTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS"
     },
     {
       "date": "2025-07-20",
-      "title": "SIXTH SUNDAY AFTER PENTECOST"
+      "title": "SIXTH SUNDAY AFTER PENTECOST\nHOLY PROPHET ELIJAH"
     },
     {
       "date": "2025-07-27",
-      "title": "SEVENTH SUNDAY AFTER PENTECOST"
+      "title": "SEVENTH SUNDAY AFTER PENTECOST\nTHE HOLY GREAT-MARTYR PANTELEIMON THE HEALER"
     },
     {
       "date": "2025-08-03",
@@ -1687,7 +1687,7 @@
     },
     {
       "date": "2025-08-10",
-      "title": "NINTH SUNDAY AFTER PENTECOST"
+      "title": "NINTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE HOLY TRANSFIGURATION OF OUR LORD"
     },
     {
       "date": "2025-08-15",
@@ -1695,7 +1695,7 @@
     },
     {
       "date": "2025-08-17",
-      "title": "TENTH SUNDAY AFTER PENTECOST"
+      "title": "TENTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD"
     },
     {
       "date": "2025-08-24",
@@ -1727,7 +1727,7 @@
     },
     {
       "date": "2025-10-12",
-      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7ECUMENICAL COUNCIL"
     },
     {
       "date": "2025-10-19",
@@ -1735,7 +1735,7 @@
     },
     {
       "date": "2025-10-26",
-      "title": "TWENTIETH SUNDAY AFTER PENTECOST"
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST\nST. DEMETRIUS GREAT MARTYR"
     },
     {
       "date": "2025-11-02",
@@ -1747,15 +1747,15 @@
     },
     {
       "date": "2025-11-16",
-      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-THIRD SUNDAY AFTER PENTECOST\nTHE HOLY APOSTLE AND EVANGELIST MATTHEW"
     },
     {
       "date": "2025-11-23",
-      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FOURTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE ENTRANCE OF THE MOTHER OF GOD INTO THE TEMPLE"
     },
     {
       "date": "2025-11-30",
-      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST"
+      "title": "TWENTY-FIFTH SUNDAY AFTER PENTECOST\nTHE HOLY AND ALL-PRAISEWORTHY APOSTLE ANDREW THE FIRST-CALLED"
     },
     {
       "date": "2025-12-07",
@@ -1767,7 +1767,7 @@
     },
     {
       "date": "2025-12-21",
-      "title": "SUNDAY BEFORE CHRISTMAS"
+      "title": "SUNDAY BEFORE CHRISTMAS\n(Sunday of the Holy Fathers)"
     },
     {
       "date": "2025-12-25",
@@ -1775,7 +1775,7 @@
     },
     {
       "date": "2025-12-28",
-      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD"
+      "title": "SUNDAY AFTER THE NATIVITY OF OUR LORD\n(Commemoration of the Holy and Just Joseph, King David, and James Cousin of our Lord)"
     },
     {
       "date": "2026-01-04",
@@ -1783,7 +1783,7 @@
     },
     {
       "date": "2026-01-11",
-      "title": "SUNDAY AFTER THE THEOPHANY"
+      "title": "SUNDAY AFTER THE THEOPHANY\nOUR VENERABLE FATHER THEODOSIUS, FOUNDER OF THE CENOEBITIC MONASTIC LIFE"
     },
     {
       "date": "2026-01-18",
@@ -1795,35 +1795,35 @@
     },
     {
       "date": "2026-02-01",
-      "title": "SUNDAY OF THE PRODIGAL SON"
+      "title": "SUNDAY OF THE PRODIGAL SON\nPREFEAST OF THE PRESENTATION OF OUR LORD IN THE TEMPLE"
     },
     {
       "date": "2026-02-08",
-      "title": "SUNDAY OF MEATFARE"
+      "title": "SUNDAY OF MEATFARE\n(Commemoration of the Last Judgment)"
     },
     {
       "date": "2026-02-15",
-      "title": "SUNDAY OF CHEESEFARE"
+      "title": "SUNDAY OF CHEESEFARE\n(Expulsion of Adam and Eve from Paradise)"
     },
     {
       "date": "2026-02-22",
-      "title": "FIRST SUNDAY OF GREAT LENT"
+      "title": "FIRST SUNDAY OF GREAT LENT\n(Commemoration of Holy Images)"
     },
     {
       "date": "2026-03-01",
-      "title": "SECOND SUNDAY OF GREAT LENT"
+      "title": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)"
     },
     {
       "date": "2026-03-08",
-      "title": "THIRD SUNDAY OF THE GREAT LENT"
+      "title": "THIRD SUNDAY OF THE GREAT LENT\n(Veneration of the Holy Cross)"
     },
     {
       "date": "2026-03-15",
-      "title": "FOURTH SUNDAY OF GREAT LENT"
+      "title": "FOURTH SUNDAY OF GREAT LENT\n(Commemoration of St. John Climacus)"
     },
     {
       "date": "2026-03-22",
-      "title": "FIFTH SUNDAY OF GREAT LENT"
+      "title": "FIFTH SUNDAY OF GREAT LENT\n(Commemoration of Mary of Egypt)"
     },
     {
       "date": "2026-03-29",
@@ -1835,15 +1835,15 @@
     },
     {
       "date": "2026-04-12",
-      "title": "SUNDAY OF ST. THOMAS"
+      "title": "SUNDAY OF ST. THOMAS\n(Second Paschal Sunday)"
     },
     {
       "date": "2026-04-19",
-      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN"
+      "title": "SUNDAY OF THE OINTMENT-BEARING WOMEN\n(Third Paschal Sunday)"
     },
     {
       "date": "2026-04-26",
-      "title": "SUNDAY OF THE PARALYTIC"
+      "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)"
     }
   ]
 }

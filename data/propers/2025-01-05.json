@@ -1,26 +1,30 @@
 {
   "id": "2025-01-05",
   "date": "2025-01-05",
-  "liturgicalTitle": "SUNDAY BEFORE THEOPHANY",
-  "opening": "EVE OF THE THEOPHANY OF OUR LORD",
+  "liturgicalTitle": "SUNDAY BEFORE THEOPHANY\nEVE OF THE THEOPHANY OF OUR LORD",
   "troparia": [
     {
-      "label": "Troparion (8): You came down from on high, O Merciful One, and accepted three days of burial to free us from our",
-      "text": "sufferings. O Lord, our life and our resurrection, glory be to You."
+      "label": "Troparion (8)",
+      "text": "You came down from on high, O Merciful One, and accepted three days of burial to free us from our\nsufferings. O Lord, our life and our resurrection, glory be to You.",
+      "tone": 8
     },
     {
-      "label": "Troparion (4): After Elijah had gone up to heaven, Elisha threw his mantle in the Jordan River which parted, opening",
-      "text": "a way, a dry path between two walls of water, where he could pass, a true symbol of our baptism by which we pass\nthrough this fleeting life. Christ has been seen at the Jordan River to sanctify the waters.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen."
+      "label": "Troparion (4)",
+      "text": "After Elijah had gone up to heaven, Elisha threw his mantle in the Jordan River which parted, opening\na way, a dry path between two walls of water, where he could pass, a true symbol of our baptism by which we pass\nthrough this fleeting life. Christ has been seen at the Jordan River to sanctify the waters.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen.",
+      "tone": 4
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (2): O most compassionate Christ Who absolves our sins in the depth of Your mercy, You came to be",
-      "text": "baptized with the water of the Jordan. You robed me in splendor, replacing my ancient garment of evil."
+      "label": "Kontakion (2)",
+      "text": "O most compassionate Christ Who absolves our sins in the depth of Your mercy, You came to be\nbaptized with the water of the Jordan. You robed me in splendor, replacing my ancient garment of evil.",
+      "tone": 2
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:49.609Z",
   "prokeimenon": {
-    "text": "Proidmenon (6): Save Your people, O Lord, and bless Your inheritance.",
+    "text": "Proidmenon (6): Save Your people, O Lord, and bless Your inheritance.\nProkimenon (6): Save Your people, O Lord, and bless Your inheritance.",
     "verse": "Verse: To You, O Lord, I call; my God, be not deaf to me."
   },
   "epistle": {
@@ -29,14 +33,20 @@
   },
   "alleluia": {
     "verses": [
-      "Verse: O God, be gracious to us and bless us."
+      "Verse: O God, be gracious to us and bless us.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: May Your face shed its light upon us and have mercy on us.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mk 1:1-8)\nThe beginning of the gospel of Jesus Christ, the Son of God. As it is written in Isaiah the prophet: “Behold, I am\nsending my messenger ahead of you; he will prepare your way. A voice of one crying out in the desert: ‘Prepare the\nway of the Lord, make straight his paths.’” John the Baptist appeared in the desert proclaiming a baptism of repentance\nfor the forgiveness of sins. People of the whole Judean countryside and all the inhabitants of Jerusalem were going out\nto him and were being baptized by him in the Jordan River as they acknowledged their sins. John was clothed in\ncamel's hair, with a leather belt around his waist. He fed on locusts and wild honey. And this is what he proclaimed:\n“One mightier than I is coming after me. I am not worthy to stoop and loosen the thongs of his sandals. I have baptized\nyou with water; he will baptize you with the holy Spirit.”\nIt is truly right... (Or the Hirmos of the Feast):\nIn you, O Woman Full of Grace, the angelic choirs and the human race - all creation - rejoices. O Sanctified Temple,\nMystical Paradise, and Glory of Virgins! He, Who is our God from before all ages took flesh from you and became a\nchild. He made your womb a throne, and greater than the heavens. In you, O Woman Full of Grace, all creation\nrejoices. All praise be to you!"
+    "reference": "Mk 1:1-8",
+    "text": "The beginning of the gospel of Jesus Christ, the Son of God. As it is written in Isaiah the prophet: “Behold, I am\nsending my messenger ahead of you; he will prepare your way. A voice of one crying out in the desert: ‘Prepare the\nway of the Lord, make straight his paths.’” John the Baptist appeared in the desert proclaiming a baptism of repentance\nfor the forgiveness of sins. People of the whole Judean countryside and all the inhabitants of Jerusalem were going out\nto him and were being baptized by him in the Jordan River as they acknowledged their sins. John was clothed in\ncamel's hair, with a leather belt around his waist. He fed on locusts and wild honey. And this is what he proclaimed:\n“One mightier than I is coming after me. I am not worthy to stoop and loosen the thongs of his sandals. I have baptized\nyou with water; he will baptize you with the holy Spirit.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:44.116Z"
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "In you, O Woman Full of Grace, the angelic choirs and the human race - all creation - rejoices. O Sanctified Temple,\nMystical Paradise, and Glory of Virgins! He, Who is our God from before all ages took flesh from you and became a\nchild. He made your womb a throne, and greater than the heavens. In you, O Woman Full of Grace, all creation\nrejoices. All praise be to you!"
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 8
 }

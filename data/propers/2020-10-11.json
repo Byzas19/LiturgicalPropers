@@ -1,41 +1,52 @@
 {
   "id": "2020-10-11",
   "date": "2020-10-11",
-  "liturgicalTitle": "NINETEENTH SUNDAY AFTER PENTECOST",
-  "opening": "SUNDAY OF THE HOLY FATHERS OF THE 7\nth\n ECUMENICAL COUNCIL",
+  "liturgicalTitle": "NINETEENTH SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7ECUMENICAL COUNCIL",
   "troparia": [
     {
-      "label": "Troparion (2): When You went down to death, O Life Immortal, You struck Hades dead with the blazing light of Your",
-      "text": "divinity. When You raised the dead from the nether world, all the powers of heaven cried out: O Giver of life, Christ our\nGod, glory be to You!"
+      "label": "Troparion (2)",
+      "text": "When You went down to death, O Life Immortal, You struck Hades dead with the blazing light of Your\ndivinity. When You raised the dead from the nether world, all the powers of heaven cried out: O Giver of life, Christ our\nGod, glory be to You!",
+      "tone": 2
     },
     {
-      "label": "Troparion (8): O Christ our God, You are above all praise, for You established our Fathers as lights upon the earth. You led",
-      "text": "us to the true faith through them. O most bountiful Lord, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen."
+      "label": "Troparion (8)",
+      "text": "O Christ our God, You are above all praise, for You established our Fathers as lights upon the earth. You led\nus to the true faith through them. O most bountiful Lord, glory be to You.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen.",
+      "tone": 8
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (6): How the Son proceeded from the Father, our words cannot express; but having two natures, He was born of",
-      "text": "a woman. We do not reject His image when we behold it; but, in faith, we venerate and honor it. And the Church professes it\nas true belief when she honors the image of Christ's incarnation."
+      "label": "Kontakion (6)",
+      "text": "How the Son proceeded from the Father, our words cannot express; but having two natures, He was born of\na woman. We do not reject His image when we behold it; but, in faith, we venerate and honor it. And the Church professes it\nas true belief when she honors the image of Christ's incarnation.",
+      "tone": 6
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:59.086Z",
   "prokeimenon": {
-    "text": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
+    "text": "Prokimenon (2): The Lord is my strength and my song of praise, and He has become my salvation.\nProkimenon (4): Blessed are You, and praiseworthy, O Lord, the God of our fathers, and glorious forever is Your name.",
+    "verse": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
   },
   "epistle": {
-    "reference": "",
+    "reference": "2Cor 11,31-33;12,1-9",
     "text": "Reading of the Second Epistle of St. Paul to the Corinthians.\n(2Cor 11,31-33;12,1-9)\nBrethren: The God and Father of the Lord Jesus knows, he who is blessed forever, that I do not lie. At Damascus, the\ngovernor under King Aretas guarded the city of Damascus, in order to seize me, but I was lowered in a basket through a\nwindow in the wall and escaped his hands. I must boast; not that it is profitable, but I will go on to visions and revelations of\nthe Lord. I know someone in Christ who, fourteen years ago (whether in the body or out of the body I do not know, God\nknows), was caught up to the third heaven. And I know that this person (whether in the body or out of the body, I do not\nknow, God knows) was caught up into Paradise and heard ineffable things, which no one may utter. About this person I will\nboast, but about myself I will not boast, except about my weaknesses. Although if I should wish to boast, I would not be\nfoolish, for I would be telling the truth. But I refrain, so that no one may think more of me than what he sees in me or hears\nfrom me because of the abundance of the revelations. Therefore, that I might not become too elated, a thorn in the flesh was\ngiven to me, an angel of Satan, to beat me, to keep me from being too elated. Three times I begged the Lord about this, that\nit might leave me, but he said to me, “My grace is sufficient for you, for power is made perfect in weakness.” I will rather\nboast most gladly of my weaknesses, in order that the power of Christ may dwell with me."
   },
   "alleluia": {
     "verses": [
-      "Verse (2): The Lord will hear you in the day of tribulation; the name of the God of Jacob will shield you."
+      "Verse (2): The Lord will hear you in the day of tribulation; the name of the God of Jacob will shield you.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (2): Lord, grant victory to the king, and hear us in the day that we shall call upon You.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: The God of gods, the Lord, has spoken and summoned the earth, from the rising of the sun to its setting.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Summon before Me, My people who made a covenant with Me by sacrifice.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Lk 7,11-16)\nTWENTIETH SUNDAY AFTER PENTECOST\nAt that time, Jesus journeyed to a city called Nain, and his disciples and a large crowd accompanied him. As he drew near to\nthe gate of the city, a man who had died was being carried out, the only son of his mother, and she was a widow. A large\ncrowd from the city was with her. When the Lord saw her, he was moved with pity for her and said to her, “Do not weep.”\nHe stepped forward and touched the coffin; at this the bearers halted, and he said, “Young man, I tell you, arise!” The dead\nman sat up and began to speak, and Jesus gave him to his mother. Fear seized them all, and they glorified God, exclaiming,\n“A great prophet has arisen in our midst,” and “God has visited his people.”"
+    "reference": "Lk 7,11-16",
+    "text": "At that time, Jesus journeyed to a city called Nain, and his disciples and a large crowd accompanied him. As he drew near to\nthe gate of the city, a man who had died was being carried out, the only son of his mother, and she was a widow. A large\ncrowd from the city was with her. When the Lord saw her, he was moved with pity for her and said to her, “Do not weep.”\nHe stepped forward and touched the coffin; at this the bearers halted, and he said, “Young man, I tell you, arise!” The dead\nman sat up and began to speak, and Jesus gave him to his mother. Fear seized them all, and they glorified God, exclaiming,\n“A great prophet has arisen in our midst,” and “God has visited his people.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:48.511Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 2
 }

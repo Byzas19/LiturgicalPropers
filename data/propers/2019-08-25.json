@@ -4,29 +4,40 @@
   "liturgicalTitle": "ELEVENTH SUNDAY AFTER PENTECOST",
   "troparia": [
     {
-      "label": "Troparion (2): When You went down to death, O Life Immortal, You struck Hades dead with the blazing light of Your",
-      "text": "divinity. When You raised the dead from the nether world, all the powers of heaven cried out: O Giver of life, Christ\nour God, glory be to You!\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (2)",
+      "text": "When You went down to death, O Life Immortal, You struck Hades dead with the blazing light of Your\ndivinity. When You raised the dead from the nether world, all the powers of heaven cried out: O Giver of life, Christ\nour God, glory be to You!\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 2
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (2): You rose from the tomb, O Almighty Savior, and Hades, seeing this wonder, was stricken with fear;",
-      "text": "and the dead arose. Creation saw and rejoices with You, and Adam exults. And the world, my Savior, sings Your\npraises for ever.\nNow and for ever and ever: Amen.\nTheotokion (2): The tomb and death could not hold the Mother of God, unceasing in her intercessions and an unfailing\nhope of patronage, for as the Mother of Life she was transferred to life by Him Who had dwelt in her ever-virgin\nwomb."
+      "label": "Kontakion (2)",
+      "text": "You rose from the tomb, O Almighty Savior, and Hades, seeing this wonder, was stricken with fear;\nand the dead arose. Creation saw and rejoices with You, and Adam exults. And the world, my Savior, sings Your\npraises for ever.\nNow and for ever and ever: Amen.\nTheotokion (2): The tomb and death could not hold the Mother of God, unceasing in her intercessions and an unfailing\nhope of patronage, for as the Mother of Life she was transferred to life by Him Who had dwelt in her ever-virgin\nwomb.",
+      "tone": 2
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:10:01.481Z",
   "prokeimenon": {
-    "text": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
+    "text": "Prokimenon (2): The Lord is my strength and my song of praise, and He has become my salvation.\nProkimenon (2): The Lord is my strength and my song of praise, and He has become my salvation.",
+    "verse": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
   },
   "epistle": {
-    "reference": "",
-    "text": "Reading of the First Epistle of St. Paul to the Corinthians.\n(1Cor 9,2-12)\nBrethren: You are the seal of my apostleship in the Lord. My defense against those who would pass judgment on me is\nthis. Do we not have the right to eat and drink? Do we not have the right to take along a Christian wife, as do the rest of\nthe apostles, and the brothers of the Lord, and Kephas? Or is it only myself and Barnabas who do not have the right not\nto work? Who ever serves as soldier at his own expense? Who plants a vineyard without eating its produce? Or who\nshepherds a flock without using some of the milk from the flock? Am I saying this on human authority, or does not the\nlaw also speak of these things? It is written in the law of Moses, “You shall not muzzle an ox while it is treading out the\ngrain.” Is God concerned about oxen, or is he not really speaking for our sake? It was written for our sake, because the\nplowman should plow in hope, and the thresher in hope of receiving a share. If we have sown spiritual seed for you, is\nit a great thing that we reap a material harvest from you? If others share this rightful claim on you, do not we still\nmore? Yet we have not used this right. On the contrary, we endure everything so as not to place an obstacle to the"
+    "reference": "1Cor 9,2-12",
+    "text": "Reading of the First Epistle of St. Paul to the Corinthians.\n(1Cor 9,2-12)\nBrethren: You are the seal of my apostleship in the Lord. My defense against those who would pass judgment on me is\nthis. Do we not have the right to eat and drink? Do we not have the right to take along a Christian wife, as do the rest of\nthe apostles, and the brothers of the Lord, and Kephas? Or is it only myself and Barnabas who do not have the right not\nto work? Who ever serves as soldier at his own expense? Who plants a vineyard without eating its produce? Or who\nshepherds a flock without using some of the milk from the flock? Am I saying this on human authority, or does not the\nlaw also speak of these things? It is written in the law of Moses, “You shall not muzzle an ox while it is treading out the\ngrain.” Is God concerned about oxen, or is he not really speaking for our sake? It was written for our sake, because the\nplowman should plow in hope, and the thresher in hope of receiving a share. If we have sown spiritual seed for you, is\nit a great thing that we reap a material harvest from you? If others share this rightful claim on you, do not we still\nmore? Yet we have not used this right. On the contrary, we endure everything so as not to place an obstacle to the\ngospel of Christ."
   },
   "alleluia": {
     "verses": [
-      "Verse (2): The Lord will hear you in the day of tribulation; the name of the God of Jacob will shield you."
+      "Verse (2): The Lord will hear you in the day of tribulation; the name of the God of Jacob will shield you.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (2): Lord, grant victory to the king, and hear us in the day that we shall call upon You.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:49.590Z"
+  "gospel": {
+    "reference": "Mt 18,23-35",
+    "text": "The Lord told this parable: “The kingdom of heaven may be likened to a king who decided to settle accounts with his\nservants. When he began the accounting, a debtor was brought before him who owed him a huge amount. Since he had\nno way of paying it back, his master ordered him to be sold, along with his wife, his children, and all his property, in\npayment of the debt. At that, the servant fell down, did him homage, and said, ‘Be patient with me, and I will pay you\nback in full.’ Moved with compassion the master of that servant let him go and forgave him the loan. When that servant\nhad left, he found one of his fellow servants who owed him a much smaller amount. He seized him and started to choke\nhim, demanding, ‘Pay back what you owe.’ Falling to his knees, his fellow servant begged him, ‘Be patient with me,\nand I will pay you back.’ But he refused. Instead, he had him put in prison until he paid back the debt. Now when his\nfellow servants saw what had happened, they were deeply disturbed, and went to their master and reported the whole\naffair. His master summoned him and said to him, ‘You wicked servant! I forgave you your entire debt because you\nbegged me to. Should you not have had pity on your fellow servant, as I had pity on you?’ Then in anger his master\nhanded him over to the torturers until he should pay back the whole debt. So will my heavenly Father do to you, unless\neach of you forgives his brother from his heart.”"
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 2
 }

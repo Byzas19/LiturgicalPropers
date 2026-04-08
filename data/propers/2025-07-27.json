@@ -1,26 +1,31 @@
 {
   "id": "2025-07-27",
   "date": "2025-07-27",
-  "liturgicalTitle": "SEVENTH SUNDAY AFTER PENTECOST",
-  "opening": "THE HOLY GREAT-MARTYR PANTELEIMON THE HEALER",
+  "liturgicalTitle": "SEVENTH SUNDAY AFTER PENTECOST\nTHE HOLY GREAT-MARTYR PANTELEIMON THE HEALER",
   "troparia": [
     {
-      "label": "Troparion (6): Angelic powers were upon Your tomb and the guards became like dead men; Mary stood before Your",
-      "text": "tomb seeking Your most pure body. You captured Hades without being overcome by it. You met the Virgin and\ngranted life. O Lord risen from the dead, glory be to You!"
+      "label": "Troparion (6)",
+      "text": "Angelic powers were upon Your tomb and the guards became like dead men; Mary stood before Your\ntomb seeking Your most pure body. You captured Hades without being overcome by it. You met the Virgin and\ngranted life. O Lord risen from the dead, glory be to You!",
+      "tone": 6
     },
     {
-      "label": "Troparion (8): Taught by the priest Ermola’us you received your vocation to heal from heaven. You embraced the",
-      "text": "faith of your Mother and suffered vailiantly for it rejoicing. You obtain the grace to heal ailments and so we turn to\nyou: Heal our infirmities, O glorious Great-Martyr Panteleimon, that we might honor your memory with praises.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen."
+      "label": "Troparion (8)",
+      "text": "Taught by the priest Ermola’us you received your vocation to heal from heaven. You embraced the\nfaith of your Mother and suffered vailiantly for it rejoicing. You obtain the grace to heal ailments and so we turn to\nyou: Heal our infirmities, O glorious Great-Martyr Panteleimon, that we might honor your memory with praises.\nGlory be to the Father, and to the Son, and to the Holy Spirit. Now and for ever and ever: Amen.",
+      "tone": 8
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (6): With His life-giving hand, Christ our God, the Giver of life, raised all the dead from the murky abyss",
-      "text": "and bestowed resurrection upon humanity. He is for all, the Savior, the Resurrection and the Life, and the God of all."
+      "label": "Kontakion (6)",
+      "text": "With His life-giving hand, Christ our God, the Giver of life, raised all the dead from the murky abyss\nand bestowed resurrection upon humanity. He is for all, the Savior, the Resurrection and the Life, and the God of all.",
+      "tone": 6
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:48.250Z",
   "prokeimenon": {
-    "text": "Verse: Unto You I will cry, O Lord, my God, lest You turn from me in silence."
+    "text": "Prokimenon (6): Save, Your people, O Lord, and bless Your inheritance.\nProkimenon (4): God is wondrous in His saints; the God of Israel.",
+    "verse": "Verse: Unto You I will cry, O Lord, my God, lest You turn from me in silence."
   },
   "epistle": {
     "reference": "Rom 15:1-7",
@@ -28,14 +33,20 @@
   },
   "alleluia": {
     "verses": [
-      "Verse (6): He who lives in the aid of the Most High, shall dwell under the protection of the God of heaven."
+      "Verse (6): He who lives in the aid of the Most High, shall dwell under the protection of the God of heaven.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (6): He says to the Lord: You are my protector and my refuge, my God; in Whom I hope.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: The just will flourish like the palm tree and grow like a cedar of Lebanon.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Planted in the house of the Lord, they will flourish in the courtyard of our God.",
+      "Alleluia, Alleluia, Alleluia.."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 9:27-35)\nAt that time, as Jesus was passing by, two blind men followed Jesus, crying out, “Son of David, have pity on us!”\nWhen he entered the house, the blind men approached him and Jesus said to them, “Do you believe that I can do this?”\n“Yes, Lord,” they said to him. Then he touched their eyes and said, “Let it be done for you according to your faith.”\nAnd their eyes were opened. Jesus warned them sternly, “See that no one knows about this.” But they went out and\nspread word of him through all that land. As they were going out, a demoniac who could not speak was brought to him,\nand when the demon was driven out the mute person spoke. The crowds were amazed and said, “Nothing like this has\neven been seen in Israel.” But the Pharisees said, “He drives out demons by the prince of demons.” Jesus went around\nto all the towns and villages, teaching in their synagogues, proclaiming the gospel of the kingdom, and curing every\ndisease and illness."
+    "reference": "Mt 9:27-35",
+    "text": "At that time, as Jesus was passing by, two blind men followed Jesus, crying out, “Son of David, have pity on us!”\nWhen he entered the house, the blind men approached him and Jesus said to them, “Do you believe that I can do this?”\n“Yes, Lord,” they said to him. Then he touched their eyes and said, “Let it be done for you according to your faith.”\nAnd their eyes were opened. Jesus warned them sternly, “See that no one knows about this.” But they went out and\nspread word of him through all that land. As they were going out, a demoniac who could not speak was brought to him,\nand when the demon was driven out the mute person spoke. The crowds were amazed and said, “Nothing like this has\neven been seen in Israel.” But the Pharisees said, “He drives out demons by the prince of demons.” Jesus went around\nto all the towns and villages, teaching in their synagogues, proclaiming the gospel of the kingdom, and curing every\ndisease and illness."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:43.535Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 6
 }

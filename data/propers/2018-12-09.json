@@ -4,33 +4,40 @@
   "liturgicalTitle": "TWENTY-NINETH SUNDAY AFTER PENTECOST",
   "troparia": [
     {
-      "label": "Troparion (4): When the disciples of the Lord learned from the angel the glorious news of the resurrection and cast off",
-      "text": "the ancestral condemnation, they proudly told the apostles: Death has been plundered! Christ our God is risen, granting\nto the world great mercy.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (4)",
+      "text": "When the disciples of the Lord learned from the angel the glorious news of the resurrection and cast off\nthe ancestral condemnation, they proudly told the apostles: Death has been plundered! Christ our God is risen, granting\nto the world great mercy.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 4
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (4): My Savior and Deliverer from the grave, as God, has raised out of bondage the children of earth and",
-      "text": "shattered the gates of Hades; and as Master, He rose on the third day.\nNow and for ever and ever: Amen.\nTheotokion (4): By your birth, O Immaculate One, Joachim and Anna were freed from the reproach of childlessness,\nand Adam and Eve from the corruption of death. And your people, redeemed from the guilt of their sins, celebrate as\nthey cry out to you: The barren one gives birth to the Mother of God and the nourisher of our life."
+      "label": "Kontakion (4)",
+      "text": "My Savior and Deliverer from the grave, as God, has raised out of bondage the children of earth and\nshattered the gates of Hades; and as Master, He rose on the third day.\nNow and for ever and ever: Amen.\nTheotokion (4): By your birth, O Immaculate One, Joachim and Anna were freed from the reproach of childlessness,\nand Adam and Eve from the corruption of death. And your people, redeemed from the guilt of their sins, celebrate as\nthey cry out to you: The barren one gives birth to the Mother of God and the nourisher of our life.",
+      "tone": 4
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:10:02.843Z",
   "prokeimenon": {
-    "text": "Verse: Bless the Lord, O my soul; O Lord my God, You are exceedingly great."
+    "text": "Prokimenon (4): How great are Your works, O Lord; You have made all things in wisdom.\nProkimenon (4): How great are Your works, O Lord; You have made all things in wisdom.",
+    "verse": "Verse: Bless the Lord, O my soul; O Lord my God, You are exceedingly great."
   },
   "epistle": {
-    "reference": "",
+    "reference": "Col 3,4-11",
     "text": "Reading of the Epistle of St. Paul to the Colossians.\n(Col 3,4-11)\nBrethren: When Christ your life appears, then you too will appear with him in glory. Put to death, then, the parts of you\nthat are earthly: immorality, impurity, passion, evil desire, and the greed that is idolatry. Because of these the wrath of\nGod is coming upon the disobedient. By these you too once conducted yourselves, when you lived in that way. But\nnow you must put them all away: anger, fury, malice, slander, and obscene language out of your mouths. Stop lying to\none another, since you have taken off the old self with its practices and have put on the new self, which is being\nrenewed, for knowledge, in the image of its creator. Here there is not Greek and Jew, circumcision and uncircumcision,\nbarbarian, Scythian, slave, free; but Christ is all and in all."
   },
   "alleluia": {
     "verses": [
-      "Verse (4): Poise yourself and advance in triumph and reign in the cause of truth, and meekness, and justice."
+      "Verse (4): Poise yourself and advance in triumph and reign in the cause of truth, and meekness, and justice.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (4): You have loved justice and hated iniquity.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Lk 17,12-19)\nAt that time, as Jesus was entering a village, ten lepers met him, They stood at a distance from him and raised their\nvoice, saying, “Jesus, Master! Have pity on us!” And when he saw them, he said, “Go show yourselves to the priests.”\nAs they were going they were cleansed. And one of them, realizing he had been healed, returned, glorifying God in a\nloud voice; and he fell at the feet of Jesus and thanked him. He was a Samaritan. Jesus said in reply, “Ten were\ncleansed, were they not? Where are the other nine? Has none but this foreigner returned to give thanks to God?” Then\nhe said to him, “Stand up and go, your faith has saved you.”"
+    "reference": "Lk 17,12-19",
+    "text": "At that time, as Jesus was entering a village, ten lepers met him, They stood at a distance from him and raised their\nvoice, saying, “Jesus, Master! Have pity on us!” And when he saw them, he said, “Go show yourselves to the priests.”\nAs they were going they were cleansed. And one of them, realizing he had been healed, returned, glorifying God in a\nloud voice; and he fell at the feet of Jesus and thanked him. He was a Samaritan. Jesus said in reply, “Ten were\ncleansed, were they not? Where are the other nine? Has none but this foreigner returned to give thanks to God?” Then\nhe said to him, “Stand up and go, your faith has saved you.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:50.335Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 4
 }

@@ -1,46 +1,58 @@
 {
   "id": "2022-07-17",
   "date": "2022-07-17",
-  "liturgicalTitle": "SIXTH SUNDAY AFTER PENTECOST",
-  "opening": "SUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS",
+  "liturgicalTitle": "SIXTH SUNDAY AFTER PENTECOST\nSUNDAY OF THE HOLY FATHERS OF THE FIRST SIX ECUMENICAL COUNCILS",
   "troparia": [
     {
-      "label": "Troparion (5): Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of the",
-      "text": "Virgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead by His\nglorious resurrection."
+      "label": "Troparion (5)",
+      "text": "Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of the\nVirgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead by His\nglorious resurrection.",
+      "tone": 5
     },
     {
-      "label": "Troparion (8): O Christ our God, You are most glorified, for You established our fathers as lights to all the earth. Through",
-      "text": "them You led us to the true faith. O most merciful Lord, glory be to You!\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (8)",
+      "text": "O Christ our God, You are most glorified, for You established our fathers as lights to all the earth. Through\nthem You led us to the true faith. O most merciful Lord, glory be to You!\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 8
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (8): The preaching of the apostles and the decisions of the Fathers have established the true faith of the Church,",
-      "text": "which she wears as the garment of truth, fashioned from the theology on high. She justly governs and glorifies the great\nmystery of worship.\nNow and for ever and ever: Amen."
+      "label": "Kontakion (8)",
+      "text": "The preaching of the apostles and the decisions of the Fathers have established the true faith of the Church,\nwhich she wears as the garment of truth, fashioned from the theology on high. She justly governs and glorifies the great\nmystery of worship.\nNow and for ever and ever: Amen.",
+      "tone": 8
     },
     {
-      "label": "Kontakion (5): You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You, as",
-      "text": "Creator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind. And so\nwe cry out: Save us, O Lord."
+      "label": "Kontakion (5)",
+      "text": "You, my Savior, descended to Hades, and as the Almighty, You shattered its gates. With Yourself You, as\nCreator, raised the dead and shattered the sting of death, and delivered Adam from the curse, O Lover of Mankind. And so\nwe cry out: Save us, O Lord.",
+      "tone": 5
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:55.060Z",
   "prokeimenon": {
-    "text": "Verse: Save me, O Lord, for there is no longer left a just man."
+    "text": "Prokimenon (5): You, O Lord, will guard us and will keep us from this generation, and for ever.\nProkimenon (4): Blessed are You, and praiseworthy, O Lord, the God of our fathers, and glorious forever is Your name.",
+    "verse": "Verse: Save me, O Lord, for there is no longer left a just man."
   },
   "epistle": {
-    "reference": "",
+    "reference": "Rom 12,6-14",
     "text": "Reading of the Epistle of St. Paul to the Romans\n(Rom 12,6-14)\nBrethren: Since we have gifts that differ according to the grace given to us, let us exercise them: if prophecy, in proportion\nto the faith; if ministry, in ministering; if one is a teacher, in teaching; if one exhorts, in exhortation; if one contributes, in\ngenerosity; if one is over others, with diligence; if one does acts of mercy, with cheerfulness. Let love be sincere; hate what\nis evil; hold on to what is good; love one another with mutual affection; anticipate one another in showing honor. Do not\ngrow slack in zeal, be fervent in spirit, serve the Lord. Rejoice in hope, endure in affliction, persevere in prayer. Contribute\nto the needs of the holy ones, exercise hospitality. Bless those who persecute you, bless and do not curse them."
   },
   "alleluia": {
     "verses": [
       "Verse (5): Your mercies, O Lord, I will sing for ever; from generation to generation I will announce Your truth with my",
-      "mouth."
+      "mouth.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (5): For You have said: Mercy shall be built up for ever; in the heavens Your truth shall be prepared.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: The God of gods, the Lord has spoken and summoned the earth, from the rising of the sun to its setting.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Summon before Me my people who made a covenant with Me by sacrifice.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mt 9,1-8)\nAt that time, Jesus entered a boat, made the crossing, and came into his own town. And there people brought to him a\nparalytic lying on a stretcher. When Jesus saw their faith, he said to the paralytic, “Courage, child, your sins are forgiven.”\nAt that, some of the scribes said to themselves, “This man is blaspheming.” Jesus knew what they were thinking, and said,\n“Why do you harbor evil thoughts? Which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise and walk’? But that you\nmay know that the Son of Man has authority on earth to forgive sins” - he then said to the paralytic, “Rise, pick up your\nstretcher, and go home.” He rose and went home. When the crowds saw this they were struck with awe and glorified God\nwho had given such authority to human beings."
+    "reference": "Mt 9,1-8",
+    "text": "At that time, Jesus entered a boat, made the crossing, and came into his own town. And there people brought to him a\nparalytic lying on a stretcher. When Jesus saw their faith, he said to the paralytic, “Courage, child, your sins are forgiven.”\nAt that, some of the scribes said to themselves, “This man is blaspheming.” Jesus knew what they were thinking, and said,\n“Why do you harbor evil thoughts? Which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise and walk’? But that you\nmay know that the Son of Man has authority on earth to forgive sins” - he then said to the paralytic, “Rise, pick up your\nstretcher, and go home.” He rose and went home. When the crowds saw this they were struck with awe and glorified God\nwho had given such authority to human beings."
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:46.648Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nExult, you just, in the Lord; praise from the upright is fitting.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 5
 }

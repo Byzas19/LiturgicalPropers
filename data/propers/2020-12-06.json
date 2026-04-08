@@ -1,45 +1,57 @@
 {
   "id": "2020-12-06",
   "date": "2020-12-06",
-  "liturgicalTitle": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST",
-  "opening": "ST. NICHOLAS THE WONDERWORKER",
+  "liturgicalTitle": "TWENTY-SEVENTH SUNDAY AFTER PENTECOST\nST. NICHOLAS THE WONDERWORKER",
   "troparia": [
     {
-      "label": "Troparion (2): When You went down to death, O Life Immortal, You struck Hades dead with the blazing light of Your",
-      "text": "divinity. When You raised the dead from the nether world, all the powers of heaven cried out: O Giver of life, Christ our\nGod, glory be to You!"
+      "label": "Troparion (2)",
+      "text": "When You went down to death, O Life Immortal, You struck Hades dead with the blazing light of Your\ndivinity. When You raised the dead from the nether world, all the powers of heaven cried out: O Giver of life, Christ our\nGod, glory be to You!",
+      "tone": 2
     },
     {
-      "label": "Troparion (4): The sincerity of your deeds has revealed you to your people as a teacher of moderation, a model of faith, and",
-      "text": "an example of virtue. Therefore, you attained greatness through humility and wealth through poverty. O father and\narchbishop Nicholas, ask Christ our God to save our souls.\nGlory be to the Father, and to the Son, and to the Holy Spirit."
+      "label": "Troparion (4)",
+      "text": "The sincerity of your deeds has revealed you to your people as a teacher of moderation, a model of faith, and\nan example of virtue. Therefore, you attained greatness through humility and wealth through poverty. O father and\narchbishop Nicholas, ask Christ our God to save our souls.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 4
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (2): You rose from the tomb, O Almighty Savior, and Hades, seeing this wonder, was stricken with fear; and the",
-      "text": "dead arose. Creation saw and rejoices with You, and Adam exults. And the world, my Savior, sings Your praises for ever.\nNow and for ever and ever: Amen."
+      "label": "Kontakion (2)",
+      "text": "You rose from the tomb, O Almighty Savior, and Hades, seeing this wonder, was stricken with fear; and the\ndead arose. Creation saw and rejoices with You, and Adam exults. And the world, my Savior, sings Your praises for ever.\nNow and for ever and ever: Amen.",
+      "tone": 2
     },
     {
-      "label": "Kontakion (3): You were truly a priestly worker in Myra, O holy Nicholas; for zealously living the gospel of Christ, you",
-      "text": "dedicated your life to your people; you saved the innocent from death. Therefore, you have been sanctified as one who has\nentered the mystery of God's grace."
+      "label": "Kontakion (3)",
+      "text": "You were truly a priestly worker in Myra, O holy Nicholas; for zealously living the gospel of Christ, you\ndedicated your life to your people; you saved the innocent from death. Therefore, you have been sanctified as one who has\nentered the mystery of God's grace.\nHoly God, Holy and Mighty, Holy and Immortal, have mercy on us.",
+      "tone": 3
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:58.748Z",
   "prokeimenon": {
-    "text": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
+    "text": "Prokimenon (2): The Lord is my strength and my song of praise, and He has become my salvation.\nProkimenon (7): The just man will rejoice in the Lord and will put his trust in Him.",
+    "verse": "Verse: The Lord has indeed chastised me, but He has not delivered me to death."
   },
   "epistle": {
-    "reference": "",
+    "reference": "Eph 6,10-17",
     "text": "Reading of the Epistle of St. Paul to the Ephesians.\n(Eph 6,10-17)\nBrethren: Draw your strength from the Lord and from his mighty power. Put on the armor of God so that you may be able to\nstand firm against the tactics of the devil. For our struggle is not with flesh and blood but with the principalities, with the\npowers, with the world rulers of this present darkness, with the evil spirits in the heavens. Therefore, put on the armor of\nGod, that you may be able to resist on the evil day and, having done everything, to hold your ground. So stand fast with your\nloins girded in truth, clothed with righteousness as a breastplate, and your feet shod in readiness for the gospel of peace. In\nall circumstances, hold faith as a shield, to quench all the flaming arrows of the evil one. And take the helmet of salvation\nand the sword of the Spirit, which is the word of God."
   },
   "alleluia": {
     "verses": [
-      "Verse (2): The Lord will hear you in the day of tribulation; the name of the God of Jacob will shield you."
+      "Verse (2): The Lord will hear you in the day of tribulation; the name of the God of Jacob will shield you.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (2): Lord, grant victory to the king, and hear us in the day that we shall call upon You.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Your priests shall be clothed with holiness; Your faithful shall ring out their joy.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: Happy the man who fears the Lord, who takes delight in all His commands.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Lk 17,12-19)\nTWENTY-NINETH SUNDAY AFTER PENTECOST\nAt that time, as Jesus was entering a village, ten lepers met him, They stood at a distance from him and raised their voice,\nsaying, “Jesus, Master! Have pity on us!” And when he saw them, he said, “Go show yourselves to the priests.” As they\nwere going they were cleansed. And one of them, realizing he had been healed, returned, glorifying God in a loud voice; and\nhe fell at the feet of Jesus and thanked him. He was a Samaritan. Jesus said in reply, “Ten were cleansed, were they not?\nWhere are the other nine? Has none but this foreigner returned to give thanks to God?” Then he said to him, “Stand up and\ngo, your faith has saved you.”"
+    "reference": "Lk 17,12-19",
+    "text": "At that time, as Jesus was entering a village, ten lepers met him, They stood at a distance from him and raised their voice,\nsaying, “Jesus, Master! Have pity on us!” And when he saw them, he said, “Go show yourselves to the priests.” As they\nwere going they were cleansed. And one of them, realizing he had been healed, returned, glorifying God in a loud voice; and\nhe fell at the feet of Jesus and thanked him. He was a Samaritan. Jesus said in reply, “Ten were cleansed, were they not?\nWhere are the other nine? Has none but this foreigner returned to give thanks to God?” Then he said to him, “Stand up and\ngo, your faith has saved you.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:48.359Z"
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nThe just man shall be in everlasting remembrance. An evil report he will not fear.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 2
 }

@@ -1,38 +1,48 @@
 {
   "id": "2026-03-01",
   "date": "2026-03-01",
-  "liturgicalTitle": "SECOND SUNDAY OF GREAT LENT",
-  "opening": "(Sunday of the Palsied Man)",
+  "liturgicalTitle": "SECOND SUNDAY OF GREAT LENT\n(Sunday of the Palsied Man)",
   "troparia": [
     {
-      "label": "Troparion (5): Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of",
-      "text": "the Virgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead\nby His glorious resurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit, Now and for ever and ever: Amen."
+      "label": "Troparion (5)",
+      "text": "Let us the faithful acclaim and worship the Word, co-eternal with the Father and the Spirit, and born of\nthe Virgin for our salvation. For He willed to be lifted up on the cross in the flesh, to suffer death and to raise the dead\nby His glorious resurrection.\nGlory be to the Father, and to the Son, and to the Holy Spirit, Now and for ever and ever: Amen.",
+      "tone": 5
     }
   ],
   "kondakia": [
     {
-      "label": "Kontakion (4): Today is the time when earthly deeds are revealed, for judgment is at hand. Let us be found fasting,",
-      "text": "and let us bring tears of supplication, begging mercy and crying out: I have sinned more times than there are sands of\nthe sea; but forgive me, O Creator of All, that I may receive the crown that does not perish."
+      "label": "Kontakion (4)",
+      "text": "Today is the time when earthly deeds are revealed, for judgment is at hand. Let us be found fasting,\nand let us bring tears of supplication, begging mercy and crying out: I have sinned more times than there are sands of\nthe sea; but forgive me, O Creator of All, that I may receive the crown that does not perish.",
+      "tone": 4
     }
   ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-04-08T02:09:46.833Z",
   "prokeimenon": {
-    "text": "Verse: Help, O Lord, for good men have vanished."
+    "text": "Prokimenon (5): You, O Lord, will keep us and preserve us, forever and ever, from this generation.\nProkimenon (5): You, O Lord, will keep us and preserve us, forever and ever, from this generation.",
+    "verse": "Verse: Help, O Lord, for good men have vanished."
   },
   "epistle": {
-    "reference": "Heb 1:10-2",
+    "reference": "Heb 1:10-2:3",
     "text": "Reading of the Epistle of St. Paul to the Hebrews\n(Heb 1:10-2:3)\nBrethren: At the beginning, O Lord, you established the earth, and the heavens are the works of your hands. They will\nperish, but you remain; and they will all grow old like a garment. You will roll them up like a cloak, and like a garment\nthey will be changed. But you are the same, and your years will have no end. But to which of the angels has he ever\nsaid: “Sit at my right hand until I make your enemies your footstool?” Are they not all ministering spirits sent to serve,\nfor the sake of those who are to inherit salvation. Therefore, we must attend all the more to what we have heard, so that\nwe may not be carried away. For if the word announced through angels proved firm, and every transgression and\ndisobedience received its just recompense, how shall we escape if we ignore so great a salvation? Announced originally\nthrough the Lord, it was confirmed for us by those who had heard."
   },
   "alleluia": {
     "verses": [
       "Verse (5): Your mercies, O Lord, I will sing for ever; from generation to generation I will announce Your truth with",
-      "my mouth."
+      "my mouth.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse (5): For You have said: Mercy shall be built up for ever; in the heavens Your truth shall be prepared.",
+      "Alleluia, Alleluia, Alleluia."
     ]
   },
   "gospel": {
-    "reference": "",
-    "text": "(Mk 2:1-12)\nAt that time, Jesus returned to Capernaum after some days, it became known that he was at home. Many gathered\ntogether so that there was no longer room for them, not even around the door, and he preached the word to them. They\ncame bringing to him a paralytic carried by four men. Unable to get near Jesus because of the crowd, they opened up\nthe roof above him. After they had broken through, they let down the mat on which the paralytic was lying. When Jesus\nsaw their faith, he said to the paralytic, “Child, your sins are forgiven.” Now some of the scribes were sitting there\nasking themselves, “Why does this man speak that way? He is blaspheming. Who but God alone can forgive sins?”\nJesus immediately knew in his mind what they were thinking to themselves, so he said, “Why are you thinking such\nthings in your hearts? Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, pick up your\nmat, and walk’? But that you may know that the Son of Man has authority to forgive sins on earth” he said to the\nparalytic, “I say to you, rise, pick up your mat, and go home.” He rose, picked up his mat at once, and went away in the\nsight of everyone. They were all astounded and glorified God, saying, “We have never seen anything like this.”\nIt is truly right... (Or the Hirmos of the Feast):\nIn you, O Woman Full of Grace, the angelic choirs and the human race - all creation - rejoices. O Sanctified Temple,\nMystical Paradise, and Glory of Virgins! He, Who is our God from before all ages took flesh from you and became a\nchild. He made your womb a throne, and greater than the heavens. In you, O Woman Full of Grace, all creation\nrejoices. All praise be to you!"
+    "reference": "Mk 2:1-12",
+    "text": "At that time, Jesus returned to Capernaum after some days, it became known that he was at home. Many gathered\ntogether so that there was no longer room for them, not even around the door, and he preached the word to them. They\ncame bringing to him a paralytic carried by four men. Unable to get near Jesus because of the crowd, they opened up\nthe roof above him. After they had broken through, they let down the mat on which the paralytic was lying. When Jesus\nsaw their faith, he said to the paralytic, “Child, your sins are forgiven.” Now some of the scribes were sitting there\nasking themselves, “Why does this man speak that way? He is blaspheming. Who but God alone can forgive sins?”\nJesus immediately knew in his mind what they were thinking to themselves, so he said, “Why are you thinking such\nthings in your hearts? Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, pick up your\nmat, and walk’? But that you may know that the Son of Man has authority to forgive sins on earth” he said to the\nparalytic, “I say to you, rise, pick up your mat, and go home.” He rose, picked up his mat at once, and went away in the\nsight of everyone. They were all astounded and glorified God, saying, “We have never seen anything like this.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.",
-  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-04-01T02:40:42.813Z"
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "In you, O Woman Full of Grace, the angelic choirs and the human race - all creation - rejoices. O Sanctified Temple,\nMystical Paradise, and Glory of Virgins! He, Who is our God from before all ages took flesh from you and became a\nchild. He made your womb a throne, and greater than the heavens. In you, O Woman Full of Grace, all creation\nrejoices. All praise be to you!"
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 5
 }
