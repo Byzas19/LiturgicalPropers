@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T07:09:10.626Z",
+  "lastUpdated": "2026-05-08T06:50:06.131Z",
   "sundays": [
     {
       "date": "2017-06-03",
@@ -1844,6 +1844,26 @@
     {
       "date": "2026-04-26",
       "title": "SUNDAY OF THE PARALYTIC\n(Fourth Paschal Sunday)"
+    },
+    {
+      "date": "2026-05-03",
+      "title": "SUNDAY OF THE SAMARITAN WOMEN\n(Fifth Paschal Sunday)"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "SUNDAY OF THE MAN BORN BLIND\n(Sixth Paschal Sunday)"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "THE ASCENSION OF OUR LORD JESUS CHRIST"
+    },
+    {
+      "date": "2026-05-17",
+      "title": "SUNDAY OF THE HOLY FATHERS OF THE NICENE COUNCIL\n(Seventh Paschal Sunday)"
+    },
+    {
+      "date": "2026-05-24",
+      "title": "FEAST OF PENTECOST"
     }
   ]
 }
