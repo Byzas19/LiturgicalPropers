@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T07:23:19.335Z",
+  "lastUpdated": "2026-05-19T07:30:20.776Z",
   "sundays": [
     {
       "date": "2017-06-03",
@@ -1864,6 +1864,26 @@
     {
       "date": "2026-05-24",
       "title": "FEAST OF PENTECOST"
+    },
+    {
+      "date": "2026-05-31",
+      "title": "FIRST SUNDAY AFTER PENTECOST\n(Sunday Of All Saints)"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "SECOND SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "THIRD SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "FOURTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "FIFTH SUNDAY AFTER PENTECOST"
     }
   ]
 }
