@@ -1,23 +1,43 @@
 {
-  "id": "2025-08-31",
-  "date": "2025-08-31",
-  "liturgicalTitle": "TWELFTH SUNDAY AFTER PENTECOST",
+  "id": "2026-08-16",
+  "date": "2026-08-16",
+  "liturgicalTitle": "TWELFTH SUNDAY AFTER PENTECOST\nPOSTFEAST OF THE DORMITION OF THE MOTHER OF GOD",
   "troparia": [
     {
       "label": "Troparion (3)",
-      "text": "Let the heavens be glad, let the earth rejoice, for the Lord has done a mighty deed with His arm. He\ntrampled death by death; He became the firstborn of the dead; He saved us from the abyss of Hades and granted great\nmercy to the world.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "text": "Let the heavens be glad, let the earth rejoice, for the Lord has done a mighty deed with His arm. He\ntrampled death by death; He became the firstborn of the dead; He saved us from the abyss of Hades and granted great\nmercy to the world.",
       "tone": 3
+    },
+    {
+      "label": "Troparion (2)",
+      "text": "We bow before Your sacred image, O gracious Lord, and beg forgiveness for our offenses, O Christ\nour God; for You, of Your own will, deigned to ascend the cross in Your human nature to deliver from bondage under\nthe enemy, those whom You created. Therefore, we gratefully cry out to You: Through Your coming to save the world,\nO Savior, You have filled all with joy.",
+      "tone": 2
+    },
+    {
+      "label": "Troparion (1)",
+      "text": "O Mother of God, in giving birth You still preserved virginity; and in your falling-asleep you did not\nforsake the world. You are the Mother of Life and have been transferred to life and through your prayers have delivered\nour souls from death.",
+      "tone": 1
     }
   ],
   "kondakia": [
     {
       "label": "Kontakion (3)",
-      "text": "You rose from the tomb, O compassionate Lord, and led us out from the gates of death. Today Adam\nexults and Eve rejoices, and the prophets together with the patriarchs unceasingly acclaim the divine might of Your\npower.\nNow and for ever and ever: Amen.\nTheotokion (3): Today the Virgin stands before us in the church, and together with the choirs of saints invisibly prays\nto God for us. Angels are worshipping with hierarchs; apostles exult with prophets, for the Mother of God prays in our\nbehalf to the eternal God.",
+      "text": "You rose from the tomb, O compassionate Lord, and led us out from the gates of death. Today Adam\nexults and Eve rejoices, and the prophets together with the patriarchs unceasingly acclaim the divine might of Your\npower.\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
       "tone": 3
+    },
+    {
+      "label": "Kontakion (8)",
+      "text": "O Mother of God, through you, in the incarnation, the indescribable Word of God became describable;\nfor through the divine goodness, the Word spoken from eternity became an image. May we, who believe in salvation,\nclothe ourselves in the same image both in word and deed.\nNow and for ever and ever: Amen.",
+      "tone": 8
+    },
+    {
+      "label": "Kontakion (2)",
+      "text": "The grave and death did not detain the Mother of God. She prays perpetually and is our unfailing hope\nof intercession; for He Who dwelt in the womb of the ever-Virgin, transferred to life the Mother of Life.",
+      "tone": 2
     }
   ],
   "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
-  "lastUpdated": "2026-08-14T07:43:34.086Z",
+  "lastUpdated": "2026-08-14T07:43:30.651Z",
   "prokeimenon": {
     "text": "Prokimenon (3): Sing to our God, sing; sing to our King, sing.\nProkimenon (3): Sing to our God, sing; sing to our King, sing.",
     "verse": "Verse: Clap your hands, all you nations; shout unto God with the voice of joy."
@@ -38,6 +58,10 @@
     "reference": "Mt 19:16-26",
     "text": "At that time, someone approached Jesus and said, “Teacher, what good must I do to gain eternal life?” He answered\nhim, “Why do you ask me about the good? There is only One who is good. If you wish to enter into life, keep the\ncommandments.” He asked him, “Which ones?” And Jesus replied, “‘You shall not kill; you shall not commit adultery;\nyou shall not steal; you shall not bear false witness; honor your father and your mother’; and ‘you shall love your\nneighbor as yourself.’” The young man said to him, “All these I have observed. What do I still lack?” Jesus said to him,\n“If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then\ncome, follow me.” When the young man heard this statement, he went away sad, for he had many possessions. Then\nJesus said to his disciples, “Amen, I say to you, it will be hard for one who is rich to enter the kingdom of heaven.\nAgain I say to you, it is easier for a camel to pass through the eye of a needle than for one who is rich to enter the\nkingdom of God.” When the disciples heard this, they were greatly astonished and said, “Who then can be saved?”\nJesus looked at them and said, “For human beings this is impossible, but for God all things are possible.”"
   },
-  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nAlleluia, Alleluia, Alleluia.",
+  "hirmos": {
+    "title": "It is truly right… (Or the Hirmos of the Feast)",
+    "text": "Seeing the dormition of the most Pure One, the angels were filled with awe at how the Virgin went from earth to\nheaven.\nHirmos: In you, O Pure Virgin, the laws of nature were overcome: in giving birth you remained a virgin and in your\ndeath heralded life. You remained a virgin after giving birth and remained alive after death, always saving your\ndescendants, O Mother of God."
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nI will take the chalice of salvation and call on the name of the Lord.\nAlleluia, Alleluia, Alleluia.",
   "tone": 3
 }
