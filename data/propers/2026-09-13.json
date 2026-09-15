@@ -1,0 +1,67 @@
+{
+  "id": "2026-09-13",
+  "date": "2026-09-13",
+  "liturgicalTitle": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS\nCommemoration of the Dedication of the Holy Church of the Resurrection of Christ Our God.",
+  "troparia": [
+    {
+      "label": "Troparion (7)",
+      "text": "By Your cross You destroyed death; You opened Paradise to the thief; You changed the lamentation of the myrrh-\nbearers to joy, and charged the apostles to proclaim that You are risen, O Christ our God, offering great mercy to the world.",
+      "tone": 7
+    },
+    {
+      "label": "Troparion (4)",
+      "text": "As the priceless beauty residing within the divine image of the tabernacle, thus outwardly you manifested the holy\nglory of your temple O Lord. Establish it for the ages of ages, and accept, through the prayers of the Theotokos, our supplications,\nwhich we unceasingly offer to You, O Life and Resurrection of all.",
+      "tone": 4
+    },
+    {
+      "label": "Troparion (4)",
+      "text": "We offer You the life-giving Cross, O Lord, as a means of intercession, and as a sign of Your bounty which You\nhave given to us in spite of our unworthiness. Save our country and Your people who offer You their supplications through Your\nMother. for You alone are the Lover of Mankind.",
+      "tone": 4
+    }
+  ],
+  "kondakia": [
+    {
+      "label": "Kontakion (7)",
+      "text": "No longer shall the dominion of death be able to hold humanity, for Christ went down shattering and destroying\nits powers. Hades is bound. The prophets exult with one voice: The Savior has come for those with faith, saying: Come forth, O\nfaithful, to the resurrection!\nGlory be to the Father, and to the Son, and to the Holy Spirit.",
+      "tone": 7
+    },
+    {
+      "label": "Kontakion (4)",
+      "text": "The Church has revealed itself as a majestic heaven, illuminating all the faithful. Standing within it, let us cry out:\nEstablish this house, O Lord.\nNow and for ever and ever: Amen.",
+      "tone": 4
+    },
+    {
+      "label": "Kontakion (8)",
+      "text": "Today we see the saving tree which blossomed from earthly seed. It is lifted up in the Church by the hands of the\nHierarch. The universe adores and greets it with awe. Save us by it, O Lord.",
+      "tone": 8
+    }
+  ],
+  "pdfSourceUrl": "https://www.stamforddio.org/liturgical-propers",
+  "lastUpdated": "2026-09-15T11:34:23.960Z",
+  "prokeimenon": {
+    "text": "Prokimenon (6): Save Your people, O Lord, and bless Your inheritance.\nProkimenon (4): Holiness befits your house, O Lord, for length of days.",
+    "verse": "Verse: To You, O Lord, I call; my God, be not deaf to me."
+  },
+  "epistle": {
+    "reference": "Gal 6:11-18",
+    "text": "Reading of the Epistle of St. Paul to the Galations.\n(Gal 6:11-18)\nBrethren: See with what large letters I am writing to you in my own hand! It is those who want to make a good appearance in the\nflesh who are trying to compel you to have yourselves circumcised, only that they may not be persecuted for the cross of Christ.\nNot even those having themselves circumcised observe the law themselves; they only want you to be circumcised so that they may\nboast of your flesh. But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified\nto me, and I to the world. For neither does circumcision mean anything, nor does uncircumcision, but only a new creation. Peace\nand mercy be to all who follow this rule and to the Israel of God. From now on, let no one make troubles for me; for I bear the\nmarks of Jesus on my body. The grace of our Lord Jesus Christ be with your spirit, brothers. Amen."
+  },
+  "alleluia": {
+    "verses": [
+      "Verse: I have exalted one chosen from the people; and with My holy oil, I have anointed him.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: My hand shall always be with him, and My arm shall make him strong.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: His city is founded on the holy mountain.",
+      "Alleluia, Alleluia, Alleluia.",
+      "Verse: He has glorious predictions to make of you, city of God!",
+      "Alleluia, Alleluia, Alleluia."
+    ]
+  },
+  "gospel": {
+    "reference": "Jn 3:13-17",
+    "text": "The Lord said, “No one has gone up to heaven except the one who has come down from heaven, the Son of Man. And just as\nMoses lifted up the serpent in the desert, so must the Son of Man be lifted up, so that everyone who believes in him may have\neternal life. For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but\nmight have eternal life. For God did not send his Son into the world to condemn the world, but that the world might be saved\nthrough him.”"
+  },
+  "communionHymn": "Praise the Lord from the heavens; praise Him in the highest.\nI have loved, O Lord, the beauty of Your house; and the place where Your glory dwells.\nAlleluia, Alleluia, Alleluia.",
+  "tone": 7
+}

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T11:05:21.149Z",
+  "lastUpdated": "2026-09-15T11:34:45.079Z",
   "sundays": [
     {
       "date": "2017-06-03",
@@ -1924,6 +1924,18 @@
     {
       "date": "2026-09-06",
       "title": "FIFTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "SUNDAY BEFORE THE EXALTATION OF THE HOLY CROSS\nCommemoration of the Dedication of the Holy Church of the Resurrection of Christ Our God."
+    },
+    {
+      "date": "2026-09-20",
+      "title": "SUNDAY AFTER THE EXALTATION OF THE HOLY CROSS"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
     }
   ]
 }
