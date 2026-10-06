@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T12:21:28.951Z",
+  "lastUpdated": "2026-10-06T13:12:43.405Z",
   "sundays": [
     {
       "date": "2017-06-03",
@@ -1936,6 +1936,22 @@
     {
       "date": "2026-09-27",
       "title": "EIGHTEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "NINETEENTH SUNDAY AFTER PENTECOST"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "TWENTIETH SUNDAY AFTER PENTECOST\nth\nSUNDAY OF THE HOLY FATHERS OF THE 7 ECUMENICAL COUNCIL"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST\nTHE HOLY APOSTLE AND EVANGELIST LUKE"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "TWENTY-SECOND SUNDAY AFTER PENTECOST"
     }
   ]
 }
